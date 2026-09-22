@@ -14,7 +14,9 @@ document.addEventListener('DOMContentLoaded', () => {
 function setupEventListeners() {
   // Filter buttons
   document.querySelectorAll('.filter-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
+    btn.addEventListener('click', (e) => {
+      // Don't trigger category change for random button
+      if (btn.id === 'randomBtn') return;
       document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       activeCategory = btn.dataset.category;
