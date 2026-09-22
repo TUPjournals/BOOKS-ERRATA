@@ -1,4 +1,4 @@
-// Book Copyediting Error Analysis - Main JavaScript
+// Book Copyediting Error Analysis - Mobile First JavaScript
 
 // State
 let activeCategory = 'all';
@@ -7,6 +7,7 @@ let activeCategory = 'all';
 document.addEventListener('DOMContentLoaded', () => {
   renderEntries();
   setupEventListeners();
+  setupScrollToTop();
 });
 
 function setupEventListeners() {
@@ -18,6 +19,50 @@ function setupEventListeners() {
       activeCategory = btn.dataset.category;
       renderEntries();
     });
+  });
+}
+
+function setupScrollToTop() {
+  // Simple back-to-top button for mobile
+  let backTop = document.createElement('button');
+  backTop.id = 'backToTop';
+  backTop.innerHTML = '↑';
+  backTop.style.cssText = `
+    position: fixed;
+    bottom: 24px;
+    right: 16px;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    background: var(--primary);
+    color: #fff;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(230,126,34,0.3);
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.3s, transform 0.3s;
+    z-index: 98;
+    touch-action: manipulation;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  `;
+  document.body.appendChild(backTop);
+  
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 300) {
+      backTop.style.opacity = '1';
+      backTop.style.transform = 'translateY(0)';
+    } else {
+      backTop.style.opacity = '0';
+      backTop.style.transform = 'translateY(20px)';
+    }
+  }, { passive: true });
+  
+  backTop.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 }
 
