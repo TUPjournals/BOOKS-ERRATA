@@ -102,7 +102,7 @@ function renderEntries() {
           <span class="entry-id">${entry.id}</span>
           <span class="entry-category">${entry.category}</span>
         </div>
-        <div class="entry-error">${formatErrorText(entry.error)}</div>
+        <div class="entry-error">${renderHighlightedText(entry)}</div>
         ${entry.analysis ? `<div class="entry-analysis">${entry.analysis}</div>` : ''}
       </div>
     `;
@@ -112,10 +112,25 @@ function renderEntries() {
   main.innerHTML = html;
 }
 
-function formatErrorText(text) {
+function renderHighlightedText(entry) {
+  let text = entry.error || '';
   if (!text) return '';
-  return text
-    .replace(/(应改为|可改为)/g, '<span style="color: #d32f2f; font-weight: 600;">$1</span>')
-    .replace(/(删除|删去)/g, '<span style="color: #d32f2f; font-weight: 600;">$1</span>')
-    .replace(/(〖简析〗)/, '<span style="color: var(--primary); font-weight: 600;">$1</span>');
+  
+  // Sort highlighted words by length (longest first) to avoid partial replacements
+  const highlighted = [...(entry.highlighted_words || [])].sort((a, b) => b.length - a.length);
+  
+  for (const word of highlighted) {
+    // Escape special regex characters
+    const escaped = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    // Replace the highlighted word with a blue span
+    const regex = new RegExp(escaped, 'g');
+    text = text.replace(regex, '<span class="highlight-word">$&\</span>');
+  }
+  
+  // Also highlight modification patterns
+  text = text
+    .replace(/(应改为|可改为)/g, '<span class="mod-word">$1</span>')
+    .replace(/(删除|删去)/g, '<span class="mod-word">$1</span>');
+  
+  return text;
 }

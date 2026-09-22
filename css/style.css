@@ -146,6 +146,14 @@ body {
   margin-bottom: 8px;
   word-break: break-word;
 }
+.highlight-word {
+  color: #1565c0;
+  font-weight: 600;
+}
+.mod-word {
+  color: #d32f2f;
+  font-weight: 600;
+}
 .entry-analysis {
   font-size: 0.88rem;
   color: var(--text-muted);
