@@ -186,7 +186,14 @@ body {
   color: var(--primary-dark);
 }
 
-/* Entry List */
+/* Results Info */
+.results-info {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--border);
+}
 .entry-list { margin-top: 24px; }
 .entry-item {
   background: var(--card);
