@@ -7,50 +7,50 @@ const BOOK_DATA = [
       "文科类": [
         {
           "id": "1-1",
-          "error": "2018 年 9 月，国务院印发《关于推动创新创业高质量发展打造“双创”升级版的意",
-          "analysis": "",
+          "error": "2018 年 9 月，国务院印发《关于推动创新创业高质量发展打造“双创”升级版的意 见》，指出以习近平时代中国特色社会主义思想为指导，按照高质量发展要求，深入实施创新驱动发 展战略，并强调要强化大学生创新创业教育培训。（应改为“习近平新时代中国特色社会主义思想”）",
+          "analysis": "政治术语的表达应准确无误。中国共产党第十九次全国代表大会，把习近平新时代中 国特色社会主义思想确立为党必须长期坚持的指导思想并庄严地写入党章，实现了党的指导思想的 与时俱进。",
           "raw": "【例 1-1】2018 年 9 月，国务院印发《关于推动创新创业高质量发展打造“双创”升级版的意"
         },
         {
           "id": "1-2",
-          "error": "作为全国首个经济特区，深圳借助先行先试的发展优势，从小渔村跻身为国际城市。",
-          "analysis": "",
+          "error": "作为全国首个经济特区，深圳借助先行先试的发展优势，从小渔村跻身为国际城市。 近年，深圳又获得“社会主义先行示范区”的荣誉。（应改为“中国特色社会主义先行示范区”）",
+          "analysis": "根据《中共中央 国务院关于支持深圳建设中国特色社会主义先行示范区的意见》：“中 国特色社会主义进入新时代，支持深圳高举新时代改革开放旗帜、建设中国特色社会主义先行示范 区，有利于在更高起点、更高层次、更高目标上推进改革开放，形成全面深化改革、全面扩大开放 新格局。”此例省略“中国特色”不规范。",
           "raw": "【例 1-2】作为全国首个经济特区，深圳借助先行先试的发展优势，从小渔村跻身为国际城市。"
         },
         {
           "id": "1-3",
-          "error": "“三全育人”是习近平总书记在全国思想政治教育会议上提出的育人理念，是高校坚",
-          "analysis": "",
+          "error": "“三全育人”是习近平总书记在全国思想政治教育会议上提出的育人理念，是高校坚 持立德树人面向未来培养优秀的社会主义事业接班人的重要策略。（应改为“全国高校思想政治工作 会议”）",
+          "analysis": "“三全育人”是习近平总书记在 2016 年全国高校思想政治工作会议讲话中提出的。此 例中将“全国高校思想政治工作会议”误为“全国思想政治教育会议”，使读者无从检索出处。对于 此类讲话，最好同时注明时间。 二、词语使用不规范",
           "raw": "【例 1-3】“三全育人”是习近平总书记在全国思想政治教育会议上提出的育人理念，是高校坚"
         },
         {
           "id": "1-4",
           "error": "美国第 16 届总统林肯曾是一名辩护律师。（应改为“任”）",
-          "analysis": "",
+          "analysis": "“届”作为量词，略同于“次”或“回”。根据美国宪法规定，美国总统任期四年，可 以连任一届。因有连任的情况，所以“届”和“任”并非完全等同，林肯是第 16 任（19 届）总统。",
           "raw": "【例 1-4】美国第 16 届总统林肯曾是一名辩护律师。（应改为“任”）"
         },
         {
           "id": "1-5",
-          "error": "自 1949 年以来，上海一直都是中国内地经济第一大市。虽然香港后来居上，但在改",
-          "analysis": "",
+          "error": "自 1949 年以来，上海一直都是中国内地经济第一大市。虽然香港后来居上，但在改 革开放之后，上海一路追赶，直到 2009 年，上海生产总值首次反超香港。（应改为“中国”）",
+          "analysis": "“香港”与“内地”为对应概念，但并非所有出现“香港”的地方都需要用“内地”或 在“中国”后加“内地”，应根据语义判断。根据文意，此例中“中国”包含香港，故“中国内地” 应改为“中国”。 三、表义重复",
           "raw": "【例 1-5】自 1949 年以来，上海一直都是中国内地经济第一大市。虽然香港后来居上，但在改"
         },
         {
           "id": "1-6",
-          "error": "科学传播通常被认为是正确的事情，科学传播的道德德性被普遍地认为是毋庸置疑",
-          "analysis": "",
+          "error": "科学传播通常被认为是正确的事情，科学传播的道德德性被普遍地认为是毋庸置疑 的，并且这种道德上的立足点以一种根本的方式诉诸于知识的道德价值。（应删“于”）",
+          "analysis": "“诉诸”意为求之于、求助于，“于”与其重复，应删除。",
           "raw": "【例 1-6】科学传播通常被认为是正确的事情，科学传播的道德德性被普遍地认为是毋庸置疑"
         },
         {
           "id": "1-7",
-          "error": "在社会层面上保持无知一直以来都是被允许的吗？甚至是否是可取的？（应改为“是",
-          "analysis": "",
+          "error": "在社会层面上保持无知一直以来都是被允许的吗？甚至是否是可取的？（应改为“是 不是”）",
+          "analysis": "“是否”意为是不是，“是否是”的后一个“是”多余，此例中应改为“是不是”。",
           "raw": "【例 1-7】在社会层面上保持无知一直以来都是被允许的吗？甚至是否是可取的？（应改为“是"
         },
         {
           "id": "1-8",
-          "error": "物联网为城市共享服务和运营管理提供基础底层资源，进而不断提高公共服务水平",
-          "analysis": "",
+          "error": "物联网为城市共享服务和运营管理提供基础底层资源，进而不断提高公共服务水平 以及城市管理的效率。（应删“底层”）",
+          "analysis": "“基础”指建筑物的根脚；事物发展的根本或起点。“底层”指建筑物地面上最底下的 一层，泛指事物最下面的部分；社会、组织等的最低阶层。此例中“基础”与“底层”意重，应删 其一。",
           "raw": "【例 1-8】物联网为城市共享服务和运营管理提供基础底层资源，进而不断提高公共服务水平"
         }
       ],
@@ -58,141 +58,141 @@ const BOOK_DATA = [
         {
           "id": "2-1",
           "error": "",
-          "analysis": "",
+          "analysis": "违背文化常识、时间差错。《论语》是春秋时期思想家、教育家孔子的弟子及再传弟子 记录孔子及其弟子言行而编成的语录文集，成书于战国前期，距今两千多年。",
           "raw": "【例 2-1】"
         },
         {
           "id": "2-2",
           "error": "",
-          "analysis": "",
+          "analysis": "违背科学常识。目前最低在轨卫星与地球表面的距离为 120 千米，本例中的高度值显 然有误。人造卫星按运行轨道大致分为：低轨道卫星（高度为 200～2000 千米）、中高轨道卫星（高 度为 2000～20000 多千米）、地球同步轨道卫星（高度约为 36000 千米）。GPS 的卫星属于中高轨道 卫星，其平均轨道高度为 20200 千米。",
           "raw": "【例 2-2】"
         },
         {
           "id": "2-3",
           "error": "",
-          "analysis": "",
+          "analysis": "定义错误。平衡常数的定义为：在一定温度下，当一个可逆反应达到化学平衡时，生 成物浓度幂之积与反应物浓度幂之积的比值是一个常数，这个常数就是该反应的化学平衡常数（简 称平衡常数），用符号 K 表示。由定义知，K 是一个比值。 二、文字差错",
           "raw": "【例 2-3】"
         },
         {
           "id": "2-4",
           "error": "",
-          "analysis": "",
+          "analysis": "音近字。“百钱百鸡”问题是一个非常经典的不定方程问题，最早源于我国古代的《算 经》，是古代著名数学家张丘建首次提出的。该问题现在经常出现于算法类图书中。",
           "raw": "【例 2-4】"
         },
         {
           "id": "2-5",
           "error": "",
-          "analysis": "",
+          "analysis": "词语误用。组成矩阵的每一个数称为矩阵的元素，故此例中位于矩阵对角线上的数也 是元素。",
           "raw": "【例 2-5】"
         },
         {
           "id": "2-6",
           "error": "",
-          "analysis": "",
+          "analysis": "前后颠倒字。本例中的“变量”是计算机科学技术名词。根据上下文，新建变量后， 要给“变量”赋值，故“变此量”应是“此变量”之误。",
           "raw": "【例 2-6】"
         },
         {
           "id": "2-7",
           "error": "",
-          "analysis": "",
+          "analysis": "外文拼写错误。编程类图书中很多内容涉及英文（如代码），它们有特定的含义和功能， 出现拼写错误可能会影响操作。",
           "raw": "【例 2-7】"
         },
         {
           "id": "2-8",
           "error": "",
-          "analysis": "",
+          "analysis": "用词不当。“翘首”是动词，指抬起头来向远处看；“翘楚”是名词，用来比喻杰出的 人才或事物。",
           "raw": "【例 2-8】"
         },
         {
           "id": "2-9",
           "error": "",
-          "analysis": "",
+          "analysis": "字母黑白体误用。在本例中，角速度 ω 是矢量，应是黑斜体。 三、计算、解题错误",
           "raw": "【例 2-9】"
         },
         {
           "id": "2-10",
           "error": "",
-          "analysis": "",
+          "analysis": "程序错误。本例中的语句 if(i%3==0)的意思是“如果一个整数可以被 3 整除”，而实际 想表达的意思是“如果一个整数除以 10 的余数为 3”（判断一个整数的个位数字是不是 3，可以求该 数除以 10 的余数，若余数是 3，即可知个位数字为 3），两条语句的意思完全不同。",
           "raw": "【例 2-10】"
         },
         {
           "id": "2-11",
           "error": "",
-          "analysis": "",
+          "analysis": "解题过程错误。本例前半部分的分析正确，但后面的公式推导过程表述不清，运用动 量定理得到的公式也是错误的。",
           "raw": "【例 2-11】"
         },
         {
           "id": "2-12",
           "error": "",
-          "analysis": "",
+          "analysis": "计算错误。本例中等号两边的值不相等，计算过程出现差错，0.04a/3.7=4a/370。",
           "raw": "【例 2-12】"
         },
         {
           "id": "2-13",
           "error": "",
-          "analysis": "",
+          "analysis": "化学方程式有误。本例中的化学方程式未配平。",
           "raw": "【例 2-13】"
         }
       ],
       "外语类": [
         {
           "id": "3-1",
-          "error": "In dreams, a window opens a world where logic is suspended and dead people speak.",
-          "analysis": "",
+          "error": "In dreams, a window opens a world where logic is suspended and dead people speak. 该句 where 后引导一个地点状语从句。（应改为“定语从句”）",
+          "analysis": "where 前有先行词 a world，所以 where 引导的不是地点状语从句，而是定语从句。",
           "raw": "【例 3-1】In dreams, a window opens a world where logic is suspended and dead people speak."
         },
         {
           "id": "3-2",
           "error": "It sounds nice but requires deliberately planning. （应改为“deliberate”）",
-          "analysis": "",
+          "analysis": "planning 为名词，应该用形容词修饰，所以将 deliberately 改为 deliberate。",
           "raw": "【例 3-2】It sounds nice but requires deliberately planning. （应改为“deliberate”）"
         },
         {
           "id": "3-3",
           "error": "The flight attendants on CRJ-200 stands near the boarding gate. （应改为“stand”）",
-          "analysis": "",
+          "analysis": "主谓不一致。本句主语为 the flight attendants，谓语动词应该用 stand。",
           "raw": "【例 3-3】The flight attendants on CRJ-200 stands near the boarding gate. （应改为“stand”）"
         },
         {
           "id": "3-4",
           "error": "The passenger may be in a mood when they go aboard. （应改为“passengers”）",
-          "analysis": "",
+          "analysis": "本句中，主句的主语和从句的主语应保持一致。",
           "raw": "【例 3-4】The passenger may be in a mood when they go aboard. （应改为“passengers”）"
         },
         {
           "id": "3-5",
           "error": "The flight attendants are dedicated to provide good service. （应改为“providing”）",
-          "analysis": "",
+          "analysis": "此句中 to 是介词，后跟名词、代词或动名词，所以将 provide 改为 providing。 二、文字差错",
           "raw": "【例 3-5】The flight attendants are dedicated to provide good service. （应改为“providing”）"
         },
         {
           "id": "3-6",
           "error": "They planed that the two routes would connect. （应改为“planned”）",
-          "analysis": "",
+          "analysis": "动词 plan 的过去式为 planned，需要双写 n。",
           "raw": "【例 3-6】They planed that the two routes would connect. （应改为“planned”）"
         },
         {
           "id": "3-7",
           "error": "Xi’an is the capital of Shanxi Province. （应改为“Shannxi”）",
-          "analysis": "",
+          "analysis": "陕西的英文名称为 Shannxi，与山西（Shanxi）区分。",
           "raw": "【例 3-7】Xi’an is the capital of Shanxi Province. （应改为“Shannxi”）"
         },
         {
           "id": "3-8",
           "error": "The aircraft swerves of the runway. （应改为“off”）",
-          "analysis": "",
+          "analysis": "swerve 在句中为不及物动词。swerve off the runway 意为“突然转向冲出跑道”。",
           "raw": "【例 3-8】The aircraft swerves of the runway. （应改为“off”）"
         },
         {
           "id": "3-9",
-          "error": "Fight attendants should adjust the light and temperature appropriately. （应改为",
-          "analysis": "",
+          "error": "Fight attendants should adjust the light and temperature appropriately. （应改为 “Flight”）",
+          "analysis": "根据上下文，此处 Fight 为 Flight 的笔误。",
           "raw": "【例 3-9】Fight attendants should adjust the light and temperature appropriately. （应改为"
         },
         {
           "id": "3-10",
-          "error": "The preflight briefing is usually organized by the cabin purser, who introduces flight",
-          "analysis": "",
+          "error": "The preflight briefing is usually organized by the cabin purser, who introduces flight number, air route, flight number, departure time, and so on. （删除“flight number”）",
+          "analysis": "此处 flight number 与前文重复，应删除。",
           "raw": "【例 3-10】The preflight briefing is usually organized by the cabin purser, who introduces flight"
         }
       ],
@@ -211,7 +211,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-3",
-          "error": "词语搭配不当，“速度高”应改为“速度快”。",
+          "error": "词语搭配不当，“速度高”应改为“速度快”。 二、计算类差错",
           "analysis": "",
           "raw": "【例 4-3】词语搭配不当，“速度高”应改为“速度快”。"
         },
@@ -229,7 +229,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-6",
-          "error": "二进制转换成十六进制结果有误，应为“（1C6.C）16”。",
+          "error": "二进制转换成十六进制结果有误，应为“（1C6.C）16”。 三、文字差错",
           "analysis": "",
           "raw": "【例 4-6】二进制转换成十六进制结果有误，应为“（1C6.C）16”。"
         },
@@ -265,7 +265,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-12",
-          "error": "“去世”应为“趋势”。",
+          "error": "“去世”应为“趋势”。 四、程序差错",
           "analysis": "",
           "raw": "【例 4-12】“去世”应为“趋势”。"
         },
@@ -277,7 +277,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-14",
-          "error": "代码重复。",
+          "error": "代码重复。 五、插图和表格差错",
           "analysis": "",
           "raw": "【例 4-14】代码重复。"
         },
@@ -310,38 +310,38 @@ const BOOK_DATA = [
       "文科类": [
         {
           "id": "1-1",
-          "error": "纵观经济、社会、生态和民生四大领域，经济运行稳中有进，改革开放取得新突破；",
-          "analysis": "",
+          "error": "纵观经济、社会、生态和民生四大领域，经济运行稳中有进，改革开放取得新突破； 社会发展和谐稳定，人民群众安居乐业；生态文明建设扎实推进，污染防治落实到位；民生福祉持续 提升，人民生活美好需要得到更好满足。（应改为“美好生活需要”）",
+          "analysis": "党的十九大报告指出：“中国特色社会主义进入新时代，我国社会主要矛盾已经转化为 人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾。”“美好生活需要”作为规范表述， 不应错。",
           "raw": "【例 1-1】纵观经济、社会、生态和民生四大领域，经济运行稳中有进，改革开放取得新突破；"
         },
         {
           "id": "1-2",
-          "error": "1959—1961 年三年自然灾害时期，对“大跃进”造成的经济失调，党中央试图调整城",
-          "analysis": "",
+          "error": "1959—1961 年三年自然灾害时期，对“大跃进”造成的经济失调，党中央试图调整城 市人口、下马原有项目，提出了“调整、巩固、充实、提高”的方针。（应改为“三年严重困难”）",
+          "analysis": "关于 1959 年至 1961 年期间的严重困难，党的十一届六中全会通过的《关于建国以来党 的若干历史问题的决议》中已明确指出，党中央的决策失误是主要原因，“自然灾害”是次要原因。 因此，该时期的严重困难不应再称“三年自然灾害”，而应改称“三年严重困难”。",
           "raw": "【例 1-2】1959—1961 年三年自然灾害时期，对“大跃进”造成的经济失调，党中央试图调整城"
         },
         {
           "id": "1-3",
-          "error": "营造学社以朱启钤任社长，并称当时中国建筑界的“北梁南刘”的梁思成与刘敦桢分",
-          "analysis": "",
+          "error": "营造学社以朱启钤任社长，并称当时中国建筑界的“北梁南刘”的梁思成与刘敦桢分 别担任法式组、文献组主任，并于成立伊始至 1937 年抗战爆发期间，遍访全国各地的古建筑。（应改 为“1937 年抗战全面爆发”）",
+          "analysis": "1931 年九一八事变是日本侵华战争的开端，也是中国人民十四年抗战的开端。1937 年 7 月 7 日，日本帝国主义在卢沟桥发起进攻，中国军队予以还击，从此中国人民开始了全面的抗日战争。 因此，1937 年应该是抗战全面爆发，相关的正确表述如“十四年抗日战争”“八年全面抗日战争”。 二、标点符号使用差错",
           "raw": "【例 1-3】营造学社以朱启钤任社长，并称当时中国建筑界的“北梁南刘”的梁思成与刘敦桢分"
         },
         {
           "id": "1-4",
-          "error": "习近平总书记“4.19”重要讲话。2016 年 4 月 19 日上午，习近平总书记在京主持召",
-          "analysis": "",
+          "error": "习近平总书记“4.19”重要讲话。2016 年 4 月 19 日上午，习近平总书记在京主持召 开网络安全和信息化工作座谈会并发表重要讲话。（应改为“4•19”）",
+          "analysis": "当以月、日为标志的事件或节日用阿拉伯数字表示时，需要用间隔号将月、日分开，而 且应为半角字符间隔号，并在数字前后加引号。",
           "raw": "【例 1-4】习近平总书记“4.19”重要讲话。2016 年 4 月 19 日上午，习近平总书记在京主持召"
         },
         {
           "id": "1-5",
-          "error": "“文化大革命”时期，我国商学理论的研究受到极大的破坏，刚刚开始的对社会主义",
-          "analysis": "",
+          "error": "“文化大革命”时期，我国商学理论的研究受到极大的破坏，刚刚开始的对社会主义 商业问题的探讨，不但没有进一步深入下去，反而由于受极“左”思想的影响，全面否定了国内商务 理论研究中已取得的成果，倡导了一些极“左”的观点，严重影响和制约了国内的商务实践。（应删 去引号）",
+          "analysis": "所谓极左，也就是把左派的思想推向极端，突破“自由的底线”。作为一个完整的词语， “极左”已是走向极端的意思，本身就不是本质意义上的左，其中的左字不应再加引号。左字加上引 号又冠之以“极”，在语义上不合逻辑。“过左”与“极左”情况相同。",
           "raw": "【例 1-5】“文化大革命”时期，我国商学理论的研究受到极大的破坏，刚刚开始的对社会主义"
         },
         {
           "id": "1-6",
-          "error": "党的十九大报告指出，农业、农村、农民问题是关系国计民生的根本性问题，必须始",
-          "analysis": "",
+          "error": "党的十九大报告指出，农业、农村、农民问题是关系国计民生的根本性问题，必须始 终把解决好“三农”问题作为全党工作重中之重。（应删去顿号）",
+          "analysis": "此句引用的是习近平总书记在党的十九大报告中的内容，应与原文表述保持一致。",
           "raw": "【例 1-6】党的十九大报告指出，农业、农村、农民问题是关系国计民生的根本性问题，必须始"
         }
       ],
@@ -349,141 +349,141 @@ const BOOK_DATA = [
         {
           "id": "2-1",
           "error": "",
-          "analysis": "",
+          "analysis": "违背物理常识。中子和质子的质量都近似等于 1u（原子质量单位），前者略大一点，不 可能比后者重一倍多。",
           "raw": "【例 2-1】"
         },
         {
           "id": "2-2",
           "error": "",
-          "analysis": "",
+          "analysis": "机构名称错误。国家知识产权局商标局，系国家知识产权局所属事业单位，主管全国的 商标注册与管理工作。国家知识产权局由国家市场监督管理总局管理。",
           "raw": "【例 2-2】"
         },
         {
           "id": "2-3",
           "error": "",
-          "analysis": "",
+          "analysis": "时间错误。2021 年 4 月 19 日是微软对外宣布该软件消息的时间，6 月 17 日是该软件正 式发布时间。",
           "raw": "【例 2-3】"
         },
         {
           "id": "2-4",
           "error": "",
-          "analysis": "",
+          "analysis": "概念错误。小肠结肠炎耶尔森菌是一种杆菌，是致病菌而不是病毒。",
           "raw": "【例 2-4】"
         },
         {
           "id": "2-5",
           "error": "",
-          "analysis": "",
+          "analysis": "信息过时。书中提供的网址有问题，存在潜在风险。 二、文字错误",
           "raw": "【例 2-5】"
         },
         {
           "id": "2-6",
           "error": "",
-          "analysis": "",
+          "analysis": "同音字。榔头是敲打东西的工具；樃是古书中说的一种树。",
           "raw": "【例 2-6】"
         },
         {
           "id": "2-7",
           "error": "",
-          "analysis": "",
+          "analysis": "形近字。恢复是变成原样的意思；愎（bì，不读 fù）是固执、乖戾的意思，如刚愎自用。",
           "raw": "【例 2-7】"
         },
         {
           "id": "2-8",
           "error": "",
-          "analysis": "",
+          "analysis": "形近字。地震前由于地应力的变化会引起地下水中氡气含量增加，所以地下水中的氡气 含量（水氡含量）常用作地震监测的指标。",
           "raw": "【例 2-8】"
         },
         {
           "id": "2-9",
           "error": "",
-          "analysis": "",
+          "analysis": "同音字。振动指物体通过一个中心位臵，不断做往复运动。震动指颤动，使颤动；（重 大的事情、消息等）使人心不平静。",
           "raw": "【例 2-9】"
         },
         {
           "id": "2-10",
           "error": "",
-          "analysis": "",
+          "analysis": "漏字。案例中的标准名称不全。实践中遇到此种情况，根据标准号一查便知。 三、图文不一致",
           "raw": "【例 2-10】"
         },
         {
           "id": "2-11",
           "error": "",
-          "analysis": "",
+          "analysis": "图形错误。本案例中需要用中心对称图形的例子，但眼镜是轴对称图形，应换图。中心 对称图形有线段、圆、正偶数边形等。",
           "raw": "【例 2-11】"
         },
         {
           "id": "2-12",
           "error": "",
-          "analysis": "",
+          "analysis": "左右图位臵反。图题中说左边是一级认证标志，右边是二级认证标志。因 GAP+是一级， GAP 是二级，故两图应互换位臵。",
           "raw": "【例 2-12】"
         },
         {
           "id": "2-13",
           "error": "",
-          "analysis": "",
+          "analysis": "图文不符。案例中的文字叙述说明了装配单元的 5 个等级及其装配顺序，但图示的装配 流程混乱无序。",
           "raw": "【例 2-13】"
         }
       ],
       "外语类": [
         {
           "id": "3-1",
-          "error": "The exporter and the importer signs a dealership agreement and the two sides thus establish a",
-          "analysis": "",
+          "error": "The exporter and the importer signs a dealership agreement and the two sides thus establish a buying-selling relationship. （应改为“sign”）",
+          "analysis": "句子的谓语应该和主语 the exporter and the importer 保持一致。",
           "raw": "【例 3-1】The exporter and the importer signs a dealership agreement and the two sides thus establish a"
         },
         {
           "id": "3-2",
-          "error": "The Expo, also known as World’s Fair, which has been organized for 40 times. （应删除",
-          "analysis": "",
+          "error": "The Expo, also known as World’s Fair, which has been organized for 40 times. （应删除 “which”）",
+          "analysis": "原句缺少谓语。句中的 which 为多余成分，应删除。",
           "raw": "【例 3-2】The Expo, also known as World’s Fair, which has been organized for 40 times. （应删除"
         },
         {
           "id": "3-3",
-          "error": "In the early 1980s, foreign investors provide directly, or on the basis of credit, the machinery",
-          "analysis": "",
+          "error": "In the early 1980s, foreign investors provide directly, or on the basis of credit, the machinery and equipment for Chinese enterprises. （应改为“provided”）",
+          "analysis": "原句时态有误。根据 the early 1980s 可知本句应该用过去时，所以将动词改为 provided。",
           "raw": "【例 3-3】In the early 1980s, foreign investors provide directly, or on the basis of credit, the machinery"
         },
         {
           "id": "3-4",
           "error": "It is required that the exporter covers the expense of freight. （应改为“cover”）",
-          "analysis": "",
+          "analysis": "在 require 引导的宾语从句中,从句中的谓语动词用“should +动词原形”, should 可省略， 所以本句中的 covers 应改为原形。",
           "raw": "【例 3-4】It is required that the exporter covers the expense of freight. （应改为“cover”）"
         },
         {
           "id": "3-5",
           "error": "He is going to sell 100 bushel of corns to the buyer. （应改为“bushels”）",
-          "analysis": "",
+          "analysis": "bushel 为容量单位，是可数名词，此处应使用复数形式。",
           "raw": "【例 3-5】He is going to sell 100 bushel of corns to the buyer. （应改为“bushels”）"
         },
         {
           "id": "3-6",
-          "error": "The seller should delivery the cargoes at the point reachable for the tackle of the ship. （应改",
-          "analysis": "",
+          "error": "The seller should delivery the cargoes at the point reachable for the tackle of the ship. （应改 为“deliver”）",
+          "analysis": "本句中 delivery 为名词，无法充当谓语，应改为动词形式 deliver。 二、文字差错",
           "raw": "【例 3-6】The seller should delivery the cargoes at the point reachable for the tackle of the ship. （应改"
         },
         {
           "id": "3-7",
-          "error": "A third-party trading house buys the form’s counter-purchase credits and sells them to another",
-          "analysis": "",
+          "error": "A third-party trading house buys the form’s counter-purchase credits and sells them to another form. （应改为“firm”）",
+          "analysis": "根据句意可知，form（类型）为 firm（公司）的笔误。",
           "raw": "【例 3-7】A third-party trading house buys the form’s counter-purchase credits and sells them to another"
         },
         {
           "id": "3-8",
           "error": "DNA testing is also the latest rage a many passionate genealogists. （应改为“among”）",
-          "analysis": "",
+          "analysis": "根据句子成分判断，many passionate genealogists 之前应该为一个介词。综合句意，可知 a 为 among 的笔误。 三、翻译差错",
           "raw": "【例 3-8】DNA testing is also the latest rage a many passionate genealogists. （应改为“among”）"
         },
         {
           "id": "3-9",
-          "error": "原文：But even then he publicly regretted not his actions but only his decision to conduct his",
-          "analysis": "",
+          "error": "原文：But even then he publicly regretted not his actions but only his decision to conduct his own defense. 译文：即使这时他也没有明显地为自己的行为感到懊悔，他只是决定为自己辩护。（应改为“他 公开表示懊悔的并不是他的这种行为，而是他要为自己辩护的决定。”）",
+          "analysis": "译文不符合原文意思。",
           "raw": "【例 3-9】原文：But even then he publicly regretted not his actions but only his decision to conduct his"
         },
         {
           "id": "3-10",
-          "error": "原文：Rising prices have kept spending up (apples are 15% pricier than a year ago) but that",
-          "analysis": "",
+          "error": "原文：Rising prices have kept spending up (apples are 15% pricier than a year ago) but that cannot persist. 译文：虽然苹果价格在不断上涨（比一年前高出 15%），总销售额得以持平，但这种状况并不能 持久。 [应改为“物价不断上涨（苹果的价格比一年前高出 15%），使得人们的消费支出不断增加。”]",
+          "analysis": "译文不符合原文意思。",
           "raw": "【例 3-10】原文：Rising prices have kept spending up (apples are 15% pricier than a year ago) but that"
         }
       ],
@@ -508,19 +508,19 @@ const BOOK_DATA = [
         },
         {
           "id": "4-4",
-          "error": "“峰恋重叠”应为“峰峦重叠”。",
+          "error": "“峰恋重叠”应为“峰峦重叠”。 二、计算差错",
           "analysis": "",
           "raw": "【例 4-4】“峰恋重叠”应为“峰峦重叠”。"
         },
         {
           "id": "4-5",
-          "error": "“英尺”换算为“米”，41000 英尺应为 12496.8 米。另外，从理论上来说，最大巡",
+          "error": "“英尺”换算为“米”，41000 英尺应为 12496.8 米。另外，从理论上来说，最大巡 航高度应小于最大飞行高度。",
           "analysis": "",
           "raw": "【例 4-5】“英尺”换算为“米”，41000 英尺应为 12496.8 米。另外，从理论上来说，最大巡"
         },
         {
           "id": "4-6",
-          "error": "1.17 应为 1.35。",
+          "error": "1.17 应为 1.35。 三、知识性差错",
           "analysis": "",
           "raw": "【例 4-6】1.17 应为 1.35。"
         },
@@ -532,13 +532,13 @@ const BOOK_DATA = [
         },
         {
           "id": "4-8",
-          "error": "从 10 个球中取出 2 个球，可能性总数应为 (10×9) / 2 = 45（是组合数，不是排列数），",
+          "error": "从 10 个球中取出 2 个球，可能性总数应为 (10×9) / 2 = 45（是组合数，不是排列数）， 后面的概率计算均有误。",
           "analysis": "",
           "raw": "【例 4-8】从 10 个球中取出 2 个球，可能性总数应为 (10×9) / 2 = 45（是组合数，不是排列数），"
         },
         {
           "id": "4-9",
-          "error": "帕格尼尼的生卒年应为 1782—1840。",
+          "error": "帕格尼尼的生卒年应为 1782—1840。 四、程序差错",
           "analysis": "",
           "raw": "【例 4-9】帕格尼尼的生卒年应为 1782—1840。"
         },
@@ -556,7 +556,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-12",
-          "error": "程序中第 4 行的 rigde 应为 ridge。",
+          "error": "程序中第 4 行的 rigde 应为 ridge。 五、插图、表格差错",
           "analysis": "",
           "raw": "【例 4-12】程序中第 4 行的 rigde 应为 ridge。"
         },
@@ -601,38 +601,38 @@ const BOOK_DATA = [
       "文科类": [
         {
           "id": "1-1",
-          "error": "据不完全统计，全国已成立的省（自治区）市一级的具有独立社团法人资格的物业",
-          "analysis": "",
+          "error": "据不完全统计，全国已成立的省（自治区）市一级的具有独立社团法人资格的物业 管理协会有 80 余个。（可改为“省（区、市）”）",
+          "analysis": "根据我国宪法和法律中的表述，“省、自治区、直辖市”为固定排序，即“省”在前， “自治区”次之，“直辖市”再次之。“省、自治区、直辖市”可简化为“省、区、市”或“省区市”； 也可写为“省（自治区、直辖市）”，简化为“省（区、市）”。",
           "raw": "【例 1-1】据不完全统计，全国已成立的省（自治区）市一级的具有独立社团法人资格的物业"
         },
         {
           "id": "1-2",
-          "error": "在卢曼看来，希腊、罗马、中国、伊斯兰、印度、中世纪的欧洲和盎格鲁-撒克逊地",
-          "analysis": "",
+          "error": "在卢曼看来，希腊、罗马、中国、伊斯兰、印度、中世纪的欧洲和盎格鲁-撒克逊地 区都属于高度文明的社会。（可改为“伊斯兰国家”）",
+          "analysis": "“伊斯兰”是阿拉伯语 Islām 的音译，意为“顺服”，指顺服唯一之神安拉的旨意，非 国家、非地区，用在此处不合适。“伊斯兰国家”一般指多数居民为穆斯林的国家，或穆斯林虽不占 人口多数，但受伊斯兰教影响，参加伊斯兰合作组织的国家。",
           "raw": "【例 1-2】在卢曼看来，希腊、罗马、中国、伊斯兰、印度、中世纪的欧洲和盎格鲁-撒克逊地"
         },
         {
           "id": "1-3",
-          "error": "其实在为她救治时，科尔夫还顶着另外的压力，因为在德国侵占荷兰期间，她是一",
-          "analysis": "",
+          "error": "其实在为她救治时，科尔夫还顶着另外的压力，因为在德国侵占荷兰期间，她是一 位纳粹合作者，这个身份多遭人恨啊。（可改为“一个”）",
+          "analysis": "“纳粹”是德语 Nationalsozialistische 的缩写词 Nazi 的音译。纳粹党即民族社会主义德意 志工人党，是德国法西斯政党。1945 年，纳粹德国溃败后，该党被取缔，1946 年被纽伦堡国际军事 法庭判为犯罪组织。“位”含敬意，用在此处不合适。 二、引文差错",
           "raw": "【例 1-3】其实在为她救治时，科尔夫还顶着另外的压力，因为在德国侵占荷兰期间，她是一"
         },
         {
           "id": "1-4",
           "error": "日出而作，日落而息。（应改为“日入而息”）",
-          "analysis": "",
+          "analysis": "语出《庄子〃让王》：“日出而作，日入而息。”意思是：太阳升起来时劳动，太阳下山 时就休息。原指古代人民的生活方式，后也泛指单纯简朴的生活。",
           "raw": "【例 1-4】日出而作，日落而息。（应改为“日入而息”）"
         },
         {
           "id": "1-5",
           "error": "天降大任于斯人也，必先苦其心志，劳其筋骨。（应改为“天将降大任于是人也”）",
-          "analysis": "",
+          "analysis": "语出《孟子〃告子下》：“天将降大任于是人也，必先苦其心志，劳其筋骨。”意思是： 上天将要给这个人重大使命时，必定先要使他的意志经受痛苦的磨练，使他的筋骨经受劳累。“是” 为代词，表示近指，相当于“这，这个”。",
           "raw": "【例 1-5】天降大任于斯人也，必先苦其心志，劳其筋骨。（应改为“天将降大任于是人也”）"
         },
         {
           "id": "1-6",
           "error": "皮之不存，毛之焉附？（应改为“毛将焉附”）",
-          "analysis": "",
+          "analysis": "语出《左传〃僖公十四年》：“皮之不存，毛将安傅？”“安”犹“焉”，“傅”同“附”。 意思是：连皮都没有了，毛长到哪儿去呢？比喻事物失去了存在的基础，就不能存在。",
           "raw": "【例 1-6】皮之不存，毛之焉附？（应改为“毛将焉附”）"
         }
       ],
@@ -640,111 +640,111 @@ const BOOK_DATA = [
         {
           "id": "2-1",
           "error": "",
-          "analysis": "",
+          "analysis": "违背文学常识。据《西游记》第七回：“我老孙一筋斗去十万八千里。”“十万八千里” 不能随意改变。",
           "raw": "【例 2-1】"
         },
         {
           "id": "2-2",
           "error": "",
-          "analysis": "",
+          "analysis": "违背科学常识。BMI 是评价体重是否适宜的指标，BMI（体重指数）=体重（kg）/身 高 2（m2）。BMI 正常值为 18～24；BMI<18 为消瘦；BMI>24 为超重；BMI≥28 则为肥胖。本例中的 身高值为 178 米，BMI 为 0.001957，明显有误。",
           "raw": "【例 2-2】"
         },
         {
           "id": "2-3",
           "error": "",
-          "analysis": "",
+          "analysis": "科学性差错。人体的细胞液浓度为 0.9%。口腔上皮细胞置于清水中时，细胞液浓度大 于外部液体浓度，细胞会吸水膨胀；置于浓度大于 0.9%的液体中时，细胞液浓度小于外部液体浓度， 细胞会失水皱缩。",
           "raw": "【例 2-3】"
         },
         {
           "id": "2-4",
           "error": "",
-          "analysis": "",
+          "analysis": "数据错误。地球是一个扁球体，其赤道半径为 6378 千米，极半径为 6357 千米，平均 半径为 6371 千米。",
           "raw": "【例 2-4】"
         },
         {
           "id": "2-5",
           "error": "",
-          "analysis": "",
+          "analysis": "定义错误。物理学中的自由度是指完整地描述一个力学系统的运动所需要的独立变量 的个数，通常以 n 表示。由定义可知，自由度是一个数值。",
           "raw": "【例 2-5】"
         },
         {
           "id": "2-6",
           "error": "",
-          "analysis": "",
+          "analysis": "数学概念错误。本例涉及数学中谁比谁短（或长）几分之几、谁是谁的几分之几的问 题。若求“比谁短几分之几”，则公式为（大－小）/大；若求“比谁长几分之几”，则公式为（大－ 小）/小；若求“是谁的几分之几”，则一般为小/大。显然这里按第三种修改最为简单。 二、不一致性差错",
           "raw": "【例 2-6】"
         },
         {
           "id": "2-7",
           "error": "",
-          "analysis": "",
+          "analysis": "图文不符。正文叙述“标注如图 3.50 所示的竖直尺寸”与图 3.50 所示不符，图中标注 的是水平尺寸。另图题“竖直尺寸”也与图示不符。",
           "raw": "【例 2-7】"
         },
         {
           "id": "2-8",
           "error": "",
-          "analysis": "",
+          "analysis": "相同内容前后不一致。前文叙述是“求数据的均值和标准差”，下文举例是“求数据的 均值和方差”，实际程序未涉及标准差。",
           "raw": "【例 2-8】"
         },
         {
           "id": "2-9",
           "error": "",
-          "analysis": "",
+          "analysis": "例题题目与代码不符。例题题目要求修改学生表 student 中的字段，而代码是修改读者 表 reader 中的字段。",
           "raw": "【例 2-9】"
         },
         {
           "id": "2-10",
           "error": "",
-          "analysis": "",
+          "analysis": "执行结果和程序不一致。本例所示的代码清单题目是“Python 元组的常用操作”，下文 执行结果的前四行却是列表操作的结果，与题目不符。",
           "raw": "【例 2-10】"
         },
         {
           "id": "2-11",
           "error": "",
-          "analysis": "",
+          "analysis": "按钮的图标与名称不一致。本例中“水平居中对齐”按钮的图标误为“左对齐”按钮 的图标，“按左分布”按钮的图标误为“按底分布”按钮的图标。正确图标可参见属性栏中所列。",
           "raw": "【例 2-11】"
         }
       ],
       "外语类": [
         {
           "id": "3-1",
-          "error": "In the Qin Dynasty, armored vehicles appeared, which was a four-wheeled vehicle. （应改",
-          "analysis": "",
+          "error": "In the Qin Dynasty, armored vehicles appeared, which was a four-wheeled vehicle. （应改 为“were four-wheeled vehicles”）",
+          "analysis": "从句中的谓语及宾语应该与先行词 vehicles 保持单复数一致。",
           "raw": "【例 3-1】In the Qin Dynasty, armored vehicles appeared, which was a four-wheeled vehicle. （应改"
         },
         {
           "id": "3-2",
           "error": "A nationwide water transport system were established. （应改为“was”）",
-          "analysis": "",
+          "analysis": "句子的谓语应该和主语 a system 保持一致。",
           "raw": "【例 3-2】A nationwide water transport system were established. （应改为“was”）"
         },
         {
           "id": "3-3",
-          "error": "When Emperor Wu was in the reign of the Han Dynasty, water transportation developed very",
-          "analysis": "",
+          "error": "When Emperor Wu was in the reign of the Han Dynasty, water transportation developed very fast. （应改为“When the Han Dynasty was in the reign of Emperor Wu”）",
+          "analysis": "句子要表达的意思是“在汉武帝统治时期”，原文语序有误。 二、文字差错",
           "raw": "【例 3-3】When Emperor Wu was in the reign of the Han Dynasty, water transportation developed very"
         },
         {
           "id": "3-4",
           "error": "They acted in an very orderly manner. （应改为“a”）",
-          "analysis": "",
+          "analysis": "an 用于发音是元音开头的单词、缩写词、首字母缩略词或字母之前。very 不属于此种 情况。",
           "raw": "【例 3-4】They acted in an very orderly manner. （应改为“a”）"
         },
         {
           "id": "3-5",
-          "error": "He An built a two-wheeled vehicle, with a guide wheel in front and a follower wheel behind",
-          "analysis": "",
+          "error": "He An built a two-wheeled vehicle, with a guide wheel in front and a follower wheel behind it, forming a new type of four-wheeled vehicle. （应改为“vehicle”）",
+          "analysis": "前后矛盾。前文为两轮车，后文为四轮车。 三、知识性差错",
           "raw": "【例 3-5】He An built a two-wheeled vehicle, with a guide wheel in front and a follower wheel behind"
         },
         {
           "id": "3-6",
-          "error": "In the Spring and Autumn Period, a cart with a capacity of 50 Dan (1 Dan is equal to 103.5",
-          "analysis": "",
+          "error": "In the Spring and Autumn Period, a cart with a capacity of 50 Dan (1 Dan is equal to 103.5 liters) millets was built. （应改为“1 Dan is equal to 50 kg”）",
+          "analysis": "Dan（担）是重量单位，liter（升）是容积单位，两者不宜换算。",
           "raw": "【例 3-6】In the Spring and Autumn Period, a cart with a capacity of 50 Dan (1 Dan is equal to 103.5"
         },
         {
           "id": "3-7",
-          "error": "In 1980, two large painted chariots were unearthed from the Terra-Cotta Warrior of First",
-          "analysis": "",
+          "error": "In 1980, two large painted chariots were unearthed from the Terra-Cotta Warrior of First Emperor of Qin Mausoleum.（应改为 the Mausoleum of the First Emperor of the Qin Dynasty）",
+          "analysis": "战车应该是从秦始皇陵而不是从兵马俑中挖掘出来的。",
           "raw": "【例 3-7】In 1980, two large painted chariots were unearthed from the Terra-Cotta Warrior of First"
         }
       ],
@@ -769,7 +769,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-4",
-          "error": "结合上下文，家庭年收入应该是 80000 元。",
+          "error": "结合上下文，家庭年收入应该是 80000 元。 二、计算差错",
           "analysis": "",
           "raw": "【例 4-4】 结合上下文，家庭年收入应该是 80000 元。"
         },
@@ -781,7 +781,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-6",
-          "error": "计算结果应为 100 000（元）。",
+          "error": "计算结果应为 100 000（元）。 三、知识性差错",
           "analysis": "",
           "raw": "【例 4-6】计算结果应为 100 000（元）。"
         },
@@ -793,7 +793,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-8",
-          "error": "文件引用错误。文中引用内容是关于“提升学校治理水平”的，而不是“提升信息",
+          "error": "文件引用错误。文中引用内容是关于“提升学校治理水平”的，而不是“提升信息 化水平”的。",
           "analysis": "",
           "raw": "【例 4-8】文件引用错误。文中引用内容是关于“提升学校治理水平”的，而不是“提升信息"
         },
@@ -806,7 +806,7 @@ const BOOK_DATA = [
         {
           "id": "4-10",
           "error": "图中将内存容量和存储容量混淆。",
-          "analysis": "",
+          "analysis": "计算机的内存容量（memory capacity）通常是指随机存储器(RAM)的容量，存储容量 （storage capacity）是指计算机存储设备中能保存的总信息量。通常，存储容量远大于内存容量。 四、程序错误",
           "raw": "【例 4-10】图中将内存容量和存储容量混淆。"
         },
         {
@@ -817,7 +817,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-12",
-          "error": "执行结果中，“组合后”的字符“土耳其”应为“巴西”。",
+          "error": "执行结果中，“组合后”的字符“土耳其”应为“巴西”。 五、图表差错",
           "analysis": "",
           "raw": "【例 4-12】执行结果中，“组合后”的字符“土耳其”应为“巴西”。"
         },
@@ -850,68 +850,68 @@ const BOOK_DATA = [
       "文科类": [
         {
           "id": "1-1",
-          "error": "2019 年 3 月 18 日，习近平总书记在学校思想政治理论课教师座谈会上进一步强调，",
+          "error": "2019 年 3 月 18 日，习近平总书记在学校思想政治理论课教师座谈会上进一步强调， 中华人民共产党立志于中华民族千秋伟业，必须培养一代又一代拥护中国共产党领导和我国社会主 义制度、立志为中国特色社会主义事业奋斗终身的有用人才。（应改为“中国共产党”）",
           "analysis": "",
           "raw": "【例 1-1】2019 年 3 月 18 日，习近平总书记在学校思想政治理论课教师座谈会上进一步强调，"
         },
         {
           "id": "1-2",
-          "error": "“十三五”规划主要目标任务胜利完成，中国民族伟大复兴向前迈出了新的一大步。",
+          "error": "“十三五”规划主要目标任务胜利完成，中国民族伟大复兴向前迈出了新的一大步。 （应改为“中华民族伟大复兴”）",
           "analysis": "",
           "raw": "【例 1-2】“十三五”规划主要目标任务胜利完成，中国民族伟大复兴向前迈出了新的一大步。"
         },
         {
           "id": "1-3",
-          "error": "在社会主义现代化建设新征程上，我们要深入学习贯彻习近平总书记重要讲话精神，",
+          "error": "在社会主义现代化建设新征程上，我们要深入学习贯彻习近平总书记重要讲话精神， 以习近平总书记的重要讲话为指导，深刻认识和大力弘扬劳模精神、劳动精神、工匠精神，汇聚起 亿万劳动者进行社会主义主义现代化国家建设的磅礴力量。（应改为“社会主义现代化”）",
           "analysis": "",
           "raw": "【例 1-3】在社会主义现代化建设新征程上，我们要深入学习贯彻习近平总书记重要讲话精神，"
         },
         {
           "id": "1-4",
-          "error": "实现好、维护好、发展好最大广大人民的根本利益，造福劳动者是习近平新时代中",
+          "error": "实现好、维护好、发展好最大广大人民的根本利益，造福劳动者是习近平新时代中 国特色社会主义劳动思想的重要内涵之一。（应改为“最广大人民的根本利益”） 二、成语误用",
           "analysis": "",
           "raw": "【例 1-4】实现好、维护好、发展好最大广大人民的根本利益，造福劳动者是习近平新时代中"
         },
         {
           "id": "1-5",
-          "error": "新时代大学生作为中国特色社会主义的接班人，作为中国梦的奋斗者、创造者，若",
-          "analysis": "",
+          "error": "新时代大学生作为中国特色社会主义的接班人，作为中国梦的奋斗者、创造者，若 没有对祖国的热爱、对祖国的真挚情感、对祖国的思想认同和理论认知，就不可能迸发出对新时代 中国特色社会主义的建设热情，没有他们的努力奋斗和前仆后继，就会影响中国梦的实现。（应改为 “前赴后继”）",
+          "analysis": "“前仆后继”指前面的人倒下了，后面的人紧接着上，常用以形容不怕牺牲，英勇前进。 “前赴后继”指前面的人奋勇向前，后面的人紧跟上去，形容奋勇前行，连续不断。",
           "raw": "【例 1-5】新时代大学生作为中国特色社会主义的接班人，作为中国梦的奋斗者、创造者，若"
         },
         {
           "id": "1-6",
-          "error": "中国特色社会主义进入新时代，面对纷繁复杂的国际社会和多元的社会意识形态，",
-          "analysis": "",
+          "error": "中国特色社会主义进入新时代，面对纷繁复杂的国际社会和多元的社会意识形态， 面对互联网信息的鱼龙混杂，我们更需要用社会主义核心价值观来引领大学生的思想，更需要比任 何时候都热爱自己的国家，牢固树立报效祖国的雄心壮志。（可改为“泥沙俱下”）",
+          "analysis": "“鱼龙混杂”比喻好人和坏人混在一起，只用于人。“泥沙俱下”比喻好坏不同的人或 事物混杂在一起。此例中指互联网信息，用“泥沙俱下”更合适。",
           "raw": "【例 1-6】中国特色社会主义进入新时代，面对纷繁复杂的国际社会和多元的社会意识形态，"
         },
         {
           "id": "1-7",
-          "error": "没有任何问题可以置之度外，因为它们彼此关联，失之毫厘，谬以千里。（应改为“置",
-          "analysis": "",
+          "error": "没有任何问题可以置之度外，因为它们彼此关联，失之毫厘，谬以千里。（应改为“置 之不理”）",
+          "analysis": "“置之度外”指放在考虑之外，不把生死、利害等放在心上。“置之不理”指搁在一边， 不予理睬过问。",
           "raw": "【例 1-7】没有任何问题可以置之度外，因为它们彼此关联，失之毫厘，谬以千里。（应改为“置"
         },
         {
           "id": "1-8",
-          "error": "有些书籍过于专业性和偏向性，虽然每一次翻阅这些埃及学专著都受益匪浅，但是",
-          "analysis": "",
+          "error": "有些书籍过于专业性和偏向性，虽然每一次翻阅这些埃及学专著都受益匪浅，但是 对于那些正在尝试入门的人来说，难免有些诘屈聱牙，作为科普的门槛实在太高，自然令人望而生 畏。（可改为“艰涩难懂”）",
+          "analysis": "“诘屈聱牙”形容文句艰涩不平易，读起来不顺口，“诘屈”同“佶屈”，曲折、弯曲， 引申为不通顺；“聱牙”指拗口。此处改为“艰涩难懂”更合适。 三、表意重复",
           "raw": "【例 1-8】有些书籍过于专业性和偏向性，虽然每一次翻阅这些埃及学专著都受益匪浅，但是"
         },
         {
           "id": "1-9",
-          "error": "早在战国时期，中国人将关于自然界的最基本规律的学问称之为“物理”，泛指万物",
-          "analysis": "",
+          "error": "早在战国时期，中国人将关于自然界的最基本规律的学问称之为“物理”，泛指万物 之理或“大物理”，有时寓有自然规律之意。（应删去“之”）",
+          "analysis": "“称之为”中“之”为指示代词，与前面的“关于自然界的最基本规律的学问”重复。",
           "raw": "【例 1-9】早在战国时期，中国人将关于自然界的最基本规律的学问称之为“物理”，泛指万物"
         },
         {
           "id": "1-10",
           "error": "这套书能够顺利付梓出版，还是让我得以一偿宿愿。（“付梓”和“出版”应删其一）",
-          "analysis": "",
+          "analysis": "“付梓”指书稿付印，古时雕版印书常用梓木，故把稿件交付刊印叫付梓。此处“付梓” 与“出版”意思重复，应删其一。",
           "raw": "【例 1-10】这套书能够顺利付梓出版，还是让我得以一偿宿愿。（“付梓”和“出版”应删其一）"
         },
         {
           "id": "1-11",
-          "error": "我国《精神卫生法》将精神障碍患者的非自愿住院的决定权授予给医疗机构及精神",
-          "analysis": "",
+          "error": "我国《精神卫生法》将精神障碍患者的非自愿住院的决定权授予给医疗机构及精神 科执业医师，并建立了以医学专业为主导的非自愿住院程序。（应删去“给”）",
+          "analysis": "“予”意为给，后面的“给”与其重复。 2022 年文科类图书问题集中体现在以下几方面。 （1）专著：错别字、多字漏字、字词使用差错等； （2）社科类图书：语法差错（搭配不当、句式杂糅）、逻辑差错、标点使用差错等； （3）教材：错别字、语法差错、引文差错等； （4）其他问题： ① 知识性差错；② 不一致性差错；③ 成语误用；④ “的地得”混用。",
           "raw": "【例 1-11】我国《精神卫生法》将精神障碍患者的非自愿住院的决定权授予给医疗机构及精神"
         }
       ],
@@ -919,99 +919,99 @@ const BOOK_DATA = [
         {
           "id": "2-1",
           "error": "",
-          "analysis": "",
+          "analysis": "文本名与事实不符（该类错误易被遗漏，须注意核查）。这里记载的仙人故事出自志怪 小说集《神仙传》，由东晋道教学者葛洪所撰写。《抱朴子》是葛洪撰写的一部道教论著。",
           "raw": "【例 2-1】"
         },
         {
           "id": "2-2",
           "error": "",
-          "analysis": "",
+          "analysis": "皇帝的谥号错误，公元纪年错误。",
           "raw": "【例 2-2】"
         },
         {
           "id": "2-3",
           "error": "",
-          "analysis": "",
+          "analysis": "概念错误。弹力和质量不是同一类别的物理量，不能比较大小。 二、计算与解题错误",
           "raw": "【例 2-3】"
         },
         {
           "id": "2-4",
           "error": "",
-          "analysis": "",
+          "analysis": "公式推导过程错误。",
           "raw": "【例 2-4】"
         },
         {
           "id": "2-5",
           "error": "",
-          "analysis": "",
+          "analysis": "题目设计错误，答案与题目不匹配，需修改题干。",
           "raw": "【例 2-5】"
         },
         {
           "id": "2-6",
           "error": "",
-          "analysis": "",
+          "analysis": "习题答案错误。 三、文字错误",
           "raw": "【例 2-6】"
         },
         {
           "id": "2-7",
           "error": "",
-          "analysis": "",
+          "analysis": "外文人名拼写错误。",
           "raw": "【例 2-7】"
         },
         {
           "id": "2-8",
           "error": "",
-          "analysis": "",
+          "analysis": "计算机名词错误。“邻域”（neighborhood）是指集合上的一种基础的拓扑结构。“邻域 搜索”是一种计算机算法。",
           "raw": "【例 2-8】"
         },
         {
           "id": "2-9",
           "error": "",
-          "analysis": "",
+          "analysis": "正斜体、黑白体错误。0 向量用黑体，转置符号 T 用正体，单位矩阵 I 用黑体。",
           "raw": "【例 2-9】"
         },
         {
           "id": "2-10",
           "error": "",
-          "analysis": "",
+          "analysis": "漏字。案例中的“半径”指轨道半径，地球赤道上随地球自转的物体其运行轨道半径 等于地球半径，如漏“轨道”二字会产生歧义。",
           "raw": "【例 2-10】"
         },
         {
           "id": "2-11",
           "error": "",
-          "analysis": "",
+          "analysis": "数学名词错误。辐角是指复数所对应的向量与实轴正方向的夹角。 2022 年理工类图书中发现的主要问题分为以下几类。 （1）知识性错误 ① 科学知识错误，如数据、原理、概念、定义错误； ② 引用标准错误，如引用废弃标准或标准名称、编号错误； ③ 知识陈旧过时，如所讲述的内容与科技发展实际不符； ④ 文化常识错误，如人名、时间、作品名错误。 （2）计算与解题错误 ① 数理公式、化学式错误； ② 解题错误，如题目设计有误，答案错误； ③ 数学运算错误； ④ 程序中的表达式错误。 （3）文字错误 ① 外文人名、地名拼写错误； ② 代码、命令、函数名拼写错误； ③ 字母大小写、正斜体、黑白体误用，不同文种字母混用； ④ 用词不当，使用网络语言不当。 （4）专有名称与名词术语使用错误 ① 未使用规范科技名词； ② 外文人名、机构名译名不规范。 （5）不一致性差错 ① 图文不一致，如叙述与图示不符、图示与图题或说明文字不符； ② 引述文内内容序号错误，如节号、例题号、定理号、图号、代码号等； ③ 相同内容前后不一致，如名称、符号、数据、代码等。",
           "raw": "【例 2-11】"
         }
       ],
       "外语类": [
         {
           "id": "3-1",
-          "error": "The star on the top of the Christmas tree signifies the special star, in the Bible, which",
-          "analysis": "",
+          "error": "The star on the top of the Christmas tree signifies the special star, in the Bible, which guided the wise men to find Jesus Christ. The light of the star represents Christ, the Light of the world.",
+          "analysis": "例中讲解圣诞节习俗时引入《圣经》相关内容。文化类图书要特别注意导向问题，对 西方人物、节日、美术作品等的介绍要适度适量，审慎介绍宗教故事等，防止借机宣扬宗教。",
           "raw": "【例 3-1】 The star on the top of the Christmas tree signifies the special star, in the Bible, which"
         },
         {
           "id": "3-2",
-          "error": "Fengshui is a great treasure of the Chinese traditional culture. It is the cultural symbol of",
-          "analysis": "",
+          "error": "Fengshui is a great treasure of the Chinese traditional culture. It is the cultural symbol of the Chinese people.",
+          "analysis": "《辞海》中将风水定义为迷信的一种。在教材中，不宜将其视为中国传统文化的精髓 做大篇幅讲解。课文选材要合理，避免宣传超自然和封建迷信。 二、语法差错",
           "raw": "【例 3-2】 Fengshui is a great treasure of the Chinese traditional culture. It is the cultural symbol of"
         },
         {
           "id": "3-3",
-          "error": "If there is any trade disputes, standard interpretation of price terms can be consulted to judge",
-          "analysis": "",
+          "error": "If there is any trade disputes, standard interpretation of price terms can be consulted to judge the disputes.（应改为“are”）",
+          "analysis": "There be 句型中，句子的谓语动词 be 应该和后面的主语保持一致。当句子的主语是可 数名词的单数或者是不可数名词时，用 is；当句子的主语是可数名词的复数形式时，用 are。",
           "raw": "【例 3-3】If there is any trade disputes, standard interpretation of price terms can be consulted to judge"
         },
         {
           "id": "3-4",
           "error": "Some types of source documents is prepared for every transaction.（应改为“are”）",
-          "analysis": "",
+          "analysis": "句子的谓语应和主语 some types of source documents 保持一致, 故将 is 改为 are。",
           "raw": "【例 3-4】Some types of source documents is prepared for every transaction.（应改为“are”）"
         },
         {
           "id": "3-5",
           "error": "The secret of invention in ceaseless effort.（应改为“lies in”）",
-          "analysis": "",
+          "analysis": "句子中缺少谓语动词，所以应将 in 改为 lies in。 2022 年外语类图书除语法、文字差错外，主要问题体现在以下几方面。 （1）影印版图书：地图问题、插图及文字内容的导向问题； （2）西方文化类图书：文章选材涉及传播西方政治、宗教思想，存在褒西贬中、崇洋媚 外等问题； （3）中国传统文化类图书：文章选材存在宣扬宗教及超自然的内容； （4）翻译版图书：原文与译文不对应，或错译、漏译； （5）教材：注释错误或重复出现，习题无逻辑； （6）考试类图书：真题原文、讲解及译文错误。",
           "raw": "【例 3-5】The secret of invention in ceaseless effort.（应改为“lies in”）"
         }
       ],
@@ -1048,13 +1048,13 @@ const BOOK_DATA = [
         },
         {
           "id": "4-6",
-          "error": "“1597－1560 年间”应为“1597－1600 年间”（根据上下文）。",
+          "error": "“1597－1560 年间”应为“1597－1600 年间”（根据上下文）。 二、计算错误",
           "analysis": "",
           "raw": "【例 4-6】“1597－1560 年间”应为“1597－1600 年间”（根据上下文）。"
         },
         {
           "id": "4-7",
-          "error": "“𝑠12”应为“𝑠22”。",
+          "error": "“𝑠12”应为“𝑠22”。 三、知识性差错",
           "analysis": "",
           "raw": "【例 4-7】“𝑠12”应为“𝑠22”。"
         },
@@ -1078,13 +1078,13 @@ const BOOK_DATA = [
         },
         {
           "id": "4-11",
-          "error": "“绿化率”“绿地率”概念混淆。",
+          "error": "“绿化率”“绿地率”概念混淆。 四、程序错误",
           "analysis": "",
           "raw": "【例 4-11】“绿化率”“绿地率”概念混淆。"
         },
         {
           "id": "4-12",
-          "error": "文中条件是“能同时被 4 和 100 整除”，程序仅满足“被 4 整除”，未满足“被 100",
+          "error": "文中条件是“能同时被 4 和 100 整除”，程序仅满足“被 4 整除”，未满足“被 100 整除”条件。 五、图表差错",
           "analysis": "",
           "raw": "【例 4-12】文中条件是“能同时被 4 和 100 整除”，程序仅满足“被 4 整除”，未满足“被 100"
         },
@@ -1129,67 +1129,67 @@ const BOOK_DATA = [
       "文科类": [
         {
           "id": "1-1",
-          "error": "2002 年，江泽民同志在中国共产党第十六次全国人民代表大会上的报告中进一步指",
-          "analysis": "",
+          "error": "2002 年，江泽民同志在中国共产党第十六次全国人民代表大会上的报告中进一步指 出，我国进入加快推进社会主义现代化的新阶段，奋斗目标转变为全面建设小康社会，首次提出了 全面建设小康社会的概念。（应改为“中国共产党第十六次全国代表大会”）",
+          "analysis": "此例中将“中国共产党全国代表大会”名称与“中华人民共和国全国人民代表大会” 名称杂糅到一起，表述错误。",
           "raw": "【例 1-1】2002 年，江泽民同志在中国共产党第十六次全国人民代表大会上的报告中进一步指"
         },
         {
           "id": "1-2",
-          "error": "1996 年党的六中全会确定了加强精神文明建设的方针，里面蕴含着大量的要促进信",
-          "analysis": "",
+          "error": "1996 年党的六中全会确定了加强精神文明建设的方针，里面蕴含着大量的要促进信 息产业进步的信息。（应改为“党的十四届六中全会”）",
+          "analysis": "中国共产党第×届中央委员会第×次全体会议，简称“中国共产党×届×中全会”“中 共×届×中全会”“党的×届×中全会”“×届×中全会”。简称应规范，不可随意删减。",
           "raw": "【例 1-2】1996 年党的六中全会确定了加强精神文明建设的方针，里面蕴含着大量的要促进信"
         },
         {
           "id": "1-3",
-          "error": "一些国家的法律、法规规定高级公职人员必须向专门监督机关申报个人财产，公职",
-          "analysis": "",
+          "error": "一些国家的法律、法规规定高级公职人员必须向专门监督机关申报个人财产，公职 人员的财产申报都是以制度的形式存在的，如英国、美国、法国、德国、新加坡以及中国台湾和中 国香港都建立了此种制度。（应改为“国家和地区”）",
+          "analysis": "后文提及“中国台湾”“中国香港”，故前文的限定词应为“国家和地区”。",
           "raw": "【例 1-3】一些国家的法律、法规规定高级公职人员必须向专门监督机关申报个人财产，公职"
         },
         {
           "id": "1-4",
-          "error": "把生态文明建设融合贯穿到经济、政治、文化、社会建设的各方面和全过程是实现",
-          "analysis": "",
+          "error": "把生态文明建设融合贯穿到经济、政治、文化、社会建设的各方面和全过程是实现 经济社会平衡发展，满足人民生活美好需要的重要保障。（应改为“美好生活需要”）",
+          "analysis": "党的十九大报告指出：“中国特色社会主义进入新时代，我国社会主要矛盾已经转化为 人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾。”“美好生活需要”为规范表述。 二、有关“大陆”“内地”的错误表述 “台湾”与“大陆”为对应概念，“香港、澳门”与“内地”为对应概念。港澳台同时出现时， 其对应概念的规范表述是“港澳台与内地（大陆）”“港澳台与内地/大陆”“港澳与内地、台湾与大 陆”等。不涉及台湾时，不得自称中国为“大陆”。",
           "raw": "【例 1-4】把生态文明建设融合贯穿到经济、政治、文化、社会建设的各方面和全过程是实现"
         },
         {
           "id": "1-5",
-          "error": "如今中国大陆通行的简化汉字已经成为中国人生活的一部分，而中国的香港、澳门、",
+          "error": "如今中国大陆通行的简化汉字已经成为中国人生活的一部分，而中国的香港、澳门、 台湾地区仍旧沿用繁体字。[应改为“中国内地（大陆）”]",
           "analysis": "",
           "raw": "【例 1-5】如今中国大陆通行的简化汉字已经成为中国人生活的一部分，而中国的香港、澳门、"
         },
         {
           "id": "1-6",
-          "error": "微信是使用率最高的交互应用程序之一。国内大陆有智能手机的用户，几乎都会使",
+          "error": "微信是使用率最高的交互应用程序之一。国内大陆有智能手机的用户，几乎都会使 用微信。（应改为“国内”） 三、标点使用错误",
           "analysis": "",
           "raw": "【例 1-6】微信是使用率最高的交互应用程序之一。国内大陆有智能手机的用户，几乎都会使"
         },
         {
           "id": "1-7",
-          "error": "在中国长期占统治地位的思想—儒家思想，反对奢侈浪费，推崇朴素而简单的生活。",
-          "analysis": "",
+          "error": "在中国长期占统治地位的思想—儒家思想，反对奢侈浪费，推崇朴素而简单的生活。 （应改为“——”）",
+          "analysis": "此句中“儒家思想”是对前面“思想”的解释说明，标示注释内容应用破折号。",
           "raw": "【例 1-7】在中国长期占统治地位的思想—儒家思想，反对奢侈浪费，推崇朴素而简单的生活。"
         },
         {
           "id": "1-8",
-          "error": "在议题设置方面，政府新闻发布已经形成了“事前预告——事中进度——连续引导",
-          "analysis": "",
+          "error": "在议题设置方面，政府新闻发布已经形成了“事前预告——事中进度——连续引导 ——事后总结”的模式。（应改为“—”）",
+          "analysis": "标示相关项之间递进式发展时用一字线。",
           "raw": "【例 1-8】在议题设置方面，政府新闻发布已经形成了“事前预告——事中进度——连续引导"
         },
         {
           "id": "1-9",
-          "error": "作者 2005-2017 年负责国务院发展研究中心金融所领导的“中国注册金融分析师培养",
-          "analysis": "",
+          "error": "作者 2005-2017 年负责国务院发展研究中心金融所领导的“中国注册金融分析师培养 计划”，为各类主流金融机构培养金融分析师中高端专业人才万余名。（应改为“—”）",
+          "analysis": "标示时间、地域等相关项目间的起止时用一字线。",
           "raw": "【例 1-9】作者 2005-2017 年负责国务院发展研究中心金融所领导的“中国注册金融分析师培养"
         },
         {
           "id": "1-10",
           "error": "这种生活方式难道不会显得太“蚱蜢化”!?（应改为“?!”）",
-          "analysis": "",
+          "analysis": "当句子包含疑问、感叹两种语气且都比较强烈时，可在问号后再加叹号(问号、叹 号各一)。 四、注释信息错误",
           "raw": "【例 1-10】这种生活方式难道不会显得太“蚱蜢化”!?（应改为“?!”）"
         },
         {
           "id": "1-11",
-          "error": "贝尔.资本主义文化矛盾[M].赵一凡,等译.北京:三联书店出版社,1992.（应改为“生",
+          "error": "贝尔.资本主义文化矛盾[M].赵一凡,等译.北京:三联书店出版社,1992.（应改为“生 活·读书·新知三联书店”）",
           "analysis": "",
           "raw": "【例 1-11】贝尔.资本主义文化矛盾[M].赵一凡,等译.北京:三联书店出版社,1992.（应改为“生"
         },
@@ -1201,7 +1201,7 @@ const BOOK_DATA = [
         },
         {
           "id": "1-13",
-          "error": "王永贵.客户关系管理（精要版）[M].北京:高等教育部出版社,2018. （应改为“高",
+          "error": "王永贵.客户关系管理（精要版）[M].北京:高等教育部出版社,2018. （应改为“高 等教育出版社”）",
           "analysis": "",
           "raw": "【例 1-13】王永贵.客户关系管理（精要版）[M].北京:高等教育部出版社,2018. （应改为“高"
         }
@@ -1210,91 +1210,91 @@ const BOOK_DATA = [
         {
           "id": "2-1",
           "error": "",
-          "analysis": "",
+          "analysis": "违背科学常识。太阳和地球的距离约为 1.5 亿千米，这是太阳光到达地球的最短距离。",
           "raw": "【例 2-1】"
         },
         {
           "id": "2-2",
           "error": "",
-          "analysis": "",
+          "analysis": "概念错误，混淆了“质量”和“重力”。“体重 60kg”指人的质量为 60kg，它不随形状 和位置而改变。体重 60kg 的人在地球上所受重力约为 600N，由于月球上物体所受重力为地球上的 1/6，故体重 60kg 的人在月球上所受重力变为 100N。",
           "raw": "【例 2-2】"
         },
         {
           "id": "2-3",
           "error": "",
-          "analysis": "",
+          "analysis": "引用标准内容有误。自《公路工程技术标准》（JTG B01—2014）施行之日起，旧版标 准（JTG B01—2003）即废止，本案例引用的新标准条款中掺杂了旧标准的部分数据。",
           "raw": "【例 2-3】"
         },
         {
           "id": "2-4",
           "error": "",
-          "analysis": "",
+          "analysis": "对自然现象的解释错误。水结冰是液体变成固体，是凝固；水汽变为雪花是气体变成 固体，是凝华。两个过程不同。 二、图表错误",
           "raw": "【例 2-4】"
         },
         {
           "id": "2-5",
           "error": "",
-          "analysis": "",
+          "analysis": "图示内容与文字叙述不符。图中输入字符“abcdefghijk”，并非文中所说“abcdefg”7 个字符。",
           "raw": "【例 2-5】"
         },
         {
           "id": "2-6",
           "error": "",
-          "analysis": "",
+          "analysis": "表中栏目名称与单元格内容不符。",
           "raw": "【例 2-6】"
         },
         {
           "id": "2-7",
           "error": "",
-          "analysis": "",
+          "analysis": "图中内容错误。在讲述操作步骤时，如文字显示操作已执行，则图中数据应及时更新， 以保持图文一致。图中“图层 1”应改为“墙体线”。",
           "raw": "【例 2-7】"
         },
         {
           "id": "2-8",
           "error": "",
-          "analysis": "",
+          "analysis": "遗漏图注。本案例中“1”“2”所指不明（文或图中均未说明），应在图题上方加图元注。",
           "raw": "【例 2-8】"
         },
         {
           "id": "2-9",
           "error": "",
-          "analysis": "",
+          "analysis": "表中所列工序的说明文字有误。",
           "raw": "【例 2-9】"
         },
         {
           "id": "2-10",
           "error": "",
-          "analysis": "",
+          "analysis": "表中数据缺单位。 三、文字错误",
           "raw": "【例 2-10】"
         },
         {
           "id": "2-11",
           "error": "",
-          "analysis": "",
+          "analysis": "氰酸铵是一种无机化合物，其化学式为 NH4OCN，属于铵盐。铵是从氨衍生出来的带 正电荷的根，也就是铵离子，又叫铵根。在化学化工领域，由铵（ǎn）、氨（ān）、胺（àn）三个 字组成的名词术语很多，非常容易混淆，应注意区分。",
           "raw": "【例 2-11】"
         },
         {
           "id": "2-12",
           "error": "",
-          "analysis": "",
+          "analysis": "拉深亦称“拉延”，指将板坯用带有一定圆角半径的凸凹模拉成空心零件（如杯形件）， 或将原为空心的半成品进一步拉得更深的一种冲压工艺。拉伸一般指构件（如弹簧、杆等）在轴向 拉力作用下沿该力方向的伸长变形。二者皆是机械工程、材料科学与工程、力学等领域的名词。",
           "raw": "【例 2-12】"
         },
         {
           "id": "2-13",
           "error": "",
-          "analysis": "",
+          "analysis": "“算术”为数学名词；案例中的“数”为同音字误用。同类的实例还有“算术运算符”， 其在数学和计算机类图书中很常见。",
           "raw": "【例 2-13】"
         },
         {
           "id": "2-14",
           "error": "",
-          "analysis": "",
+          "analysis": "漏字使概念混淆。特定同态是同态的一个类别，二者是包含关系。",
           "raw": "【例 2-14】"
         },
         {
           "id": "2-15",
           "error": "",
-          "analysis": "",
+          "analysis": "维度即维，是几何学及空间理论的基本概念，构成空间的每一因素为一维。简单地说， 它是描述一个对象所需的属性的数量。该词在物理学、哲学、管理学等多个领域应用广泛。纬度是 地理学名词，指标示地球表面南北位置的度数。",
           "raw": "【例 2-15】"
         }
       ],
@@ -1302,49 +1302,49 @@ const BOOK_DATA = [
         {
           "id": "3-1",
           "error": "The big yellow gown wearing by Rihanna made Guo Pei in the spotlight. （应改为 worn）",
-          "analysis": "",
+          "analysis": "本句应采用过去分词短语作后置定语，故将 wearing 改为过去分词，worn by Rihanna 修饰 gown。",
           "raw": "【例 3-1】The big yellow gown wearing by Rihanna made Guo Pei in the spotlight. （应改为 worn）"
         },
         {
           "id": "3-2",
           "error": "T-shirts with slogans has been turned into art objects. （应改为 have）",
-          "analysis": "",
+          "analysis": "句子谓语应和主语 T-shirts with slogans 保持一致。",
           "raw": "【例 3-2】T-shirts with slogans has been turned into art objects. （应改为 have）"
         },
         {
           "id": "3-3",
-          "error": "In what sense the T-shirt, as a graphic tool, has become a mandatory means of sartorial",
-          "analysis": "",
+          "error": "In what sense the T-shirt, as a graphic tool, has become a mandatory means of sartorial protest for the young? （应改为 has the T-shirt, as a graphic tool,）",
+          "analysis": "本句为现在完成时的一般疑问句，语序应为 have/has+主语+动词过去分词+……。",
           "raw": "【例 3-3】In what sense the T-shirt, as a graphic tool, has become a mandatory means of sartorial"
         },
         {
           "id": "3-4",
           "error": "In the concluding paragraph, restatement or final comment are required. （应改为 is）",
-          "analysis": "",
+          "analysis": "主语为 A or B 的句子中，谓语应与临近的主语保持一致。本句的谓语应与 final comment 一致，故用 is。",
           "raw": "【例 3-4】In the concluding paragraph, restatement or final comment are required. （应改为 is）"
         },
         {
           "id": "3-5",
-          "error": "Once again, the issue about saving money for your future or spend tomorrow’s money for",
-          "analysis": "",
+          "error": "Once again, the issue about saving money for your future or spend tomorrow’s money for today is heatedly discussed by the public. （应改为 spending）",
+          "analysis": "本句中，saving money for your future 和 spend tomorrow’s money for today 为并列关系。 about 是介词，后面应接动名词形式。 二、文字差错",
           "raw": "【例 3-5】Once again, the issue about saving money for your future or spend tomorrow’s money for"
         },
         {
           "id": "3-6",
-          "error": "How would you use your own psychological features as an audience to design your own",
-          "analysis": "",
+          "error": "How would you use your own psychological features as an audience to design your own speech? （应改为 a listener）",
+          "analysis": "audience 为集合名词，指群体，不能指一个人。",
           "raw": "【例 3-6】How would you use your own psychological features as an audience to design your own"
         },
         {
           "id": "3-7",
-          "error": "For international sales, wire transfers and credit cards are the most common used",
-          "analysis": "",
+          "error": "For international sales, wire transfers and credit cards are the most common used cash-in-advance options available for importers. （应改为 commonly）",
+          "analysis": "修饰过去分词 used 应用副词。",
           "raw": "【例 3-7】For international sales, wire transfers and credit cards are the most common used"
         },
         {
           "id": "3-8",
-          "error": "Ms. Cummings asserted that lower fares would attract passengers to board pilotless aircrafts.",
-          "analysis": "",
+          "error": "Ms. Cummings asserted that lower fares would attract passengers to board pilotless aircrafts. （应改为 aircraft）",
+          "analysis": "aircraft 单复数形式相同，故将 aircrafts 改为 aircraft。",
           "raw": "【例 3-8】Ms. Cummings asserted that lower fares would attract passengers to board pilotless aircrafts."
         }
       ],
@@ -1363,7 +1363,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-3",
-          "error": "“1990 年秋季”应为“1900 年秋季”。",
+          "error": "“1990 年秋季”应为“1900 年秋季”。 二、计算差错",
           "analysis": "",
           "raw": "【例 4-3】“1990 年秋季”应为“1900 年秋季”。"
         },
@@ -1393,7 +1393,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-8",
-          "error": "数据引用错误，96 应为 86。",
+          "error": "数据引用错误，96 应为 86。 三、文字差错",
           "analysis": "",
           "raw": "【例 4-8】数据引用错误，96 应为 86。"
         },
@@ -1423,7 +1423,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-13",
-          "error": "“搴”注音应为 qiān。",
+          "error": "“搴”注音应为 qiān。 四、数字和单位错误",
           "analysis": "",
           "raw": "【例 4-13】“搴”注音应为 qiān。"
         },
@@ -1435,7 +1435,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-15",
-          "error": "最大航程单位有误，kg 应为 km，NM 应为 n mile。",
+          "error": "最大航程单位有误，kg 应为 km，NM 应为 n mile。 五、插图错误",
           "analysis": "",
           "raw": "【例 4-15】最大航程单位有误，kg 应为 km，NM 应为 n mile。"
         },
@@ -1462,136 +1462,136 @@ const BOOK_DATA = [
       "文科类": [
         {
           "id": "1-1",
-          "error": "2016 年 3 月 11 日，全国人大会议的政府工作报告中提到，“发挥大众创业、万众创",
-          "analysis": "",
+          "error": "2016 年 3 月 11 日，全国人大会议的政府工作报告中提到，“发挥大众创业、万众创 新和‘互联网+’集众智汇众力的乘数效应。打造众创、众包、众扶、众筹平台，构建大中小企业、 高校、科研机构、创客多方协同的新型创业创新机制”。（应改为“2016 年 3 月 5 日，李克强在十二 届全国人大四次会议上作政府工作报告时提到”）",
+          "analysis": "会议时间、名称等应准确无误。",
           "raw": "【例 1-1】2016 年 3 月 11 日，全国人大会议的政府工作报告中提到，“发挥大众创业、万众创"
         },
         {
           "id": "1-2",
-          "error": "更为难能可贵的是，奈特在很大程度上借助了马克思唯物历史主义作为解码乔姆斯",
-          "analysis": "",
+          "error": "更为难能可贵的是，奈特在很大程度上借助了马克思唯物历史主义作为解码乔姆斯 基的理论工具。（应改为“历史唯物主义”）",
+          "analysis": "“历史唯物主义”是马克思主义哲学的重要组成部分，科学的社会历史观和认识、改造 社会的一般方法论，又称唯物史观。",
           "raw": "【例 1-2】更为难能可贵的是，奈特在很大程度上借助了马克思唯物历史主义作为解码乔姆斯"
         },
         {
           "id": "1-3",
-          "error": "从被调查者地域分布来看，地域涵盖北京、上海、天津、重庆四大直辖市，香港与",
-          "analysis": "",
+          "error": "从被调查者地域分布来看，地域涵盖北京、上海、天津、重庆四大直辖市，香港与 澳门及深圳、厦门特区和全国各省（除西藏、台湾地区）省会及部分地级市。（应改为“香港、澳门 特别行政区，深圳、厦门特区”）",
+          "analysis": "根据《现代汉语词典》（第 7 版），“特区”有三个意思：①在政治、经济等方面实行特 殊政策的地区，如经济特区；②特别行政区的简称，如香港特区；③行政区划单位，与县同级。此 例中“香港、澳门”为特别行政区，“深圳、厦门”为经济特区，不能混为一谈。 二、词语（固定用法）错误",
           "raw": "【例 1-3】从被调查者地域分布来看，地域涵盖北京、上海、天津、重庆四大直辖市，香港与"
         },
         {
           "id": "1-4",
-          "error": "他这才彻底清醒过来，心里不由地想：“我是不是傻啊，看那身打扮就知道是某位老",
-          "analysis": "",
+          "error": "他这才彻底清醒过来，心里不由地想：“我是不是傻啊，看那身打扮就知道是某位老 师啊，怎么能说那样的话呢？”（应改为“不由得”）",
+          "analysis": "“不由得”为固定用法，此处做副词，表示“不禁”的意思。",
           "raw": "【例 1-4】他这才彻底清醒过来，心里不由地想：“我是不是傻啊，看那身打扮就知道是某位老"
         },
         {
           "id": "1-5",
           "error": "这样可以防止大海捞针似地查找或重新渲染图像造成的时间浪费。（应改为“似的”）",
-          "analysis": "",
+          "analysis": "“似的”为固定用法，用在名词、代词或动词后面，表示跟某种事物或情况相似。",
           "raw": "【例 1-5】这样可以防止大海捞针似地查找或重新渲染图像造成的时间浪费。（应改为“似的”）"
         },
         {
           "id": "1-6",
           "error": "你为什么把地上搞得这么乱？你要干嘛？（应改为“干吗”）",
-          "analysis": "",
+          "analysis": "“干吗”为疑问代词，指干什么。 三、表意重复",
           "raw": "【例 1-6】你为什么把地上搞得这么乱？你要干嘛？（应改为“干吗”）"
         },
         {
           "id": "1-7",
-          "error": "下面以长三角地区在人工智能领域方面采取的措施为例，来说明长三角地区对新基",
-          "analysis": "",
+          "error": "下面以长三角地区在人工智能领域方面采取的措施为例，来说明长三角地区对新基 建的贡献。（应删“方面”）",
+          "analysis": "“领域”和“方面”语义重复。",
           "raw": "【例 1-7】下面以长三角地区在人工智能领域方面采取的措施为例，来说明长三角地区对新基"
         },
         {
           "id": "1-8",
-          "error": "工业经济时代，不管是直线制、职能制还是事业部制、矩阵制，企业组织结构都像",
-          "analysis": "",
+          "error": "工业经济时代，不管是直线制、职能制还是事业部制、矩阵制，企业组织结构都像 金字塔般一样，呈现垂直化、科层制、等级制的特点。（“般”和“一样”应删其一）",
+          "analysis": "“般”和“一样”语义重复。",
           "raw": "【例 1-8】工业经济时代，不管是直线制、职能制还是事业部制、矩阵制，企业组织结构都像"
         },
         {
           "id": "1-9",
-          "error": "在现代宪法下，劳动者阶层崛起了，他们也诉求自己的一些权利，已获得宪法认定",
-          "analysis": "",
+          "error": "在现代宪法下，劳动者阶层崛起了，他们也诉求自己的一些权利，已获得宪法认定 的，统称叫作劳动基本权。（“统称”和“叫作”应删其一）",
+          "analysis": "“统称”和“叫作”语义重复。",
           "raw": "【例 1-9】在现代宪法下，劳动者阶层崛起了，他们也诉求自己的一些权利，已获得宪法认定"
         }
       ],
       "理工类": [
         {
           "id": "2-1",
-          "error": "广东江门的一名 18 岁女孩同吃罗红霉素缓释胶囊和复方甲氧那明胶囊两种感冒药后",
-          "analysis": "",
+          "error": "广东江门的一名 18 岁女孩同吃罗红霉素缓释胶囊和复方甲氧那明胶囊两种感冒药后 死亡。（应删“感冒”）",
+          "analysis": "科学性差错。罗红霉素缓释胶囊是抗生素，复方甲氧那明胶囊是止咳平喘药，均非感 冒药。",
           "raw": "【例 2-1】广东江门的一名 18 岁女孩同吃罗红霉素缓释胶囊和复方甲氧那明胶囊两种感冒药后"
         },
         {
           "id": "2-2",
-          "error": "时间是物理学中的七个基本物理量（长度为 m，时间为 s，质量为 kg，热力学温度为",
-          "analysis": "",
+          "error": "时间是物理学中的七个基本物理量（长度为 m，时间为 s，质量为 kg，热力学温度为 K，电流单位为 A，光强度为 cd，物质的量为 mol）之一。（应改为“长度、质量、时间、电流、热 力学温度、物质的量、发光强度”）",
+          "analysis": "科学性差错。此处应列举七个基本物理量而非单位。",
           "raw": "【例 2-2】时间是物理学中的七个基本物理量（长度为 m，时间为 s，质量为 kg，热力学温度为"
         },
         {
           "id": "2-3",
           "error": "",
-          "analysis": "",
+          "analysis": "公式差错。",
           "raw": "【例 2-3】"
         },
         {
           "id": "2-4",
           "error": "",
-          "analysis": "",
+          "analysis": "解题差错。",
           "raw": "【例 2-4】"
         },
         {
           "id": "2-5",
           "error": "",
-          "analysis": "",
+          "analysis": "答案差错。 二、专有名词差错",
           "raw": "【例 2-5】"
         },
         {
           "id": "2-6",
-          "error": "通过介绍李兰娟院士创建“李氏人工肝”挽救肝衰竭患者，并获得“联合国科教文",
-          "analysis": "",
+          "error": "通过介绍李兰娟院士创建“李氏人工肝”挽救肝衰竭患者，并获得“联合国科教文 组织生命科学研究奖”的故事，鼓励学生在实践中创新，培养学生用于探索的科学精神。（应改为“联 合国教科文组织-赤道几内亚国际生命科学研究奖”）",
+          "analysis": "奖项名称差错。",
           "raw": "【例 2-6】通过介绍李兰娟院士创建“李氏人工肝”挽救肝衰竭患者，并获得“联合国科教文"
         },
         {
           "id": "2-7",
-          "error": "1956 年，艾华德·丹尼尔·托马斯（Edward Donnall Thomas）成功应用双胞胎间的",
-          "analysis": "",
+          "error": "1956 年，艾华德·丹尼尔·托马斯（Edward Donnall Thomas）成功应用双胞胎间的 骨髓移植治疗白血病。（应改为“爱德华·唐纳尔·托马斯”）",
+          "analysis": "外国人名译名差错。",
           "raw": "【例 2-7】1956 年，艾华德·丹尼尔·托马斯（Edward Donnall Thomas）成功应用双胞胎间的"
         },
         {
           "id": "2-8",
-          "error": "1662 年，日本的竹田近江利用钟表技术发明了自动机器玩偶，并在大阪道顿崛演出。",
-          "analysis": "",
+          "error": "1662 年，日本的竹田近江利用钟表技术发明了自动机器玩偶，并在大阪道顿崛演出。 （应改为“堀”）",
+          "analysis": "地名差错。道顿堀（kū）是日本大阪市一个繁华的商业街区。",
           "raw": "【例 2-8】1662 年，日本的竹田近江利用钟表技术发明了自动机器玩偶，并在大阪道顿崛演出。"
         },
         {
           "id": "2-9",
-          "error": "DHCP（dynamic host configuration protocol，动态主机配置协议）是 IETF（Internet",
-          "analysis": "",
+          "error": "DHCP（dynamic host configuration protocol，动态主机配置协议）是 IETF（Internet 网络工程师任务小组）设计的一个局域网的网络协议。（应改为“因特网工程任务组”）",
+          "analysis": "组织名称差错。IETF（Internet Engineering Task Force，因特网工程任务组）是一个研 发和制定因特网相关技术标准的开放性机构。 三、阿拉伯数字差错",
           "raw": "【例 2-9】DHCP（dynamic host configuration protocol，动态主机配置协议）是 IETF（Internet"
         },
         {
           "id": "2-10",
-          "error": "德国、法国在高速铁路上开行的高速货物列车最高速度已达到 2000 千米/时。（应",
-          "analysis": "",
+          "error": "德国、法国在高速铁路上开行的高速货物列车最高速度已达到 2000 千米/时。（应 改为“200”）",
+          "analysis": "数值差错。高铁的最高试验速度约为 600 千米/时，德国和法国的高速铁路客运最高运 行速度约为 320 千米/时，货运最高运行速度远低于客运，200 千米/时比较符合实际。",
           "raw": "【例 2-10】德国、法国在高速铁路上开行的高速货物列车最高速度已达到 2000 千米/时。（应"
         },
         {
           "id": "2-11",
           "error": "第二组杂粮的特点是都是长条状、长宽比大于 1:2 且都喜阴凉。（应改为“2:1”）",
-          "analysis": "",
+          "analysis": "比例差错。长条状杂粮的长大于宽。",
           "raw": "【例 2-11】第二组杂粮的特点是都是长条状、长宽比大于 1:2 且都喜阴凉。（应改为“2:1”）"
         },
         {
           "id": "2-12",
-          "error": "据传说，三国时期蜀汉军师诸葛亮（180—234 年）是早期无人机的运用者之一。（应",
-          "analysis": "",
+          "error": "据传说，三国时期蜀汉军师诸葛亮（180—234 年）是早期无人机的运用者之一。（应 改为“181”）",
+          "analysis": "年份差错。诸葛亮出生于公元 181 年。",
           "raw": "【例 2-12】据传说，三国时期蜀汉军师诸葛亮（180—234 年）是早期无人机的运用者之一。（应"
         },
         {
           "id": "2-13",
           "error": "GPS BLOCK Ⅲ卫星的首次发射在 2013 年进行。（应改为“2018”）",
-          "analysis": "",
+          "analysis": "时间差错。美国首次发射 GPS BLOCK Ⅲ卫星的时间是 2018 年 12 月。",
           "raw": "【例 2-13】GPS BLOCK Ⅲ卫星的首次发射在 2013 年进行。（应改为“2018”）"
         }
       ],
@@ -1599,68 +1599,68 @@ const BOOK_DATA = [
         {
           "id": "3-1",
           "error": "We might intentionally underestimated the production costs. （应改为 underestimate）",
-          "analysis": "",
+          "analysis": "句中 might 为助动词，后接动词原形，故应将 underestimated 改为 underestimate。",
           "raw": "【例 3-1】 We might intentionally underestimated the production costs. （应改为 underestimate）"
         },
         {
           "id": "3-2",
-          "error": "The quality of the translations are unsatisfactory because the translators are not experts in",
-          "analysis": "",
+          "error": "The quality of the translations are unsatisfactory because the translators are not experts in this field. （应改为 is）",
+          "analysis": "本句主语为 quality，而非 translations，谓语动词应与主语保持一致，故将 are 改为 is。",
           "raw": "【例 3-2】The quality of the translations are unsatisfactory because the translators are not experts in"
         },
         {
           "id": "3-3",
           "error": "The only right of the landlords were to collect rents. （应改为 was）",
-          "analysis": "",
+          "analysis": "本句主语为 right，而非 landlords，谓语动词应与主语保持一致，故将 were 改为 was。",
           "raw": "【例 3-3】The only right of the landlords were to collect rents. （应改为 was）"
         },
         {
           "id": "3-4",
-          "error": "The animals bred most commonly in Jiangnan were fish, sheep, pigs, chickens and goose.",
-          "analysis": "",
+          "error": "The animals bred most commonly in Jiangnan were fish, sheep, pigs, chickens and goose. （应改为 geese）",
+          "analysis": "本句中 fish 和 sheep 为可数名词，单复数同形。goose 是可数名词，复数形式为 geese。",
           "raw": "【例 3-4】The animals bred most commonly in Jiangnan were fish, sheep, pigs, chickens and goose."
         },
         {
           "id": "3-5",
-          "error": "As the economic condition throughout the world is constantly changing. It is essential that",
-          "analysis": "",
+          "error": "As the economic condition throughout the world is constantly changing. It is essential that your foreign operation be transacted through a correspondent bank. （应改为“, it”）",
+          "analysis": "本句为 as 引导的原因状语从句，从句和主句不应是两个句子。",
           "raw": "【例 3-5】As the economic condition throughout the world is constantly changing. It is essential that"
         },
         {
           "id": "3-6",
-          "error": "Realizing the real-time data replication from the main system to the backup system improve",
-          "analysis": "",
+          "error": "Realizing the real-time data replication from the main system to the backup system improve the continuous operation ability of CIPS business. （应改为 improves）",
+          "analysis": "本句的主语（realizing...system）为动名词短语，谓语动词应与其保持一致，用单数形 式，故将 improve 改为 improves。 二、文字差错",
           "raw": "【例 3-6】Realizing the real-time data replication from the main system to the backup system improve"
         },
         {
           "id": "3-7",
-          "error": "Moreover, because of being closed to the seashores, this area often suffers from typhoons.",
-          "analysis": "",
+          "error": "Moreover, because of being closed to the seashores, this area often suffers from typhoons. （应改为 close）",
+          "analysis": "closed 意为“关闭的”，此句要表达的意思是“靠近”，所以应改为 close。",
           "raw": "【例 3-7】 Moreover, because of being closed to the seashores, this area often suffers from typhoons."
         },
         {
           "id": "3-8",
           "error": "Songjiang has a long tradition of complication of gazetteers. （应改为 compilation）",
-          "analysis": "",
+          "analysis": "complication 意为“并发症”，与上下文不搭配，应将其改为 compilation，意为“编纂”。",
           "raw": "【例 3-8】Songjiang has a long tradition of complication of gazetteers. （应改为 compilation）"
         },
         {
           "id": "3-9",
           "error": "They made a great deal of observations in their private wrings. （应改为 writings）",
-          "analysis": "",
+          "analysis": "根据上下文，此处作者要表达的意思是“著作”，可知 wrings 为拼写错误。",
           "raw": "【例 3-9】They made a great deal of observations in their private wrings. （应改为 writings）"
         },
         {
           "id": "3-10",
-          "error": "I write a record of what I believe is true, hoping to let those who concern about farming",
-          "analysis": "",
+          "error": "I write a record of what I believe is true, hoping to let those who concern about farming now. （应改为 know）",
+          "analysis": "此句中 let sb.后面应接动词原形，根据句意可知 now 为 know 的笔误，作者要表达的意 思为“让……知晓”。",
           "raw": "【例 3-10】 I write a record of what I believe is true, hoping to let those who concern about farming"
         }
       ],
       "读者反馈": [
         {
           "id": "4-1",
-          "error": "柱体的体积公式没有前面的1。",
+          "error": "柱体的体积公式没有前面的1。 3 二、计算和转换差错",
           "analysis": "",
           "raw": "【例 4-1】柱体的体积公式没有前面的1。"
         },
@@ -1684,7 +1684,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-5",
-          "error": "函数转换时 10 被错写成 5。",
+          "error": "函数转换时 10 被错写成 5。 三、图表差错",
           "analysis": "",
           "raw": "【例 4-5】函数转换时 10 被错写成 5。"
         },
@@ -1702,7 +1702,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-8",
-          "error": "根据正文叙述，图名应为杀虫剂宣传广告，而不是汽车宣传广告。",
+          "error": "根据正文叙述，图名应为杀虫剂宣传广告，而不是汽车宣传广告。 四、文字错误",
           "analysis": "",
           "raw": "【例 4-8】根据正文叙述，图名应为杀虫剂宣传广告，而不是汽车宣传广告。"
         },
@@ -1756,13 +1756,13 @@ const BOOK_DATA = [
         },
         {
           "id": "4-17",
-          "error": "上下段重复。",
+          "error": "上下段重复。 五、单位差错",
           "analysis": "",
           "raw": "【例 4-17】上下段重复。"
         },
         {
           "id": "4-18",
-          "error": "摄氏度的符号是℃，华氏度的符号是℉，此处应为 34 ℉。",
+          "error": "摄氏度的符号是℃，华氏度的符号是℉，此处应为 34 ℉。 六、序号错误",
           "analysis": "",
           "raw": "【例 4-18】摄氏度的符号是℃，华氏度的符号是℉，此处应为 34 ℉。"
         },
@@ -1789,56 +1789,56 @@ const BOOK_DATA = [
       "文科类": [
         {
           "id": "1-1",
-          "error": "当今世界正经历百年未有之大变局，中国特色社会主义进入新时代，人民对美好生",
-          "analysis": "",
+          "error": "当今世界正经历百年未有之大变局，中国特色社会主义进入新时代，人民对美好生 活的需要与不平衡不充分的发展之间的矛盾成为我国社会的主要矛盾。（应改为“人民日益增长的美 好生活需要和不平衡不充分的发展之间的矛盾”）",
+          "analysis": "党的十九大报告指出：‚中国特色社会主义进入新时代，我国社会主要矛盾已经转化为 人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾。‛政治用语务必规范、准确，不可 随意更改。",
           "raw": "【例 1-1】当今世界正经历百年未有之大变局，中国特色社会主义进入新时代，人民对美好生"
         },
         {
           "id": "1-2",
-          "error": "2013 年 9 月，习近平总书记访问德国，会见德国总理默克尔时，借用物理学“牛顿",
-          "analysis": "",
+          "error": "2013 年 9 月，习近平总书记访问德国，会见德国总理默克尔时，借用物理学“牛顿 力学三定律”来阐述中德关系。（应改为“习近平主席出席 G20 圣彼得堡峰会”）",
+          "analysis": "据新华社报道，国家主席习近平 2013 年 9 月 4 日抵达俄罗斯圣彼得堡出席二十国集团 (G20)峰会。9 月 6 日，习近平在圣彼得堡会见德国总理默克尔时表示：‚总理女士是物理学博士，我 由‘牛顿力学三定律’联想到如何更好推动中德关系发展。‛",
           "raw": "【例 1-2】2013 年 9 月，习近平总书记访问德国，会见德国总理默克尔时，借用物理学“牛顿"
         },
         {
           "id": "1-3",
-          "error": "为了强化研究的科学性，作者又作了大面积的问卷调查，调查对象为 1797 名来自全",
-          "analysis": "",
+          "error": "为了强化研究的科学性，作者又作了大面积的问卷调查，调查对象为 1797 名来自全 国近三十个省、市、自治区的正校长。（应改为“省、区、市”）",
+          "analysis": "根据我国宪法和法律中的表述，‚省、自治区、直辖市‛为固定排序，即‚省‛在前， ‚自治区‛次之，‚直辖市‛再次之。‚省、自治区、直辖市‛可简化为‚省、区、市‛或‚省区市‛； 也可写为‚省（自治区、直辖市）‛，简化为‚省（区、市）‛。 二、词语使用错误",
           "raw": "【例 1-3】为了强化研究的科学性，作者又作了大面积的问卷调查，调查对象为 1797 名来自全"
         },
         {
           "id": "1-4",
-          "error": "美国“次贷危机”引发的全球性经济萧条，经过十多年的洗礼并未完全得到治愈。（可",
-          "analysis": "",
+          "error": "美国“次贷危机”引发的全球性经济萧条，经过十多年的洗礼并未完全得到治愈。（可 改为“缓冲”）",
+          "analysis": "‚洗礼‛表示洗净过去的罪恶，或比喻重大斗争的锻炼和考验，含褒义，用在此处不合 适，可改为‚缓冲‛。",
           "raw": "【例 1-4】美国“次贷危机”引发的全球性经济萧条，经过十多年的洗礼并未完全得到治愈。（可"
         },
         {
           "id": "1-5",
-          "error": "对月球探索的真正的奔月行程是从 20 世纪中旬的美苏太空竞赛开始的。（可改为“中",
-          "analysis": "",
+          "error": "对月球探索的真正的奔月行程是从 20 世纪中旬的美苏太空竞赛开始的。（可改为“中 叶”或“中期”）",
+          "analysis": "‚中旬‛指每月十一日到二十日的十天。‚中叶‛指（一个世纪或一个朝代）中间一段 时期。‚中期‛可指某一时期的中间阶段。 三、表意重复",
           "raw": "【例 1-5】对月球探索的真正的奔月行程是从 20 世纪中旬的美苏太空竞赛开始的。（可改为“中"
         },
         {
           "id": "1-6",
-          "error": "笔者调查发现，这方面校长普遍较为薄弱，当然也不乏许多本身就是教学理论家的",
-          "analysis": "",
+          "error": "笔者调查发现，这方面校长普遍较为薄弱，当然也不乏许多本身就是教学理论家的 卓越校长。（应删“许多”）",
+          "analysis": "‚不乏‛指不缺少，表示有相当数量。‚许多‛与其意思重复，应删除。",
           "raw": "【例 1-6】笔者调查发现，这方面校长普遍较为薄弱，当然也不乏许多本身就是教学理论家的"
         },
         {
           "id": "1-7",
-          "error": "很快，通过邮箱分享 PPT 的弊端显露出来，团队很难及时收到会员的阅读反馈，甚",
-          "analysis": "",
+          "error": "很快，通过邮箱分享 PPT 的弊端显露出来，团队很难及时收到会员的阅读反馈，甚 至出现邮件因疑似涉嫌垃圾邮件而被退的情况。（应删“涉嫌”）",
+          "analysis": "‚疑似‛指怀疑是而不确定。‚涉嫌‛指有跟某件事情有关的嫌疑，语义与‚疑似‛ 重复，应删除。",
           "raw": "【例 1-7】很快，通过邮箱分享 PPT 的弊端显露出来，团队很难及时收到会员的阅读反馈，甚"
         },
         {
           "id": "1-8",
-          "error": "此研究表明还得出了媒体监督与财务绩效之间呈现出一定程度的倒 U 型关系。（应删",
-          "analysis": "",
+          "error": "此研究表明还得出了媒体监督与财务绩效之间呈现出一定程度的倒 U 型关系。（应删 “还得出了”）",
+          "analysis": "‚表明‛和‚得出了‛语义重复。",
           "raw": "【例 1-8】此研究表明还得出了媒体监督与财务绩效之间呈现出一定程度的倒 U 型关系。（应删"
         },
         {
           "id": "1-9",
-          "error": "焦点咨询提出，建立品牌的两把利器依旧还是公关和广告，但是其运用方法要讲究",
-          "analysis": "",
+          "error": "焦点咨询提出，建立品牌的两把利器依旧还是公关和广告，但是其运用方法要讲究 科学思想指导。（“依旧”“还”应删其一）",
+          "analysis": "‚依旧‛和‚还‛语义重复。",
           "raw": "【例 1-9】焦点咨询提出，建立品牌的两把利器依旧还是公关和广告，但是其运用方法要讲究"
         }
       ],
@@ -1846,61 +1846,61 @@ const BOOK_DATA = [
         {
           "id": "2-1",
           "error": "",
-          "analysis": "",
+          "analysis": "外国人名错误。提出蝴蝶效应的是美国气象学家洛伦茨（Edward Norton Lorenz， 1917—2008），他主要研究大气环流和天气预报。容易混淆的科学家有：①美国统计学家洛伦茨（Max Otto Lorenz，1876—1959），提出了西方经济学用以表示社会收入或财产分配不平均程度的‚洛伦茨 曲线‛；②荷兰物理学家洛伦兹（Hendrik Antoon Lorentz，1853—1928），创立了经典电子论，对经 典电磁理论有重要贡献；③丹麦物理学家洛伦茨（Ludvig Valentin Lorenz，1829—1891），主要从事 光学和电磁学的理论研究，首次提出‚洛伦茨规范‛。",
           "raw": "【例 2-1】"
         },
         {
           "id": "2-2",
           "error": "",
-          "analysis": "",
+          "analysis": "化学名词错误。可见分光光度法是根据物质分子对可见光的选择性吸收特性而建立的 一种分析方法。它是分光光度法的一种，所用的光谱区域为 400~780nm。",
           "raw": "【例 2-2】"
         },
         {
           "id": "2-3",
           "error": "",
-          "analysis": "",
+          "analysis": "机构名称使用不规范。CDC 是疾病控制与预防中心（Centers for Disease Control and Prevention）的英文缩写。在使用外国机构名称时，不可将中英文名称糅合；如需要使用英文缩写， 应在首次出现时注明中文名称。 二、计算与解题错误",
           "raw": "【例 2-3】"
         },
         {
           "id": "2-4",
           "error": "",
-          "analysis": "",
+          "analysis": "公式推导错误，多了等于号。",
           "raw": "【例 2-4】"
         },
         {
           "id": "2-5",
           "error": "",
-          "analysis": "",
+          "analysis": "计算错误，90+50≠130。",
           "raw": "【例 2-5】"
         },
         {
           "id": "2-6",
           "error": "",
-          "analysis": "",
+          "analysis": "计算式中的数据与题目中的不匹配。",
           "raw": "【例 2-6】"
         },
         {
           "id": "2-7",
           "error": "",
-          "analysis": "",
+          "analysis": "题目设计错误，题目中所列的 5 个式子并不全是方程，不能写成‚下列方程‛。 三、单位错误",
           "raw": "【例 2-7】"
         },
         {
           "id": "2-8",
           "error": "",
-          "analysis": "",
+          "analysis": "发电量是计算电能生产数量的指标，单位为千瓦·时（kW·h）。1 kW·h=3.6MJ。",
           "raw": "【例 2-8】"
         },
         {
           "id": "2-9",
           "error": "",
-          "analysis": "",
+          "analysis": "单位的中文符号和单位名称杂糅。声强的单位符号为 W/m2，中文符号为瓦/米 2，单位 名称为瓦每平方米。本例中用单位符号 W/m2 表示即可。",
           "raw": "【例 2-9】"
         },
         {
           "id": "2-10",
           "error": "",
-          "analysis": "",
+          "analysis": "SI 词头错误。词头用于构成倍数单位（十进倍数单位与分数单位），词头符号与所紧接 的单位符号作为一个整体对待。本例中的词头符号 μ 是希文，非英文 u。 《量和单位》（GB 3100—93）中列出了 20 个 SI 词头。2022 年 11 月，第 27 届国际计量大会通 过决议，引入 4 个 SI 新词头 ronna、ronto、quetta、quecto，对应的中文名称为容[那]、柔[托]、昆[它]、 亏[科托]，符号为 R、r、Q、q，分别表示 1027、10－27、1030、10－30。",
           "raw": "【例 2-10】"
         }
       ],
@@ -1908,37 +1908,37 @@ const BOOK_DATA = [
         {
           "id": "3-1",
           "error": "The Air conditioner in the Room 203 fails to start sometimes. （应删除 the）",
-          "analysis": "",
+          "analysis": "Room 203 已经特指一个专门的房间，在此情况下，不需要加定冠词 the。",
           "raw": "【例 3-1】The Air conditioner in the Room 203 fails to start sometimes. （应删除 the）"
         },
         {
           "id": "3-2",
           "error": "I cupped my face in my hands, tears rolling down my cheek. （应改为 cheeks）",
-          "analysis": "",
+          "analysis": "cheek 是可数名词，文中 cheek 应指‚两颊‛，所以用复数形式。 二、文字差错",
           "raw": "【例 3-2】I cupped my face in my hands, tears rolling down my cheek. （应改为 cheeks）"
         },
         {
           "id": "3-3",
-          "error": "When you think of staying safe in your home, you probably think of making sure the doors",
-          "analysis": "",
+          "error": "When you think of staying safe in your home, you probably think of making sure the doors and windows are locked, so nobody can get him. （应改为 in）",
+          "analysis": "此段文字为听力文本。结合上下文内容，him 应改为 in。",
           "raw": "【例 3-3】When you think of staying safe in your home, you probably think of making sure the doors"
         },
         {
           "id": "3-4",
-          "error": "",
-          "analysis": "",
+          "error": " 误                                正 高母羡（Juan Cob）                    高母羡（Juan Cobo） 殷铎泽（Prosper Intor Cetta）          殷铎泽（Prosper Intorcetta） 卫方泽                              卫方济 理雅各（James Ledge）                 理雅各（James Legge） Rosemont Henry Jr.               Henry Rosemont Jr. 玉素甫·哈斯·哈吉甫                        尤素甫·哈斯·哈吉甫 Tereasa May                      Theresa May",
+          "analysis": "人名属于专有名词，要特别注意拼写、翻译等的正确性。存疑时，可参考《辞海》《中 国大百科全书》《英语姓名译名手册》等工具书。",
           "raw": "【例 3-4】"
         },
         {
           "id": "3-5",
-          "error": "To be followed are service, environment, and price, with the percentages of 26.8%, 23.8%,",
-          "analysis": "",
+          "error": "To be followed are service, environment, and price, with the percentages of 26.8%, 23.8%, 8.4% and 4.7% respectively. （应删除 and 4.7%）",
+          "analysis": "句中 26.8%、23.8%、8.4%、4.7%与 service、environment、price 不对应，根据所检图书 中提供的图片确定 4.7%属于多余信息，应删除。 三、翻译错误",
           "raw": "【例 3-5】To be followed are service, environment, and price, with the percentages of 26.8%, 23.8%,"
         },
         {
           "id": "3-6",
-          "error": "原文：Words cannot express how sorry I am that you have such a difficult time.",
-          "analysis": "",
+          "error": "原文：Words cannot express how sorry I am that you have such a difficult time. 译文：我如何度过这段艰难的日子是无法用言语来表达的。（译文应改为“言语无法表达我对 你经历的这段艰难时光的同情。”）",
+          "analysis": "原文表达的是‚我‛对朋友的同情。译文与原文不符。",
           "raw": "【例 3-6】原文：Words cannot express how sorry I am that you have such a difficult time."
         }
       ],
@@ -1969,7 +1969,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-5",
-          "error": "机身高度数据有误，应该是 4.95 米。",
+          "error": "机身高度数据有误，应该是 4.95 米。 二、计算差错",
           "analysis": "",
           "raw": "【例 4-5】机身高度数据有误，应该是 4.95 米。"
         },
@@ -1987,13 +1987,13 @@ const BOOK_DATA = [
         },
         {
           "id": "4-8",
-          "error": "答案写反了。（“与”运算规则是两个数位均为 1，结果为 1，否则为 0；“异或”运算",
+          "error": "答案写反了。（“与”运算规则是两个数位均为 1，结果为 1，否则为 0；“异或”运算 规则是两个数位相同为 0，不同为 1。）",
           "analysis": "",
           "raw": "【例 4-8】答案写反了。（“与”运算规则是两个数位均为 1，结果为 1，否则为 0；“异或”运算"
         },
         {
           "id": "4-9",
-          "error": "二进制数 00000111 转换成十进制数是 7，不是 9。",
+          "error": "二进制数 00000111 转换成十进制数是 7，不是 9。 三、选项重复错误",
           "analysis": "",
           "raw": "【例 4-9】二进制数 00000111 转换成十进制数是 7，不是 9。"
         },
@@ -2005,7 +2005,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-11",
-          "error": "A 和 D 选项内容重复。",
+          "error": "A 和 D 选项内容重复。 四、文字差错",
           "analysis": "",
           "raw": "【例 4-11】A 和 D 选项内容重复。"
         },
@@ -2063,67 +2063,67 @@ const BOOK_DATA = [
         {
           "id": "1-1",
           "error": "为了表示投身革命的坚定立场，孙中山剪掉了象征满清统治的发辫。（应改为“清朝”）",
-          "analysis": "",
+          "analysis": "“满清”这个名词是在清朝末年中国人民反对当时封建统治者这一段历史遗留下来的称 谓。在各种文件、著作和报纸、刊物中，除了引用历史文献不便改动外，一律不用“满清”这个名 称。同中国历史上各个朝代的称谓方式一样，清朝自应顺理成章称为“清朝”，而不称“满清”。",
           "raw": "【例 1-1】为了表示投身革命的坚定立场，孙中山剪掉了象征满清统治的发辫。（应改为“清朝”）"
         },
         {
           "id": "1-2",
-          "error": "目前，164 个世贸组织成员国都接受了这项标准，尽管这项标准在这些国家获得执行",
-          "analysis": "",
+          "error": "目前，164 个世贸组织成员国都接受了这项标准，尽管这项标准在这些国家获得执行 的效果不同。（应分别改为“成员”和“国家和地区”）",
+          "analysis": "任何国家或者贸易政策完全自治的关税地区均有资格加入世贸组织，成为其成员，其 中包括台湾、澎湖、金门、马祖等单独关税区。 二、会议名称错误",
           "raw": "【例 1-2】目前，164 个世贸组织成员国都接受了这项标准，尽管这项标准在这些国家获得执行"
         },
         {
           "id": "1-3",
-          "error": "1955 年 12 月，国务院全体会议第二十一次会议通过《国家机关工作人员退休处理暂",
+          "error": "1955 年 12 月，国务院全体会议第二十一次会议通过《国家机关工作人员退休处理暂 行办法》《国家机关工作人员退职处理暂行办法》。（应改为“国务院第二十一次全体会议”）",
           "analysis": "",
           "raw": "【例 1-3】1955 年 12 月，国务院全体会议第二十一次会议通过《国家机关工作人员退休处理暂"
         },
         {
           "id": "1-4",
-          "error": "该法于 2010 年制定，2011 年 7 月正式实施，根据 2018 年 12 月 29 日党的第十三届",
+          "error": "该法于 2010 年制定，2011 年 7 月正式实施，根据 2018 年 12 月 29 日党的第十三届 全国人民代表大会常务委员会第七次会议《关于修改〈中华人民共和国社会保险法〉的决定》修正。 （应改为“第十三届全国人民代表大会”）",
           "analysis": "",
           "raw": "【例 1-4】该法于 2010 年制定，2011 年 7 月正式实施，根据 2018 年 12 月 29 日党的第十三届"
         },
         {
           "id": "1-5",
-          "error": "2022 年胜利召开的中国共产党第二十次代表大会所确定的“中国式现代化”发展战",
+          "error": "2022 年胜利召开的中国共产党第二十次代表大会所确定的“中国式现代化”发展战 略中，不断强化优秀传统文化的继承和弘扬，体现了传统和现代之间不可割裂的血脉关系。（应改为 “中国共产党第二十次全国代表大会”） 三、词语误用",
           "analysis": "",
           "raw": "【例 1-5】2022 年胜利召开的中国共产党第二十次代表大会所确定的“中国式现代化”发展战"
         },
         {
           "id": "1-6",
-          "error": "这些据点原本就在干细胞、再生医学领域取得过丰硕成果，优秀的专家学者大多云",
-          "analysis": "",
+          "error": "这些据点原本就在干细胞、再生医学领域取得过丰硕成果，优秀的专家学者大多云 集于此。（可改为“基地”）",
+          "analysis": "根据《现代汉语词典》（第 7 版），“据点”有两个意思：①军队用作战斗行动凭借的地 点；②泛指进行活动凭借的地点（多含贬义）。用在此处不合适。",
           "raw": "【例 1-6】这些据点原本就在干细胞、再生医学领域取得过丰硕成果，优秀的专家学者大多云"
         },
         {
           "id": "1-7",
-          "error": "原综合科学技术会议成员井村裕夫教授、岸本忠三教授这样的学界重镇也莅临会场",
-          "analysis": "",
+          "error": "原综合科学技术会议成员井村裕夫教授、岸本忠三教授这样的学界重镇也莅临会场 并发表致辞。（可改为“巨擘”）",
+          "analysis": "“重镇”表示军事上占重要地位的城镇，也指在其他方面占重要地位的城镇；“巨擘” 比喻在某一方面居于首位的人物。",
           "raw": "【例 1-7】原综合科学技术会议成员井村裕夫教授、岸本忠三教授这样的学界重镇也莅临会场"
         },
         {
           "id": "1-8",
-          "error": "在我国，就商品的退换所引发的退税问题，海关还没有统一的政策和解决方案，只",
-          "analysis": "",
+          "error": "在我国，就商品的退换所引发的退税问题，海关还没有统一的政策和解决方案，只 能依据各个口岸海关自己出具的一些暂行政策来解决。（可改为“制定”）",
+          "analysis": "“出具”指开出、写出（证明、证件等）。此处指政策，可用“制定”。 四、标点错误",
           "raw": "【例 1-8】在我国，就商品的退换所引发的退税问题，海关还没有统一的政策和解决方案，只"
         },
         {
           "id": "1-9",
-          "error": "三岛通过乔治·巴塔耶找到了自己与战后思想不相容的根据，而根据的背景就是",
-          "analysis": "",
+          "error": "三岛通过乔治·巴塔耶找到了自己与战后思想不相容的根据，而根据的背景就是 “二·二六事件”。（应改为“二二六事件”）",
+          "analysis": "含有月日的专名采用汉字数字表示时，如果涉及一月、十一月、十二月，应用间隔号 将表示月和日的数字隔开，涉及其他月份时，不用间隔号。",
           "raw": "【例 1-9】三岛通过乔治·巴塔耶找到了自己与战后思想不相容的根据，而根据的背景就是"
         },
         {
           "id": "1-10",
-          "error": "2020 年在华侨大学第 20 届 5.25 心理健康宣传月之“遇见生命之美”云端剧场决赛",
-          "analysis": "",
+          "error": "2020 年在华侨大学第 20 届 5.25 心理健康宣传月之“遇见生命之美”云端剧场决赛 中，我是参与团队负责人。（应改为“5·25”）",
+          "analysis": "以月日为标志的事件或节日，当直接用阿拉伯数字表示时，应采用间隔号将表示月、 日的数字分开。",
           "raw": "【例 1-10】2020 年在华侨大学第 20 届 5.25 心理健康宣传月之“遇见生命之美”云端剧场决赛"
         },
         {
           "id": "1-11",
-          "error": "我在那时候当然更没有想到那个小孩在二、三十年后还时时留心搜求可以考证《封",
-          "analysis": "",
+          "error": "我在那时候当然更没有想到那个小孩在二、三十年后还时时留心搜求可以考证《封 神榜》的作者的材料！（应改为“二三十年”）",
+          "analysis": "两个汉字数字连用表示概数时，两数之间不用顿号“、”隔开。 2023 年文科类图书问题集中体现在以下几方面。 （1）教材类图书：字词差错（别字、多字、漏字、颠倒字，词语、成语误用等）。 （2）零售类图书：语法差错（成分残缺、表意重复）、逻辑差错、标点使用差错等。 （3）专著类图书：别字、多字、漏字，词语误用，标点使用差错等。 （4）文科图书其他问题： ① 知识性差错；② 引文差错；③ 不一致性差错；④ 数字 用法差错等。",
           "raw": "【例 1-11】我在那时候当然更没有想到那个小孩在二、三十年后还时时留心搜求可以考证《封"
         }
       ],
@@ -2131,141 +2131,141 @@ const BOOK_DATA = [
         {
           "id": "2-1",
           "error": "",
-          "analysis": "",
+          "analysis": "别字。导数是数学名词，是微积分中的重要概念。它表示函数的变化趋势，可理解为 函数在某处的切线的斜率。本例涉及曲线平滑处理，用到的是“导数”而非“倒数”。",
           "raw": "【例 2-1】"
         },
         {
           "id": "2-2",
           "error": "",
-          "analysis": "",
+          "analysis": "别字。拟合是指将一个模型或函数与实际数据相匹配，以得到一个能够描述或预测这些 数据的最佳模型或函数。在统计学和机器学习中，拟合通常是用来估计参数或寻找最优参数的过程。",
           "raw": "【例 2-2】"
         },
         {
           "id": "2-3",
           "error": "",
-          "analysis": "",
+          "analysis": "外国人名拼写差错。flourier 应改为 Fourier。",
           "raw": "【例 2-3】"
         },
         {
           "id": "2-4",
           "error": "",
-          "analysis": "",
+          "analysis": "漏字。2021 年 12 月 4 号，安慕希联合上海市公安局静安分局推出首款反诈骗主题数字 酸奶藏品，每个瓶身对应着一条反诈宣传标语，提醒广大用户警惕元宇宙骗局。",
           "raw": "【例 2-4】"
         },
         {
           "id": "2-5",
           "error": "",
-          "analysis": "",
+          "analysis": "国家名差错。US 是美国的代码。",
           "raw": "【例 2-5】"
         },
         {
           "id": "2-6",
           "error": "",
-          "analysis": "",
+          "analysis": "漏字。“无二氧化碳水”是化学实验中常用的一种水。用于稀释碳酸钠标准溶液的水如 含有二氧化碳，会影响计算结果，故用无二氧化碳水。",
           "raw": "【例 2-6】"
         },
         {
           "id": "2-7",
           "error": "",
-          "analysis": "",
+          "analysis": "颠倒字。知识图谱是将海量知识及其相互关系组织在一张大图中，用于知识的管理、 搜索和服务。 二、知识性差错",
           "raw": "【例 2-7】"
         },
         {
           "id": "2-8",
           "error": "",
-          "analysis": "",
+          "analysis": "基本性质差错。在平面几何中，斜边是相对于直角边而言的，只有直角三角形才有斜 边。三条边中斜边最长是直角三角形的性质之一。",
           "raw": "【例 2-8】"
         },
         {
           "id": "2-9",
           "error": "",
-          "analysis": "",
+          "analysis": "概念差错。频率是物理量，其单位为赫兹。物理量和单位是两个不同的概念。",
           "raw": "【例 2-9】"
         },
         {
           "id": "2-10",
           "error": "",
-          "analysis": "",
+          "analysis": "定义差错。色温是指光源所发光的颜色的冷暖程度。它是用来描述光的颜色特性的参 数，其单位是 K（开尔文）。",
           "raw": "【例 2-10】"
         },
         {
           "id": "2-11",
           "error": "",
-          "analysis": "",
+          "analysis": "定义差错。生活排水系统是一种排出污（废）水的系统。 三、数字差错",
           "raw": "【例 2-11】"
         },
         {
           "id": "2-12",
           "error": "",
-          "analysis": "",
+          "analysis": "年份差错。卢梭的生卒年份为 1712—1778 年。",
           "raw": "【例 2-12】"
         },
         {
           "id": "2-13",
           "error": "",
-          "analysis": "",
+          "analysis": "数值差错。绕地球圈数为总里程除以地球周长（赤道周长为 40076 公里），即 748443665/40076=18675.6，约 18676 圈。",
           "raw": "【例 2-13】"
         },
         {
           "id": "2-14",
           "error": "",
-          "analysis": "",
+          "analysis": "比值差错。标准试样的高为 100mm，直径为 50mm，其高径比为 100:50，即 2:1。",
           "raw": "【例 2-14】"
         },
         {
           "id": "2-15",
           "error": "",
-          "analysis": "",
+          "analysis": "数据差错。ImageNet 包含 14197122 幅图像，21841 个类别，故“1400 万”“2.2 万”应 分别改为“1400 多万”“约 2.2 万”；14197122/21841≈650，与 1000 不符，故平均数 1000 有误，因每 个类型的图像数量不同，平均值无实质意义，可删去。 2023 年理工类图书中的主要差错如下。 （1）一般文字差错：①别字、多字、漏字；②词语使用不当。 （2）不一致性差错：①图文不一致；②相同内容前后不一致（尤其是引述内容）。 （3）知识性差错：①科学知识差错（概念、性质、定义）；②知识陈旧过时。 （4）公式和计算差错：①公式推导差错；②数学计算差错；③解题错或题目设计不当。 （5）专有名称与科技名词差错：①外文人名译名差错；②科技名词用法不规范。",
           "raw": "【例 2-15】"
         }
       ],
       "外语类": [
         {
           "id": "3-1",
-          "error": "The book is dividing into 40 sections, each of which addresses a specific issue. （应改为",
-          "analysis": "",
+          "error": "The book is dividing into 40 sections, each of which addresses a specific issue. （应改为 divided）",
+          "analysis": "根据本句的句意，此处动词应使用被动语态，所以将 dividing 改为 divided。",
           "raw": "【例 3-1】 The book is dividing into 40 sections, each of which addresses a specific issue. （应改为"
         },
         {
           "id": "3-2",
-          "error": "The flood affected a great deal of the regions of the middle and lower Yangzi valley.",
-          "analysis": "",
+          "error": "The flood affected a great deal of the regions of the middle and lower Yangzi valley. （应改为 a great number of）",
+          "analysis": "本句中 the regions 为可数名词。a great deal of 只能修饰不可数名词，所以将 a great deal of 改为 a great number of。",
           "raw": "【例 3-2】The flood affected a great deal of the regions of the middle and lower Yangzi valley."
         },
         {
           "id": "3-3",
-          "error": "It is impossible to know how large the average scale of aquaculture in a peasant family farm.",
-          "analysis": "",
+          "error": "It is impossible to know how large the average scale of aquaculture in a peasant family farm. （应在句末 farm 后加 was）",
+          "analysis": "本句是主语从句。It 是形式主语。原句中的从句为非完整句，缺少动词，应改为 how large the average scale of aquaculture in a peasant family farm was。 二、文字差错",
           "raw": "【例 3-3】It is impossible to know how large the average scale of aquaculture in a peasant family farm."
         },
         {
           "id": "3-4",
           "error": "I was sent to work as a labor in a remote village. （应改为 laborer）",
-          "analysis": "",
+          "analysis": "根据本句的句意，此处要表达的意思是“（尤指户外的）体力劳动者”，所以应将 labor 改为 laborer。",
           "raw": "【例 3-4】I was sent to work as a labor in a remote village. （应改为 laborer）"
         },
         {
           "id": "3-5",
           "error": "Western academic works have been introduced in China since 1979. （应改为 to）",
-          "analysis": "",
+          "analysis": "本句中的 in 应改为 to。to 为介词，后接名词。be introduced to...意为“被介绍给……”。",
           "raw": "【例 3-5】Western academic works have been introduced in China since 1979. （应改为 to）"
         },
         {
           "id": "3-6",
-          "error": "In the early nineteenth century, fishing developed professional and became the main",
-          "analysis": "",
+          "error": "In the early nineteenth century, fishing developed professional and became the main occupation of some peasants. （应改为 professionally）",
+          "analysis": "本句中，修饰动词 developed 的应为副词，所以将 professional 改为 professionally。",
           "raw": "【例 3-6】In the early nineteenth century, fishing developed professional and became the main"
         },
         {
           "id": "3-7",
           "error": "Seeds and raw cotton had to be brought in the market. （应改为 bought）",
-          "analysis": "",
+          "analysis": "根据本句的句意，此处要表达的意思是“购买”。brought 为 bought 的笔误。",
           "raw": "【例 3-7】Seeds and raw cotton had to be brought in the market. （应改为 bought）"
         },
         {
           "id": "3-8",
           "error": "The country is located in the lowest reach of the Huangpu River. （应改为 county）",
-          "analysis": "",
+          "analysis": "根据本句的句意，此处要表达的意思是“县”，所以将 country 改为 county。 2023 年外语类图书中的错误主要集中在如下几个方面。 （1）一般政治性差错：英文政治性用语使用错误，涉及港澳台的英文表达不规范。 （2）知识性差错：注释内容错误，习题无逻辑，习题答案错。 （3）翻译差错：译文与原文不对应、漏译，对原文不理解造成的错译。 （4）语法差错：主谓不一致，时态、语态误用，名词可数与不可数误用，句子成分残缺。 （5）文字差错：形似字母录入错误，特殊形式分词的拼写错误，正斜体错误，专有名词错误。",
           "raw": "【例 3-8】The country is located in the lowest reach of the Huangpu River. （应改为 county）"
         }
       ],
@@ -2290,7 +2290,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-4",
-          "error": "倍数不应有单位。",
+          "error": "倍数不应有单位。 二、计算差错",
           "analysis": "",
           "raw": "【例 4-4】 倍数不应有单位。"
         },
@@ -2320,7 +2320,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-9",
-          "error": "计算结果有误，100 000/（1+1.5%）×1.5%≈1477.8。",
+          "error": "计算结果有误，100 000/（1+1.5%）×1.5%≈1477.8。 三、图文不一致",
           "analysis": "",
           "raw": "【例 4-9】计算结果有误，100 000/（1+1.5%）×1.5%≈1477.8。"
         },
@@ -2332,13 +2332,13 @@ const BOOK_DATA = [
         },
         {
           "id": "4-11",
-          "error": "文中描述与图题不一致，文中为“拳击手”装甲运兵车，图题为“拳师犬”装甲运",
+          "error": "文中描述与图题不一致，文中为“拳击手”装甲运兵车，图题为“拳师犬”装甲运 兵车。",
           "analysis": "",
           "raw": "【例 4-11】文中描述与图题不一致，文中为“拳击手”装甲运兵车，图题为“拳师犬”装甲运"
         },
         {
           "id": "4-12",
-          "error": "图文不符，文中描述为“图像 f(x,y)输入到编码器中”，图中为解码器。",
+          "error": "图文不符，文中描述为“图像 f(x,y)输入到编码器中”，图中为解码器。 四、文字差错",
           "analysis": "",
           "raw": "【例 4-12】图文不符，文中描述为“图像 f(x,y)输入到编码器中”，图中为解码器。"
         },
@@ -2383,86 +2383,86 @@ const BOOK_DATA = [
       "文科类": [
         {
           "id": "1-1",
-          "error": "积极培育和践行社会主义核心价值观，进一步坚定“四个自信”，引导和培养中华民",
+          "error": "积极培育和践行社会主义核心价值观，进一步坚定“四个自信”，引导和培养中华民 族的文化自信，对于努力构建富强民主文明和谐的社会主义现代国家具有重要的现实意义。（应改为 “社会主义现代化国家”）",
           "analysis": "",
           "raw": "【例 1-1】积极培育和践行社会主义核心价值观，进一步坚定“四个自信”，引导和培养中华民"
         },
         {
           "id": "1-2",
-          "error": "“以和为贵，求同存异”“共建共享，世界大同”的东方文明，将对建设人类文明共",
+          "error": "“以和为贵，求同存异”“共建共享，世界大同”的东方文明，将对建设人类文明共 同体做出巨大的贡献。（应改为“人类命运共同体”）",
           "analysis": "",
           "raw": "【例 1-2】“以和为贵，求同存异”“共建共享，世界大同”的东方文明，将对建设人类文明共"
         },
         {
           "id": "1-3",
-          "error": "经济互惠交往，文化交流互动，社会友好往来，是构建全球命运共同体的重要方式",
+          "error": "经济互惠交往，文化交流互动，社会友好往来，是构建全球命运共同体的重要方式 和路径。（应改为“人类命运共同体”）",
           "analysis": "",
           "raw": "【例 1-3】经济互惠交往，文化交流互动，社会友好往来，是构建全球命运共同体的重要方式"
         },
         {
           "id": "1-4",
-          "error": "作者的资政建议、研究报告被中央有关国家机关、部委采纳或被领导批示。（应改为",
+          "error": "作者的资政建议、研究报告被中央有关国家机关、部委采纳或被领导批示。（应改为 “中央和国家有关机关”） 二、词语误用",
           "analysis": "",
           "raw": "【例 1-4】作者的资政建议、研究报告被中央有关国家机关、部委采纳或被领导批示。（应改为"
         },
         {
           "id": "1-5",
-          "error": "2021 年缅甸遭受恐怖袭击的死亡人数增幅最大，从前一年的 24 人增加到 521 人，缅",
-          "analysis": "",
+          "error": "2021 年缅甸遭受恐怖袭击的死亡人数增幅最大，从前一年的 24 人增加到 521 人，缅 甸也首次跻身受恐怖主义影响最严重的十个国家之列。（可改为“进入”）",
+          "analysis": "“跻身”表示是自己上升到（某种行列、位置等），为褒义词。",
           "raw": "【例 1-5】2021 年缅甸遭受恐怖袭击的死亡人数增幅最大，从前一年的 24 人增加到 521 人，缅"
         },
         {
           "id": "1-6",
           "error": "镜头拉开，瓦力和哈尔从垃圾堆起来的巨型“大厦”上拾阶而下。（可改为“蹋阶”）",
-          "analysis": "",
+          "analysis": "“拾阶”表示脚踏实地、步步高升之意，只能用于向上攀登。",
           "raw": "【例 1-6】镜头拉开，瓦力和哈尔从垃圾堆起来的巨型“大厦”上拾阶而下。（可改为“蹋阶”）"
         },
         {
           "id": "1-7",
-          "error": "近代以来，东西方经济文化交流频仍，这件西洋乐器也随之传入中国，中国人与钢",
-          "analysis": "",
+          "error": "近代以来，东西方经济文化交流频仍，这件西洋乐器也随之传入中国，中国人与钢 琴就此结下不解之缘。（可改为“频繁”）",
+          "analysis": "“频仍”表示接连不断；一次又一次（多用于消极方面）。",
           "raw": "【例 1-7】近代以来，东西方经济文化交流频仍，这件西洋乐器也随之传入中国，中国人与钢"
         },
         {
           "id": "1-8",
           "error": "我们可以观察到第一代船长和飞船上的人们体形尚且比较正常。（可改为“尚”）",
-          "analysis": "",
+          "analysis": "“尚且”指提出程度更甚的事例作为衬托，下文常用“何况”等呼应，表示进一层的意 思。“尚”作为连词，同“尚且”之意；作为副词，意为“还”。此句“尚且”改为“尚”，取“还” 之意。",
           "raw": "【例 1-8】我们可以观察到第一代船长和飞船上的人们体形尚且比较正常。（可改为“尚”）"
         },
         {
           "id": "1-9",
-          "error": "他们把成功归咎于自己的能力，把失败归咎于别人的问题，同时做任何事情，都以",
-          "analysis": "",
+          "error": "他们把成功归咎于自己的能力，把失败归咎于别人的问题，同时做任何事情，都以 侥幸心理来对待，最终一事无成。（可改为“归结”）",
+          "analysis": "“归咎”意为归罪，把罪过归于（某个人或集体），用于此处不妥。 三、表意重复",
           "raw": "【例 1-9】他们把成功归咎于自己的能力，把失败归咎于别人的问题，同时做任何事情，都以"
         },
         {
           "id": "1-10",
-          "error": "国内大多数城市发展普遍存在“重地上、轻地下”的通病，在漂亮的高楼大厦下面",
-          "analysis": "",
+          "error": "国内大多数城市发展普遍存在“重地上、轻地下”的通病，在漂亮的高楼大厦下面 通常隐藏着脆弱的城市排水管网系统。（可改“通病”为“现象”）",
+          "analysis": "“普遍”和“通”语义重复。",
           "raw": "【例 1-10】国内大多数城市发展普遍存在“重地上、轻地下”的通病，在漂亮的高楼大厦下面"
         },
         {
           "id": "1-11",
-          "error": "因为 AI 绘画的作品效果有时候可以堪比大师，所以市场上有一部分人对于优质 AI",
-          "analysis": "",
+          "error": "因为 AI 绘画的作品效果有时候可以堪比大师，所以市场上有一部分人对于优质 AI 绘画作品的价值是比较认可的。（应删“可以”）",
+          "analysis": "“堪”已有“可、能”的意思，此例中“可以”与其重复，应删除。",
           "raw": "【例 1-11】因为 AI 绘画的作品效果有时候可以堪比大师，所以市场上有一部分人对于优质 AI"
         },
         {
           "id": "1-12",
-          "error": "有关罗尔斯正义理论的研究已然形成中外学界的“罗尔斯产业”，经年长盛不衰。（应",
-          "analysis": "",
+          "error": "有关罗尔斯正义理论的研究已然形成中外学界的“罗尔斯产业”，经年长盛不衰。（应 删“经年”）",
+          "analysis": "“经年”表示经历很多年月，形容时间很长，与“长”意思重复，应删除。",
           "raw": "【例 1-12】有关罗尔斯正义理论的研究已然形成中外学界的“罗尔斯产业”，经年长盛不衰。（应"
         },
         {
           "id": "1-13",
-          "error": "美国经济增长放缓将减少美国对中国商品和服务的需求，从而进一步降低中国的经",
-          "analysis": "",
+          "error": "美国经济增长放缓将减少美国对中国商品和服务的需求，从而进一步降低中国的经 济增速，当然，反之也亦然。（应删“也”）",
+          "analysis": "“亦”已有“也、也是”的意思，此例中“也”与其重复，应删除。",
           "raw": "【例 1-13】美国经济增长放缓将减少美国对中国商品和服务的需求，从而进一步降低中国的经"
         },
         {
           "id": "1-14",
-          "error": "进入民国后，已经鲜少有人留着辫子，而他在北京大学讲课时，仍是拖着大辫子，",
-          "analysis": "",
+          "error": "进入民国后，已经鲜少有人留着辫子，而他在北京大学讲课时，仍是拖着大辫子， 带着书童。（“鲜”与“少”应删其一）",
+          "analysis": "“鲜”和“少”语义重复。",
           "raw": "【例 1-14】进入民国后，已经鲜少有人留着辫子，而他在北京大学讲课时，仍是拖着大辫子，"
         }
       ],
@@ -2470,73 +2470,73 @@ const BOOK_DATA = [
         {
           "id": "2-1",
           "error": "视网膜由视细胞组成，视细胞分为视干细胞和视锥细胞两种。（应改为“视杆细胞”）",
-          "analysis": "",
+          "analysis": "“视杆细胞”是细胞外突呈杆状的一种视细胞，主要分布在视网膜周围，感受弱光。",
           "raw": "【例 2-1】视网膜由视细胞组成，视细胞分为视干细胞和视锥细胞两种。（应改为“视杆细胞”）"
         },
         {
           "id": "2-2",
           "error": "",
-          "analysis": "",
+          "analysis": "太阳辐射光谱有无线电波、红外线、可见光、紫外线、X 射线和 γ 射线等多个范围的 波谱，其中 99.9%的能量集中在红外波段、可见光波段和紫外波段。红色波段和紫色波段属于可见 光波段。",
           "raw": "【例 2-2】"
         },
         {
           "id": "2-3",
           "error": "特征空间内两个特征向量的欧式距离，等于向量差的模长。（应改为“欧氏距离”）",
-          "analysis": "",
+          "analysis": "欧氏距离即欧几里得距离，是最常见的距离度量，衡量的是多维空间中两个点之间的 绝对距离。",
           "raw": "【例 2-3】特征空间内两个特征向量的欧式距离，等于向量差的模长。（应改为“欧氏距离”）"
         },
         {
           "id": "2-4",
-          "error": "希尔伯特第十问题：设计一个算法来判定丢潘图方程是否存在整数解。（应改为“丢",
-          "analysis": "",
+          "error": "希尔伯特第十问题：设计一个算法来判定丢潘图方程是否存在整数解。（应改为“丢 番图”）",
+          "analysis": "丢番图是古希腊著名的数论及代数学家，他早在公元 3 世纪就开始研究不定方程，因 此常称不定方程为丢番图方程。",
           "raw": "【例 2-4】希尔伯特第十问题：设计一个算法来判定丢潘图方程是否存在整数解。（应改为“丢"
         },
         {
           "id": "2-5",
-          "error": "列文•虎克在蝌蚪的尾巴上看到了血流通过毛细血管的实际循环过程。（应改为“列",
-          "analysis": "",
+          "error": "列文•虎克在蝌蚪的尾巴上看到了血流通过毛细血管的实际循环过程。（应改为“列 文虎克”）",
+          "analysis": "“列文虎克”是姓，不加间隔号。书稿中常出现把安东尼•范•列文虎克（Antonie van Leeuwenhoek，1632—1723）和罗伯特•胡克（Robert Hooke，1635—1703）这两位科学家的姓都译为 “虎克”且混淆二者研究成果的情况。案例中这位观察蝌蚪尾巴的是安东尼•范•列文虎克，他是荷 兰显微镜学家、微生物学的开拓者、细菌的发现者。提出胡克定律的是罗伯特•胡克，他是英国物理 学家，曾出版《显微图集》，发现并命名了细胞。 二、知识性差错",
           "raw": "【例 2-5】列文•虎克在蝌蚪的尾巴上看到了血流通过毛细血管的实际循环过程。（应改为“列"
         },
         {
           "id": "2-6",
           "error": "1 微米等于 1 厘米的 1/1000。（应改为“1 毫米的 1/1000”或“1 厘米的 1/10000”）",
-          "analysis": "",
+          "analysis": "单位换算错误。1 微米=10-3 毫米=10-4 厘米。",
           "raw": "【例 2-6】1 微米等于 1 厘米的 1/1000。（应改为“1 毫米的 1/1000”或“1 厘米的 1/10000”）"
         },
         {
           "id": "2-7",
-          "error": "2018 年 3 月推出的 2.0 版本是 CMMI 的最新版本。（应改为“2023 年 4 月推出的 3.0",
-          "analysis": "",
+          "error": "2018 年 3 月推出的 2.0 版本是 CMMI 的最新版本。（应改为“2023 年 4 月推出的 3.0 版本”）",
+          "analysis": "信息过时，与事实不符。",
           "raw": "【例 2-7】2018 年 3 月推出的 2.0 版本是 CMMI 的最新版本。（应改为“2023 年 4 月推出的 3.0"
         },
         {
           "id": "2-8",
-          "error": "古希腊的欧几里得（Euclid，公元前 330—275 年）在《几何原本》中提出了计算两",
-          "analysis": "",
+          "error": "古希腊的欧几里得（Euclid，公元前 330—275 年）在《几何原本》中提出了计算两 个正整数的最大公约数的“辗转相除法”。（应改为“约公元前 330—前 275 年”）",
+          "analysis": "生卒年写法有误。",
           "raw": "【例 2-8】古希腊的欧几里得（Euclid，公元前 330—275 年）在《几何原本》中提出了计算两"
         },
         {
           "id": "2-9",
-          "error": "但是若输入 a，b，c 的值分别为 3,2,4 时，屏幕上出现了出错信息，程序停止运行，",
-          "analysis": "",
+          "error": "但是若输入 a，b，c 的值分别为 3,2,4 时，屏幕上出现了出错信息，程序停止运行， 原因是此时 b2－4ac=4－24=－20，小于 0，出现了对负数求平方根的运算，故出错。（应改为“4－ 48=－44”）",
+          "analysis": "代入 a、c 的值时出现了简单的计算差错。",
           "raw": "【例 2-9】但是若输入 a，b，c 的值分别为 3,2,4 时，屏幕上出现了出错信息，程序停止运行，"
         },
         {
           "id": "2-10",
           "error": "",
-          "analysis": "",
+          "analysis": "素数判断是编程时经常遇到的问题。在判断 n 是不是素数时，只需要判断 n 是否能被 2～ n之间的所有整数整除。如果都不能整除，那么 n 就是素数。因此，只需要循环遍历 2～ n之间 的所有整数即可，循环条件是 range(2, int(n**0.5)+1)。故案例中的 n-int(2②+1)和 int(2**0.5)+1 应分 别改为 int(n**0.5)和 int(n**0.5)+1。",
           "raw": "【例 2-10】"
         },
         {
           "id": "2-11",
-          "error": "下面给出二维卷积的示例，如图 3.18 所示。输入一个 4×4 的二维图像，使用一个卷",
-          "analysis": "",
+          "error": "下面给出二维卷积的示例，如图 3.18 所示。输入一个 4×4 的二维图像，使用一个卷 积核为 2×2 的卷积进行卷积操作，得到一个 3×3 的特征图。具体操作就是将卷积核在输入图像上滑 动，并将对应的元素相乘并相加。",
+          "analysis": "计算结果有误。结果中的第三列第一项为 1×1+1×1+1×0+0×1=2，第二项为 1×1+0×1+1×0+0×1=1。",
           "raw": "【例 2-11】下面给出二维卷积的示例，如图 3.18 所示。输入一个 4×4 的二维图像，使用一个卷"
         },
         {
           "id": "2-12",
-          "error": "CAS-PEAL-R1 人脸数据集是一个包含 1040 个人、99450 张人脸图像的数据集，由",
-          "analysis": "",
+          "error": "CAS-PEAL-R1 人脸数据集是一个包含 1040 个人、99450 张人脸图像的数据集，由 中国科学院计算技术研究所于 2007 年发布。该数据集中的每个图像都包含一个人的头部姿势、表情、 光照和背景等多种变化。每个人具有 21 张图像，每张图像都有一个唯一的标识符。",
+          "analysis": "数据集名称有误，数值有误，相关表述有误。CAS-PEAL 人脸数据集包含 1040 个人、 99450 张人脸图像，发布于 2003 年。CAS-PEAL-R1 是其共享版本，包含 1040 人的 30900 幅图像。 CAS-PEAL-R1 的姿态图像子库包含 1040 人的 21840 幅图像，每个人具有 21 幅姿态变化的图像。",
           "raw": "【例 2-12】CAS-PEAL-R1 人脸数据集是一个包含 1040 个人、99450 张人脸图像的数据集，由"
         }
       ],
@@ -2544,50 +2544,50 @@ const BOOK_DATA = [
         {
           "id": "3-1",
           "error": "This program is not suitable for a 12 year-old boy. （应改为 12-year-old）",
-          "analysis": "",
+          "analysis": "复合形容词是由两个或两个以上单词合成的形容词，用于修饰名词，从而表达更具体 或更复杂的含义。复合形容词中的单词之间用连字符“-”连接，强调其作为一个整体使用。本句中， 12-year-old 为一个整体，应用连字符连接。此外应注意的是，复合形容词中基数词后面的名词应用 单数形式，如本句中的 year。",
           "raw": "【例 3-1】This program is not suitable for a 12 year-old boy. （应改为 12-year-old）"
         },
         {
           "id": "3-2",
           "error": "Let’s go to the library which was newly open to us. （应改为 opened）",
-          "analysis": "",
+          "analysis": "英语的被动语态由“be 动词+及物动词的过去分词”构成。本句中，动词 open 应改为 过去分词形式。 二、文字差错",
           "raw": "【例 3-2】Let’s go to the library which was newly open to us. （应改为 opened）"
         },
         {
           "id": "3-3",
           "error": "The writer is a freelance journalist for China Daily. （应改为斜体 China Daily）",
-          "analysis": "",
+          "analysis": "英文中，报纸、期刊名称等需要用斜体。本句中的 China Daily 为《中国日报》。",
           "raw": "【例 3-3】The writer is a freelance journalist for China Daily. （应改为斜体 China Daily）"
         },
         {
           "id": "3-4",
           "error": "Please sweet the floor and clean the kitchen. （应改为 sweep）",
-          "analysis": "",
+          "analysis": "根据句意，此处作者要表达的意思是“打扫”，所以应将 sweet 改为 sweep。",
           "raw": "【例 3-4】Please sweet the floor and clean the kitchen. （应改为 sweep）"
         },
         {
           "id": "3-5",
-          "error": "The precious research sample was brought back by China’s Chang’-5 mission. （应改为",
-          "analysis": "",
+          "error": "The precious research sample was brought back by China’s Chang’-5 mission. （应改为 Chang’e-5）",
+          "analysis": "专有名词拼写错误。“嫦娥五号”的拼写应为 Chang’e-5。",
           "raw": "【例 3-5】The precious research sample was brought back by China’s Chang’-5 mission. （应改为"
         },
         {
           "id": "3-6",
-          "error": "Houston is a significant inland part, handling a large volume of energy-related cargo. （应",
-          "analysis": "",
+          "error": "Houston is a significant inland part, handling a large volume of energy-related cargo. （应 改为 port）",
+          "analysis": "根据句意，此处作者要表达的意思是“港口”，所以应将 part 改为 port。 三、翻译差错",
           "raw": "【例 3-6】Houston is a significant inland part, handling a large volume of energy-related cargo. （应"
         },
         {
           "id": "3-7",
-          "error": "原文：He cut in, “That sounds really great, but you can finger-pick it a little more slowly,",
-          "analysis": "",
+          "error": "原文：He cut in, “That sounds really great, but you can finger-pick it a little more slowly, because that’s a tricky tempo to maintain for a long time.” 译文：他插话道：“这听起来真的很棒，但是你可以用手指慢慢挑选，因为这是一个很难长时间 保持的节奏。”（应改为“弹得更慢一点儿”）",
+          "analysis": "finger-pick 是复合词，在本句中作为动词使用，用来描述用手指拨弄或弹奏乐器的动作。",
           "raw": "【例 3-7】原文：He cut in, “That sounds really great, but you can finger-pick it a little more slowly,"
         }
       ],
       "读者反馈": [
         {
           "id": "4-1",
-          "error": "“杰里米·边泌”应为“杰里米·边沁”。杰里米·边沁（Jeremy Bentham）是英国",
+          "error": "“杰里米·边泌”应为“杰里米·边沁”。杰里米·边沁（Jeremy Bentham）是英国 法理学家、哲学家、经济学家。他设计了可以量化快乐和痛苦的方法，称为“幸福计算法”。",
           "analysis": "",
           "raw": "【例 4-1】“杰里米·边泌”应为“杰里米·边沁”。杰里米·边沁（Jeremy Bentham）是英国"
         },
@@ -2605,7 +2605,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-4",
-          "error": "最终推导结果应为𝐹0。",
+          "error": "最终推导结果应为𝐹0。 𝐹",
           "analysis": "",
           "raw": "【例 4-4】最终推导结果应为𝐹0。"
         },
@@ -2617,7 +2617,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-6",
-          "error": "根据推导，最后一项中的“D1－D1”应为“D2－D1”。",
+          "error": "根据推导，最后一项中的“D1－D1”应为“D2－D1”。 二、选项重复差错",
           "analysis": "",
           "raw": "【例 4-6】根据推导，最后一项中的“D1－D1”应为“D2－D1”。"
         },
@@ -2629,7 +2629,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-8",
-          "error": "B 和 D 选项相同。",
+          "error": "B 和 D 选项相同。 三、文字差错",
           "analysis": "",
           "raw": "【例 4-8】B 和 D 选项相同。"
         },
@@ -2686,56 +2686,56 @@ const BOOK_DATA = [
       "文科类": [
         {
           "id": "1-1",
-          "error": "当前，中华民族伟大复兴战略全局与世界百年以前所未有之大变局同步交织，“两个",
-          "analysis": "",
+          "error": "当前，中华民族伟大复兴战略全局与世界百年以前所未有之大变局同步交织，“两个 一百年”奋斗目标历史交汇，我国国家安全的内涵与外延比历史上任何时候都要丰富。（应改为“百 年未有之大变局”）",
+          "analysis": "2017 年 12 月 28 日，中共中央总书记、国家主席、中央军委主席习近平在北京人民大 会堂接见回国参加 2017 年度驻外使节工作会议的全体使节并发表讲话，正式提出“百年未有之大变 局”的重大论断。",
           "raw": "【例 1-1】当前，中华民族伟大复兴战略全局与世界百年以前所未有之大变局同步交织，“两个"
         },
         {
           "id": "1-2",
-          "error": "宋仁宗庆历五年（1045 年）正月，为期不过一年的庆历新政被全面废止，已然疲倦",
-          "analysis": "",
+          "error": "宋仁宗庆历五年（1045 年）正月，为期不过一年的庆历新政被全面废止，已然疲倦 的范仲淹辞别中枢，从邓州来到杭州，最后抱病前往颍州（今安徽省阜阳市），并在中途病故于徐州 （今江苏省徐州市）。",
+          "analysis": "范仲淹庆历六年（1046 年）出知邓州，三年后，也就是皇祐元年（1049 年）调知杭州， 并非庆历五年（1045 年）直接从邓州来到杭州。",
           "raw": "【例 1-2】宋仁宗庆历五年（1045 年）正月，为期不过一年的庆历新政被全面废止，已然疲倦"
         },
         {
           "id": "1-3",
-          "error": "在第五次反“围剿”时期，中央红军在湘江战役中损失惨重，兵力从 8 万多人锐减",
-          "analysis": "",
+          "error": "在第五次反“围剿”时期，中央红军在湘江战役中损失惨重，兵力从 8 万多人锐减 至 3 万余人。",
+          "analysis": "湘江战役（1934 年 11 月）是中央红军长征途中的重要战役，并非发生在第五次反“围 剿”时期（1933 年 9 月～1934 年 10 月）。",
           "raw": "【例 1-3】在第五次反“围剿”时期，中央红军在湘江战役中损失惨重，兵力从 8 万多人锐减"
         },
         {
           "id": "1-4",
-          "error": "在人类历史上，2000 多年前就有了万里长城，1000 多年前就有了都江堰，五六百年",
-          "analysis": "",
+          "error": "在人类历史上，2000 多年前就有了万里长城，1000 多年前就有了都江堰，五六百年 前就有了紫禁城，这些重大的工程都离不开科学和技术。",
+          "analysis": "都江堰水利工程是公元前 256 年（战国时期）秦国蜀郡太守李冰率众修建的，距今 2000 多年了。 二、词语误用",
           "raw": "【例 1-4】在人类历史上，2000 多年前就有了万里长城，1000 多年前就有了都江堰，五六百年"
         },
         {
           "id": "1-5",
-          "error": "习近平同志在接待民营企业家时曾说：“要防止一路所向披靡、孤军深入，最后却被",
-          "analysis": "",
+          "error": "习近平同志在接待民营企业家时曾说：“要防止一路所向披靡、孤军深入，最后却被 人兜了底、全军覆没。”（应改为“接见”）",
+          "analysis": "“接待”指迎接招待。",
           "raw": "【例 1-5】习近平同志在接待民营企业家时曾说：“要防止一路所向披靡、孤军深入，最后却被"
         },
         {
           "id": "1-6",
-          "error": "中国有 56 个民族，民族不同，其文化传统、生活习性也不相同。金融机构在进行营",
-          "analysis": "",
+          "error": "中国有 56 个民族，民族不同，其文化传统、生活习性也不相同。金融机构在进行营 销活动时要重视民族市场的特点，开发适合民族特性的产品，了解各民族客户的禁忌、习俗、避讳、 信仰、伦理等，做到“入境随俗”。（应改为“入乡”）",
+          "analysis": "“入境”指进入国境。 三、句子歧义",
           "raw": "【例 1-6】中国有 56 个民族，民族不同，其文化传统、生活习性也不相同。金融机构在进行营"
         },
         {
           "id": "1-7",
           "error": "宋祁提出“三冗三废”这六大帝国沉疴时，是宝元二年。（应改为“帝国六大沉疴”）",
-          "analysis": "",
+          "analysis": "“六大”可限制“帝国”，也可限制“沉疴”。",
           "raw": "【例 1-7】宋祁提出“三冗三废”这六大帝国沉疴时，是宝元二年。（应改为“帝国六大沉疴”）"
         },
         {
           "id": "1-8",
-          "error": "客房包价是指酒店在出租客房之外搭配其他酒店产品或者酒店外的其他产品及服务，",
-          "analysis": "",
+          "error": "客房包价是指酒店在出租客房之外搭配其他酒店产品或者酒店外的其他产品及服务， 并以优惠的价格出售给客人。（应改为“酒店其他产品”）",
+          "analysis": "“其他”可指“酒店”，也可指“产品”。",
           "raw": "【例 1-8】客房包价是指酒店在出租客房之外搭配其他酒店产品或者酒店外的其他产品及服务，"
         },
         {
           "id": "1-9",
-          "error": "位于西北地区的甘肃省 2022 年的人均 GDP 为 44950.2 元，城镇居民人均可支配收",
-          "analysis": "",
+          "error": "位于西北地区的甘肃省 2022 年的人均 GDP 为 44950.2 元，城镇居民人均可支配收 入为 37572.0 元，黑龙江在 2022 年的人均 GDP 虽高于甘肃省 51310.1 元，但城镇居民人均可支配收 入仅为 35042.0 元，可见全国各区域城镇发展水平极不平衡。（应改为“高于甘肃省，为 51310.1 元”）",
+          "analysis": "此例因缺字导致句子歧义。黑龙江 2022 年人均 GDP 为 51310.1 元，并非比甘肃省高 51310.1 元。",
           "raw": "【例 1-9】位于西北地区的甘肃省 2022 年的人均 GDP 为 44950.2 元，城镇居民人均可支配收"
         }
       ],
@@ -2743,105 +2743,105 @@ const BOOK_DATA = [
         {
           "id": "2-1",
           "error": "",
-          "analysis": "",
+          "analysis": "算式有误。本例中已知条件未提及数字 31 和 39，且（49＋31－1）和（49＋39－1） 都不能被 2 整除（人数须为整数），据此可知算式有误。由题意可列式：（[ 49＋38－1）÷2]2＋49=1898。",
           "raw": "【例 2-1】"
         },
         {
           "id": "2-2",
           "error": "",
-          "analysis": "",
+          "analysis": "科学性差错。RGB 色彩模式是一种常用的颜色标准，通过红（R）、绿（G）、蓝（ B） 三个颜色通道的变化和它们相互之间的叠加来得到各种不同的颜色。红、绿、蓝称为色光三原色， 屏幕中呈现的所有颜色都由这三种颜色按不同比例混合而成。三个颜色通道的每种颜色分为 256（0～ 255）阶亮度，当数值全为 0 时最暗，呈黑色；全为 255 时最亮，呈白色。",
           "raw": "【例 2-2】"
         },
         {
           "id": "2-3",
           "error": "",
-          "analysis": "",
+          "analysis": "概念性差错。电流本身就是一个物理量。表示物理量可用量名称或量符号。电流是量 的名称，I 是量的符号。",
           "raw": "【例 2-3】"
         },
         {
           "id": "2-4",
           "error": "",
-          "analysis": "",
+          "analysis": "科学性差错。机器学习是指通过计算机程序或算法，使计算机具备从数据中获取知识 和经验，并不断地改进和优化的能力。通过机器学习，计算机可以更加准确、快速地处理大量复杂 的数据，实现自动化和智能化的任务。",
           "raw": "【例 2-4】"
         },
         {
           "id": "2-5",
           "error": "",
-          "analysis": "",
+          "analysis": "概念性差错。普适计算又称“泛在计算”，即由计算机提供的计算功能无处不在并和环 境融为一体，使用户可在任何时间、任何地点，以任何方式进行信息的获取与处理的方法和技术。 二、量和单位差错",
           "raw": "【例 2-5】"
         },
         {
           "id": "2-6",
           "error": "",
-          "analysis": "",
+          "analysis": "时间单位有误。案例中最终所求为时间，由时间＝距离÷速度知，“（20 里÷4 里/小时 －20 里÷5 里/小时）”为速度，单位应为“里/时”，故括号中两处“里/小时”均应改为“时”。",
           "raw": "【例 2-6】"
         },
         {
           "id": "2-7",
           "error": "",
-          "analysis": "",
+          "analysis": "网速单位有误。Gbps 即每秒十亿位（吉比特），前面不能再加“每秒”。Gbps 一般写 作 Gb/s。",
           "raw": "【例 2-7】"
         },
         {
           "id": "2-8",
           "error": "",
-          "analysis": "",
+          "analysis": "物理量 名称有误。“千瓦”是功率单位（耗电量的单位为“千瓦•时”），此例可改为“功 率约 140 千瓦”。",
           "raw": "【例 2-8】"
         },
         {
           "id": "2-9",
           "error": "",
-          "analysis": "",
+          "analysis": "物理量名称有误。磁感应强度亦称“磁通[量]密度”，是描述磁场强弱和方向的物理量， 符号为 B，单位为 T（特[斯拉]）。磁场强度是描述磁场的辅助矢量，符号为 H，单位为 A/m。",
           "raw": "【例 2-9】"
         }
       ],
       "外语类": [
         {
           "id": "3-1",
-          "error": "This article outlines few tips on making more effective and attractive PowerPoint",
-          "analysis": "",
+          "error": "This article outlines few tips on making more effective and attractive PowerPoint presentations. （应改为 a few）",
+          "analysis": "few 表示“很少，不多”，强调“几乎没有”; a few 表示“有一些”，强调“有”。",
           "raw": "【例 3-1】This article outlines few tips on making more effective and attractive PowerPoint"
         },
         {
           "id": "3-2",
           "error": "People choose to travel by air during holidays are increasing. （应改为 who choose）",
-          "analysis": "",
+          "analysis": "英文中，一个简单句只能有一个谓语动词。本句中存在 choose 和 are increasing 两个谓 语动词。为了避免这种双谓语错误，可将 choose 放入定语从句中，使其不再作为谓语。修改后，who choose to travel by air during holidays 是一个定语从句，修饰先行词 people。",
           "raw": "【例 3-2】People choose to travel by air during holidays are increasing. （应改为 who choose）"
         },
         {
           "id": "3-3",
-          "error": "The application of BCIs to brain enhancement exists some risks. （本句应改为 Some risks",
-          "analysis": "",
+          "error": "The application of BCIs to brain enhancement exists some risks. （本句应改为 Some risks exist in the application of BCIs to brain enhancement.）",
+          "analysis": "本句中，exist 是一个不及物动词，后面不能直接接宾语，所以应调整语序。",
           "raw": "【例 3-3】The application of BCIs to brain enhancement exists some risks. （本句应改为 Some risks"
         },
         {
           "id": "3-4",
           "error": "In 1970, China successful launched its first man-made satellite. （应改为 successfully）",
-          "analysis": "",
+          "analysis": "英文中，形容词不能修饰动词。本句中修饰动词 launch 的应为副词，所以将 successful 改为 successfully。 二、文字差错",
           "raw": "【例 3-4】In 1970, China successful launched its first man-made satellite. （应改为 successfully）"
         },
         {
           "id": "3-5",
           "error": "Their findings laid the groundwork for modem motivation theory. （应改为 modern）",
-          "analysis": "",
+          "analysis": "根据上下文，此处 modem（调制解调器）为录入错误，应改为 modern（现代的）。",
           "raw": "【例 3-5】Their findings laid the groundwork for modem motivation theory. （应改为 modern）"
         },
         {
           "id": "3-6",
-          "error": "Van Gogh painted “Wheatfield With Crows” in July 1890. （应改为 Wheatfield with",
-          "analysis": "",
+          "error": "Van Gogh painted “Wheatfield With Crows” in July 1890. （应改为 Wheatfield with Crows）",
+          "analysis": "文章中提到画作的名字时应用斜体，同时实词的首字母需要大写。with 是介词，属于 虚词，所以首字母不用大写。 三、翻译差错",
           "raw": "【例 3-6】Van Gogh painted “Wheatfield With Crows” in July 1890. （应改为 Wheatfield with"
         },
         {
           "id": "3-7",
-          "error": "原文：The dromedaries stood still in terror, while the merchants drew their caftans over",
-          "analysis": "",
+          "error": "原文：The dromedaries stood still in terror, while the merchants drew their caftans over their heads. 译文：单峰骆驼脸上十分沮丧，而商人们将他们的长袍拉过头顶。 （应改为“惊恐地站立 在那 里 ）",
+          "analysis": "本句中 stood still 意为“站立不动”，in terror 表示惊恐的状态。",
           "raw": "【例 3-7】 原文：The dromedaries stood still in terror, while the merchants drew their caftans over"
         },
         {
           "id": "3-8",
-          "error": "原文：Don’t you know any story about bacon, or tallow in the storeroom?",
-          "analysis": "",
+          "error": "原文：Don’t you know any story about bacon, or tallow in the storeroom? 译文：难道你不知道任何关于培根、牛脂或者储藏室的故事吗? （应改为“储藏室里的培根或 牛脂”）",
+          "analysis": "本句中，bacon、tallow、storeroom 三者不是并列关系。",
           "raw": "【例 3-8】原文：Don’t you know any story about bacon, or tallow in the storeroom?"
         }
       ],
@@ -2866,7 +2866,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-4",
-          "error": "红色方框中的 1000 应为 999。",
+          "error": "红色方框中的 1000 应为 999。 二、计算错误",
           "analysis": "",
           "raw": "【例 4-4】红色方框中的 1000 应为 999。"
         },
@@ -2878,7 +2878,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-6",
-          "error": "1 与 1011 相乘应为 1011。",
+          "error": "1 与 1011 相乘应为 1011。 三、文字差错",
           "analysis": "",
           "raw": "【例 4-6】1 与 1011 相乘应为 1011。"
         },
@@ -2938,7 +2938,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-16",
-          "error": "红色框中文字与后句重复。",
+          "error": "红色框中文字与后句重复。 四、标点符号差错",
           "analysis": "",
           "raw": "【例 4-16】红色框中文字与后句重复。"
         },
@@ -2965,55 +2965,55 @@ const BOOK_DATA = [
       "文科类": [
         {
           "id": "1-1",
-          "error": "中国位于亚洲东部、太平洋西岸，是世界第三大国家。（应改为“世界国土面积第三",
-          "analysis": "",
+          "error": "中国位于亚洲东部、太平洋西岸，是世界第三大国家。（应改为“世界国土面积第三 大国家”）",
+          "analysis": "中国陆地面积约 960 万平方千米，东部和南部大陆海岸线 1.8 万多千米，海域总面积 约 473 万平方千米，国土面积居世界第三位。",
           "raw": "【例 1-1】中国位于亚洲东部、太平洋西岸，是世界第三大国家。（应改为“世界国土面积第三"
         },
         {
           "id": "1-2",
-          "error": "台湾久为原住民聚居之地，虽然宋、元、明曾在此有不同形式的行政建置，17 世纪",
-          "analysis": "",
+          "error": "台湾久为原住民聚居之地，虽然宋、元、明曾在此有不同形式的行政建置，17 世纪 又曾有荷兰人、西班牙人等殖民开垦，但总体上未改变原住民散布全岛的原始面貌。（应改为“少数 民族”）",
+          "analysis": "台湾少数民族不称“原住民”，涉及两岸少数民族交流时，可统称为台湾少数民族或称 具体的名称（如“阿美人”），在国家正式文件中仍称为“高山族”。",
           "raw": "【例 1-2】台湾久为原住民聚居之地，虽然宋、元、明曾在此有不同形式的行政建置，17 世纪"
         },
         {
           "id": "1-3",
-          "error": "当时的政府无力改变中国“亡国灭种”的民族危机，民族矛盾和阶级矛盾始终是这",
-          "analysis": "",
+          "error": "当时的政府无力改变中国“亡国灭种”的民族危机，民族矛盾和阶级矛盾始终是这 一时期的主要矛盾，中国半封建半殖民的社会性质没有改变。（应改为“半殖民地半封建”）",
+          "analysis": "半殖民地半封建社会，作为社会形态（或者社会性质），是马克思主义的概念，中国共 产党将近代中国的社会性质总概括为“半殖民地半封建社会”。 二、乱改成语 国家有关法律法规明确规定，出版物中不得随意更换成语中的文字、变动成语结构或曲解成语 内涵，不得在成语中随意插入网络语言或外国语言文字，不得随意窜改、乱用成语，不得使用或介 绍根据网络语言、仿照成语形式生造的词语。",
           "raw": "【例 1-3】当时的政府无力改变中国“亡国灭种”的民族危机，民族矛盾和阶级矛盾始终是这"
         },
         {
           "id": "1-4",
-          "error": "一篇影评写作，在理想化的状态下，应该呈现出观点、信息和判断，在作者余勇可",
-          "analysis": "",
+          "error": "一篇影评写作，在理想化的状态下，应该呈现出观点、信息和判断，在作者余勇可 佳的情况下，还可以行文得体，耐人寻味。（应改为“余勇可贾”）",
+          "analysis": "“余勇可贾”表示还有剩余力量可以使出来。",
           "raw": "【例 1-4】一篇影评写作，在理想化的状态下，应该呈现出观点、信息和判断，在作者余勇可"
         },
         {
           "id": "1-5",
           "error": "法律是成文的良知，道德是约定成俗的良知。（应改为“约定俗成”）",
-          "analysis": "",
+          "analysis": "“约定俗成”指某种事物的名称或社会习惯是由人们经过长期实践而认定或形成的。",
           "raw": "【例 1-5】法律是成文的良知，道德是约定成俗的良知。（应改为“约定俗成”）"
         },
         {
           "id": "1-6",
-          "error": "到了 20 世纪 30 年代中后期，由于国内抗日战争和经济建设的影响，职业教育思潮",
-          "analysis": "",
+          "error": "到了 20 世纪 30 年代中后期，由于国内抗日战争和经济建设的影响，职业教育思潮 几乎消失匿迹，生产教育思潮演进为民生教育思潮，而“生产教育”几乎替代了“职业教育”。（应 改为“销声匿迹”）",
+          "analysis": "“销声匿迹”形容隐藏起来或不公开出现。",
           "raw": "【例 1-6】到了 20 世纪 30 年代中后期，由于国内抗日战争和经济建设的影响，职业教育思潮"
         },
         {
           "id": "1-7",
-          "error": "从业务进展、市场开拓方式、成本结构、资本结构到配偶是否支持创业，不一而同。",
-          "analysis": "",
+          "error": "从业务进展、市场开拓方式、成本结构、资本结构到配偶是否支持创业，不一而同。 （应改为“不一而足”）",
+          "analysis": "“不一而足”表示不止一种或一次，而是很多。 三、标点误用 含有月日的专名采用汉字数字表示时，如果涉及一月、十一月、十二月，应用间隔号“· ”将 表示月和日的数字隔开，涉及其他月份时，不用间隔号。",
           "raw": "【例 1-7】从业务进展、市场开拓方式、成本结构、资本结构到配偶是否支持创业，不一而同。"
         },
         {
           "id": "1-8",
-          "error": "1937 年，卢沟桥事变、“八·一三”事变相继爆发，故宫文物分三路向西疏散，存于",
+          "error": "1937 年，卢沟桥事变、“八·一三”事变相继爆发，故宫文物分三路向西疏散，存于 乐山、峨眉、安顺及巴县等处。（应改为“八一三”）",
           "analysis": "",
           "raw": "【例 1-8】1937 年，卢沟桥事变、“八·一三”事变相继爆发，故宫文物分三路向西疏散，存于"
         },
         {
           "id": "1-9",
-          "error": "该片讲述了“九·一八”事变后，东北沦陷，冷云、胡秀之等抗联女战士为抵抗侵",
+          "error": "该片讲述了“九·一八”事变后，东北沦陷，冷云、胡秀之等抗联女战士为抵抗侵 略者献出宝贵生命的故事。（应改为“九一八”）",
           "analysis": "",
           "raw": "【例 1-9】该片讲述了“九·一八”事变后，东北沦陷，冷云、胡秀之等抗联女战士为抵抗侵"
         }
@@ -3021,106 +3021,106 @@ const BOOK_DATA = [
       "理工类": [
         {
           "id": "2-1",
-          "error": "按照制造业的计算逻辑，毛利率（Gross Profit）=收入－成本，其中的成本就包括服",
-          "analysis": "",
+          "error": "按照制造业的计算逻辑，毛利率（Gross Profit）=收入－成本，其中的成本就包括服 务成本。[应改为“毛利率（Gross Margin）=（收入－成本）/收入”或“毛利（Gross Profit）=收入 －成本”]",
+          "analysis": "概念差错。毛利是收入与成本的差额；毛利率是毛利与收入的比率，是商业企业中反 映商品销售盈利程度的指标。",
           "raw": "【例 2-1】按照制造业的计算逻辑，毛利率（Gross Profit）=收入－成本，其中的成本就包括服"
         },
         {
           "id": "2-2",
-          "error": "TSG D0001—2009《压力管道安全技术监察规程》第一百一十三条规定：凡有以下情",
-          "analysis": "",
+          "error": "TSG D0001—2009《压力管道安全技术监察规程》第一百一十三条规定：凡有以下情 况者，一般应当在管道系统的指定位置设置管道阻火器„„。（应改为“《压力管道安全技术监察规 程——工业管道》第一百三十一条”）",
+          "analysis": "标准名称和条款号差错。 2                                       2     1  1−i",
           "raw": "【例 2-2】TSG D0001—2009《压力管道安全技术监察规程》第一百一十三条规定：凡有以下情"
         },
         {
           "id": "2-3",
-          "error": "进行复数四则运算时，注意以下几个常见等式：(1+i) =2i，(1－i) =－2i， = −i， = i，",
-          "analysis": "",
+          "error": "进行复数四则运算时，注意以下几个常见等式：(1+i) =2i，(1－i) =－2i， = −i， = i， i  1+i 1−i = −i等。（应改为“1+i = i”） 1+i           1−i",
+          "analysis": "公式推导差错。1−i = (1−i)2 = −2i = −i，1+i = (1+i)2 = 2i = i。 1+i 1+i （1−i）  2  1−i 1+i （1−i）                              2",
           "raw": "【例 2-3】进行复数四则运算时，注意以下几个常见等式：(1+i) =2i，(1－i) =－2i， = −i， = i，"
         },
         {
           "id": "2-4",
           "error": "",
-          "analysis": "",
+          "analysis": "计算差错。据案例中所给数据，250 家按原价（12000 元）续费，等式中的 120000 应 改为 12000，结果应为 71%。 二、数值差错",
           "raw": "【例 2-4】"
         },
         {
           "id": "2-5",
           "error": "正五角星的每个内角是 36°，每个外角是 72°。（应改为“108°”）",
-          "analysis": "",
+          "analysis": "角度差错。正五角星的外角度数等于正五边形的内角度数，如图所 示，∠3=∠2=（5－2）×180°/5=108°。",
           "raw": "【例 2-5】正五角星的每个内角是 36°，每个外角是 72°。（应改为“108°”）"
         },
         {
           "id": "2-6",
-          "error": "调光数据：包括 8 位调光信息，00000000 表示 PWM 的占空比为 0%，即为关灯指令；",
-          "analysis": "",
+          "error": "调光数据：包括 8 位调光信息，00000000 表示 PWM 的占空比为 0%，即为关灯指令； 11111 表示 PWM 的占空比为 100%，即为全亮指令；在最亮和最暗之间包含 256 级灯光亮度。（应改 为“11111111”）",
+          "analysis": "调光数据包括 8 位，11111111 表示 PWM 的占空比为 100%，对应最高亮度级别。",
           "raw": "【例 2-6】调光数据：包括 8 位调光信息，00000000 表示 PWM 的占空比为 0%，即为关灯指令；"
         },
         {
           "id": "2-7",
-          "error": "恩尼格玛密码机的编码转轮结构相当复杂和精密，通过接线板就可以实现 26 个字母",
-          "analysis": "",
+          "error": "恩尼格玛密码机的编码转轮结构相当复杂和精密，通过接线板就可以实现 26 个字母 的 10391791500 种编码可能。（应改为“100391791500”）",
+          "analysis": "根据恩尼格玛密码机的原理，通过接线板可实现的替换可能数为 6!×26 26×25×…×16×15 = 100391791500种。案例中的数字少了 1 个“0”。处理书稿时遇到类似数据需核查确认。 三、不一致性差错",
           "raw": "【例 2-7】恩尼格玛密码机的编码转轮结构相当复杂和精密，通过接线板就可以实现 26 个字母"
         },
         {
           "id": "2-8",
           "error": "",
-          "analysis": "",
+          "analysis": "前后文不一致。案例中“本章小结”的表述与前文不符。",
           "raw": "【例 2-8】"
         },
         {
           "id": "2-9",
           "error": "",
-          "analysis": "",
+          "analysis": "图文中的数值不一致。",
           "raw": "【例 2-9】"
         },
         {
           "id": "2-10",
           "error": "",
-          "analysis": "",
+          "analysis": "图题与图中文字不一致。",
           "raw": "【例 2-10】"
         },
         {
           "id": "2-11",
           "error": "",
-          "analysis": "",
+          "analysis": "表文不一致。表内容与行文、表题均不符。",
           "raw": "【例 2-11】"
         }
       ],
       "外语类": [
         {
           "id": "3-1",
-          "error": "There are a great many classic works in China that have prevail over centuries and still",
-          "analysis": "",
+          "error": "There are a great many classic works in China that have prevail over centuries and still resonate emotionally with people. （应改为 have prevailed）",
+          "analysis": "本句为定语从句。主句为一般现在时，从句应为现在完成时，故将 have prevail 改为 have prevailed。",
           "raw": "【例 3-1】There are a great many classic works in China that have prevail over centuries and still"
         },
         {
           "id": "3-2",
-          "error": "The digital world have had a profound impact on how data and information are collected,",
-          "analysis": "",
+          "error": "The digital world have had a profound impact on how data and information are collected, stored, and communicated. （应改为 has had）",
+          "analysis": "本句主语 the digital world 为名词性短语，后面的谓语动词应为单数形式，故将 have had 改为 has had。",
           "raw": "【例 3-2】The digital world have had a profound impact on how data and information are collected,"
         },
         {
           "id": "3-3",
-          "error": "E-commerce bring convenience to consumers in online shopping, as well as put significant",
-          "analysis": "",
+          "error": "E-commerce bring convenience to consumers in online shopping, as well as put significant pressure on traditional shopping patterns. （应改为 brings 和 puts）",
+          "analysis": "as well as 是一个常用的并列连词，在本句中用于连接两个谓语动词 bring 和 put，强调 它们之间的并列关系，所以两个动词的时态须保持一致。另外，本句主语 e-commerce 是不可数名 词，谓语动词应为单数形式，故将 bring、put 改为 brings、puts。 二、文字差错",
           "raw": "【例 3-3】E-commerce bring convenience to consumers in online shopping, as well as put significant"
         },
         {
           "id": "3-4",
-          "error": "Shrinking sea ice forces Polar Bears to spend more time on land, so people and bears can",
-          "analysis": "",
+          "error": "Shrinking sea ice forces Polar Bears to spend more time on land, so people and bears can come into conflict. （应改为 polar bears）",
+          "analysis": "polar bears 为非专有名词，在句子中首字母不应大写。",
           "raw": "【例 3-4】Shrinking sea ice forces Polar Bears to spend more time on land, so people and bears can"
         },
         {
           "id": "3-5",
-          "error": "It has been dry for such a long time that the forest could burst into fame at any moment.",
-          "analysis": "",
+          "error": "It has been dry for such a long time that the forest could burst into fame at any moment. （应改为 flame）",
+          "analysis": "单词录入错误。根据上下文，fame 应改为 flame。",
           "raw": "【例 3-5】It has been dry for such a long time that the forest could burst into fame at any moment."
         },
         {
           "id": "3-6",
           "error": "The results of the two analysis are consistent. （应改为 analyses）",
-          "analysis": "",
+          "analysis": "analysis 属于不规则变化的名词，其复数形式为 analyses，需要特殊记忆。",
           "raw": "【例 3-6】The results of the two analysis are consistent. （应改为 analyses）"
         }
       ],
@@ -3145,7 +3145,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-4",
-          "error": "“次数”单位错误。",
+          "error": "“次数”单位错误。 二、程序错误",
           "analysis": "",
           "raw": "【例 4-4】“次数”单位错误。"
         },
@@ -3163,7 +3163,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-7",
-          "error": "runif（6,0,2）应为在 0~2 之间产生 6 个均匀分布随机数。",
+          "error": "runif（6,0,2）应为在 0~2 之间产生 6 个均匀分布随机数。 三、数值差错",
           "analysis": "",
           "raw": "【例 4-7】runif（6,0,2）应为在 0~2 之间产生 6 个均匀分布随机数。"
         },
@@ -3175,7 +3175,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-9",
-          "error": "20 应为 30。",
+          "error": "20 应为 30。 四、文字差错",
           "analysis": "",
           "raw": "【例 4-9】20 应为 30。"
         },
@@ -3220,192 +3220,192 @@ const BOOK_DATA = [
       "文科类": [
         {
           "id": "1-1",
-          "error": "在第十九次全国代表大会上，习近平总书记专门就“加强创新创业”作出了重要指",
-          "analysis": "",
+          "error": "在第十九次全国代表大会上，习近平总书记专门就“加强创新创业”作出了重要指 示。（可改为“中国共产党第十九次全国代表大会”）",
+          "analysis": "中国共产党第十九次全国代表大会，简称中共十九大或党的十九大。",
           "raw": "【例 1-1】在第十九次全国代表大会上，习近平总书记专门就“加强创新创业”作出了重要指"
         },
         {
           "id": "1-2",
-          "error": "他就是在二战期间下令向日本投掷原子弹、在朝鲜战争中屡次对中国进行核威胁的",
-          "analysis": "",
+          "error": "他就是在二战期间下令向日本投掷原子弹、在朝鲜战争中屡次对中国进行核威胁的 那位美国总统。（可改为“个”）",
+          "analysis": "“位”含敬意，用在此处不合适。",
           "raw": "【例 1-2】他就是在二战期间下令向日本投掷原子弹、在朝鲜战争中屡次对中国进行核威胁的"
         },
         {
           "id": "1-3",
-          "error": "从开元二年（714）到天宝十四年（755）的四十一年间，玄宗先后出游华清宫三十",
-          "analysis": "",
+          "error": "从开元二年（714）到天宝十四年（755）的四十一年间，玄宗先后出游华清宫三十 六次，有时一年两次。（应改为“载”）",
+          "analysis": "唐玄宗李隆基即位后改元为先天，翌年改元开元。742 年下诏改元天宝，744 年下诏改 “年”为“载”。756 年太子李亨即位，改元至德，按旧规仍用“载”纪年。758 年肃宗下诏改元乾 元，改“载”为“年”，这一年即为乾元元年，不再称“载”。从唐玄宗于天宝三载（744）改“年” 为“载”始，至肃宗至德三载（758）结束，以“载”纪年历时十四年。此后一直到封建时代结束， 均以“年”字纪年，未有改变。 二、机构名称错误",
           "raw": "【例 1-3】从开元二年（714）到天宝十四年（755）的四十一年间，玄宗先后出游华清宫三十"
         },
         {
           "id": "1-4",
-          "error": "国家卫健委等政府管理机构高度重视健康医疗大数据、“互联网+医疗健康”工作，",
-          "analysis": "",
+          "error": "国家卫健委等政府管理机构高度重视健康医疗大数据、“互联网+医疗健康”工作， 为推动医疗大数据的快速发展，国家相继出台了一系列相关政策。（应改为“国家卫生健康委”）",
+          "analysis": "根据国务院办公厅秘书局《关于印发国务院机构简称的通知》，“中华人民共和国国家 卫生健康委员会”简称为“国家卫生健康委”。",
           "raw": "【例 1-4】国家卫健委等政府管理机构高度重视健康医疗大数据、“互联网+医疗健康”工作，"
         },
         {
           "id": "1-5",
-          "error": "国家局信息平台通过制定医保数据元规范，实现数据的标准化和数据的规范管理。（可",
-          "analysis": "",
+          "error": "国家局信息平台通过制定医保数据元规范，实现数据的标准化和数据的规范管理。（可 改为“国家医保局”）",
+          "analysis": "根据上下文，此处应为“国家医疗保障局”，据国务院办公厅秘书局《关于印发国务院 机构简称的通知》，“国家医疗保障局”简称为“国家医保局”。",
           "raw": "【例 1-5】国家局信息平台通过制定医保数据元规范，实现数据的标准化和数据的规范管理。（可"
         },
         {
           "id": "1-6",
-          "error": "商代“妇好爵”（现藏于中国历史博物馆），便是此时与西周初期典型饮酒器的代表，",
-          "analysis": "",
+          "error": "商代“妇好爵”（现藏于中国历史博物馆），便是此时与西周初期典型饮酒器的代表， 春秋、战国时期并不多见。（应改为“中国国家博物馆”）",
+          "analysis": "2003 年，中国历史博物馆和中国革命博物馆合并组建成为中国国家博物馆。",
           "raw": "【例 1-6】商代“妇好爵”（现藏于中国历史博物馆），便是此时与西周初期典型饮酒器的代表，"
         },
         {
           "id": "1-7",
-          "error": "瓷釉方面，考古还发现了黄釉酒壶（现藏于河南省博物馆），河南省安阳市出土，为",
-          "analysis": "",
+          "error": "瓷釉方面，考古还发现了黄釉酒壶（现藏于河南省博物馆），河南省安阳市出土，为 北齐武平六年（575 年）器物。（应改为“河南博物院”）",
+          "analysis": "1998 年，河南省博物馆从郑州市人民路迁至郑州市农业路，更名为“河南博物院”。 三、时间计算错误",
           "raw": "【例 1-7】瓷釉方面，考古还发现了黄釉酒壶（现藏于河南省博物馆），河南省安阳市出土，为"
         },
         {
           "id": "1-8",
-          "error": "直到贺铸逝去一千多年后的今天，彭城诗社仍然在该地区发挥着文化凝聚的价值。（应",
-          "analysis": "",
+          "error": "直到贺铸逝去一千多年后的今天，彭城诗社仍然在该地区发挥着文化凝聚的价值。（应 改为“近九百年”）",
+          "analysis": "贺铸于 1125 年逝去，距今近九百年。",
           "raw": "【例 1-8】直到贺铸逝去一千多年后的今天，彭城诗社仍然在该地区发挥着文化凝聚的价值。（应"
         },
         {
           "id": "1-9",
-          "error": "明朝初年的戏曲唱本中有“禄星送子下凡尘”的唱词，很显然早在四五百年前，禄",
-          "analysis": "",
+          "error": "明朝初年的戏曲唱本中有“禄星送子下凡尘”的唱词，很显然早在四五百年前，禄 星就已经成为送子的神仙，在民间与送子张仙混为一谈了。（可改为“五六百年”）",
+          "analysis": "明（1368—1644），明朝初年距今六百余年。 四、词语误用",
           "raw": "【例 1-9】明朝初年的戏曲唱本中有“禄星送子下凡尘”的唱词，很显然早在四五百年前，禄"
         },
         {
           "id": "1-10",
-          "error": "从渐进主义的视角看，强基计划作为一项创新政策，在汲取过往拔尖创新人才政策",
-          "analysis": "",
+          "error": "从渐进主义的视角看，强基计划作为一项创新政策，在汲取过往拔尖创新人才政策 经验的基础上，对政策进行修缮，能够实现有效选拔和培养拔尖人才的目的。（可改为“优化”）",
+          "analysis": "“修缮”指修理（建筑物），用在此处不恰当。",
           "raw": "【例 1-10】从渐进主义的视角看，强基计划作为一项创新政策，在汲取过往拔尖创新人才政策"
         },
         {
           "id": "1-11",
-          "error": "在实际运作中很多业务流程都是需要跨部门协作的，协作的过程中就往往会出现沟",
-          "analysis": "",
+          "error": "在实际运作中很多业务流程都是需要跨部门协作的，协作的过程中就往往会出现沟 通不畅和相互推诿责任等问题。（可改为“推卸”）",
+          "analysis": "“推诿”指把责任推给别人，与后面的“责任”重复。",
           "raw": "【例 1-11】在实际运作中很多业务流程都是需要跨部门协作的，协作的过程中就往往会出现沟"
         },
         {
           "id": "1-12",
-          "error": "对过去反射性接受的事物作出抉择，而不是陷入自动导航模式，是我们逐渐增强情",
-          "analysis": "",
+          "error": "对过去反射性接受的事物作出抉择，而不是陷入自动导航模式，是我们逐渐增强情 绪理解与情绪调试能力的好方法。（可改为“调适”）",
+          "analysis": "“调试”指试验并调整（机器、仪器等）。 2024 年文科类图书问题集中体现在以下几方面。 （1）教材类：字词差错（多字、漏字，词语误用等）、语法差错（成分残缺或赘余、 表意不明）、引文差错等。 （2）社科类：别字、不规范字、语法差错（搭配不当、表意重复）等。 （3）专著类：语法差错（语序不当、结构混乱）、词语误用等。 （4）文科图书其他问题： ① 知识性差错；② 标点符号差错；③ 表述不规范等。",
           "raw": "【例 1-12】对过去反射性接受的事物作出抉择，而不是陷入自动导航模式，是我们逐渐增强情"
         }
       ],
       "理工类": [
         {
           "id": "2-1",
-          "error": "这一领域属于与人工智能交叉的研究范畴，与生成式人工智能（Artificial Intelligence",
-          "analysis": "",
+          "error": "这一领域属于与人工智能交叉的研究范畴，与生成式人工智能（Artificial Intelligence Generated Content,AIGC）及其应用都有密切的关联。（应改为“Generative Artificial Intelligence， GAI”）",
+          "analysis": "英文名称及缩写差错。“Artificial Intelligence Generated Content，AIGC”对应的是“人 工智能生成内容”。生成式人工智能和人工智能生成内容是两个不同的术语，二者在技术和应用上有 着紧密的联系，但并不等同。",
           "raw": "【例 2-1】这一领域属于与人工智能交叉的研究范畴，与生成式人工智能（Artificial Intelligence"
         },
         {
           "id": "2-2",
-          "error": "执行 TOPSIS 法，将决策矩阵进行加权归一化，通过各方案与正、负理想解之间的欧",
-          "analysis": "",
+          "error": "执行 TOPSIS 法，将决策矩阵进行加权归一化，通过各方案与正、负理想解之间的欧 氏距离计算相对贴进度，输出相对贴进度最大的最优方案。（应改为“相对贴近度”）",
+          "analysis": "同音字差错。相对贴近度是 TOPSIS 法（逼近理想解排序法）中用于评估和比较各方 案优劣的一个重要指标，用于衡量每个方案与正理想解的接近程度。",
           "raw": "【例 2-2】执行 TOPSIS 法，将决策矩阵进行加权归一化，通过各方案与正、负理想解之间的欧"
         },
         {
           "id": "2-3",
           "error": "当 0＜λ＜3.5 时，载荷-扰度曲线单调递增，不会发生屈曲。（应改为“挠度”）",
-          "analysis": "",
+          "analysis": "形近字差错。挠（náo）度指梁、板、壳等薄壁构件在外力或温度等的作用下产生的使 其轴线或中面偏离原始位置的位移。",
           "raw": "【例 2-3】当 0＜λ＜3.5 时，载荷-扰度曲线单调递增，不会发生屈曲。（应改为“挠度”）"
         },
         {
           "id": "2-4",
-          "error": "在每一个滑动窗口的位置都预设 k 个候选框。这些候选框不是无中生有的，而是预",
-          "analysis": "",
+          "error": "在每一个滑动窗口的位置都预设 k 个候选框。这些候选框不是无中生有的，而是预 先设置好 k 个预描框（anchor boxes）。（应改为“锚框”）",
+          "analysis": "形近或音近字差错。在基于深度学习的目标检测算法中，锚（máo）框是一组预定义的 具有不同尺寸和长宽比的矩形框。其作用是为模型提供参考和基准，帮助模型更好地定位和识别目标。",
           "raw": "【例 2-4】在每一个滑动窗口的位置都预设 k 个候选框。这些候选框不是无中生有的，而是预"
         },
         {
           "id": "2-5",
-          "error": "低角度拍摄（也称为虫瞰角度）可以使被拍摄物体或场景显得更加庄重或高大。（应",
-          "analysis": "",
+          "error": "低角度拍摄（也称为虫瞰角度）可以使被拍摄物体或场景显得更加庄重或高大。（应 改为“虫眼”）",
+          "analysis": "形近字差错。低角度拍摄是选择非常低的角度进行拍摄，是从下往上拍，也称为“虫 眼角度”或“虫眼视角”，与“鸟瞰角度”相对。“鸟瞰”指从高处往下看。",
           "raw": "【例 2-5】低角度拍摄（也称为虫瞰角度）可以使被拍摄物体或场景显得更加庄重或高大。（应"
         },
         {
           "id": "2-6",
-          "error": "采用脉宽调特原理进行测量的优点是频率较低，对周围无射频干扰，稳定性好，线",
-          "analysis": "",
+          "error": "采用脉宽调特原理进行测量的优点是频率较低，对周围无射频干扰，稳定性好，线 性好，无明显温度漂移等。（应改为“脉宽调制”）",
+          "analysis": "形近字差错。“调制”指用输入信号改变载波的一个或多个特征，使得输出信号与通信 设施兼容的过程。“脉宽调制”指脉冲宽度随调制信号的变化而改变的脉冲调制。",
           "raw": "【例 2-6】采用脉宽调特原理进行测量的优点是频率较低，对周围无射频干扰，稳定性好，线"
         },
         {
           "id": "2-7",
-          "error": "OSI 是 Open System Interconnect 的缩写，意为开放式系统互联，一般称为 OSI 参考",
-          "analysis": "",
+          "error": "OSI 是 Open System Interconnect 的缩写，意为开放式系统互联，一般称为 OSI 参考 模型。（前者改为 Interconnection，后者改为“开放系统互连”）",
+          "analysis": "术语不规范。开放系统互连（Open System Interconnection，OSI）是国际标准化组织（ISO） 定义的一种计算机网络协议体系。它允许开放系统之间互相连接并能互相协作。",
           "raw": "【例 2-7】OSI 是 Open System Interconnect 的缩写，意为开放式系统互联，一般称为 OSI 参考"
         },
         {
           "id": "2-8",
           "error": "",
-          "analysis": "",
+          "analysis": "形近字差错。物理层是 OSI 模型中的第一层，为通信提供实现透明传输的物理链接。",
           "raw": "【例 2-8】"
         },
         {
           "id": "2-9",
-          "error": "在计算往返时时延，由于在同一台计算机中统计时间，因此不会出现该问题。（应改",
-          "analysis": "",
+          "error": "在计算往返时时延，由于在同一台计算机中统计时间，因此不会出现该问题。（应改 为“往返时延时”）",
+          "analysis": "颠倒字差错。时延指数据从网络(或链路)的一端传送到另一端的时间。“往返时延” (Round-Trip Time，RTT）指从发送端发送数据开始到发送端收到来自接收端的确认所需的时间。",
           "raw": "【例 2-9】在计算往返时时延，由于在同一台计算机中统计时间，因此不会出现该问题。（应改"
         },
         {
           "id": "2-10",
-          "error": "波士顿 7S 分析作为一种战略规划工具，旨在协助企业在错综复杂的市场环境中做出",
-          "analysis": "",
+          "error": "波士顿 7S 分析作为一种战略规划工具，旨在协助企业在错综复杂的市场环境中做出 明智的战略决策。这一分析框架源自波士顿咨询集团（BCG）的独到见解，它着重强调了企业在实施 战略时应细致考量的 7 个核心要素。（前者改为“麦肯锡 7S 模型”，后者改为“麦肯锡咨询公司”）",
+          "analysis": "名词差错。“麦肯锡 7S 模型”是由麦肯锡咨询公司提出的一种战略规划工具，指组织 内部共同价值观、系统、结构、战略、管理风格、技能和员工 7 个因素相互作用的模型。因 7 个因 素的英语单词的首字母均为 S，故称。 2024 年理工类图书中的差错主要集中在以下几方面。 1.知识性差错（多见于科普、少儿、教辅书中） （1）科学知识(概念、性质、方法、定义)差错； （2）事实性（时间、地点、数值）差错； （3）知识陈旧过时（技术、设备和数据过时）。 2．不一致性差错（多见于科技书、教材中） （1）图（表）文不一致（内容、文字、符号、数值不符）； （2）相同内容前后文不一致。 3．专有名词和科技名词差错（多见于教材和专著中） （1）外文名称及其译名差错； （2）中文名称写法不规范； （3）术语用法不规范。 4．符号差错（多见于科技书和教材中） （1）物理量和单位符号差错； （2）科学符号误用。",
           "raw": "【例 2-10】波士顿 7S 分析作为一种战略规划工具，旨在协助企业在错综复杂的市场环境中做出"
         }
       ],
       "外语类": [
         {
           "id": "3-1",
-          "error": "Amazon provides varies products such as DVD, computer accessories, clothes, etc. （应改",
-          "analysis": "",
+          "error": "Amazon provides varies products such as DVD, computer accessories, clothes, etc. （应改 为 various）",
+          "analysis": "varies 是动词 vary 的第三人称单数形式，不能修饰名词 products，所以应将其改为形 容词 various。",
           "raw": "【例 3-1】Amazon provides varies products such as DVD, computer accessories, clothes, etc. （应改"
         },
         {
           "id": "3-2",
           "error": "It is one of the biggest worldwide e-commerce company. （应改为 companies）",
-          "analysis": "",
+          "analysis": "“one of +复数名词”表示“……之一”，所以句中的 company 应该用复数形式 companies。",
           "raw": "【例 3-2】It is one of the biggest worldwide e-commerce company. （应改为 companies）"
         },
         {
           "id": "3-3",
-          "error": "Did you have any bad or good experience? If yes, how was it like? （应改为 what was it",
-          "analysis": "",
+          "error": "Did you have any bad or good experience? If yes, how was it like? （应改为 what was it like 或者 how was it）",
+          "analysis": "how 是一个副词，表示“如何、怎样”，本身已经包含了询问方式或状态的意思，因 此不需要再接介词 like。根据上下文，可将 how was it like 改为 what was it like（更侧重细节的描述）， 或者 how was it（更侧重综合性的评价）。",
           "raw": "【例 3-3】Did you have any bad or good experience? If yes, how was it like? （应改为 what was it"
         },
         {
           "id": "3-4",
-          "error": "A suitable live streaming style would make your live stream stands out from others. （应",
-          "analysis": "",
+          "error": "A suitable live streaming style would make your live stream stands out from others. （应 改为 stand）",
+          "analysis": "本句涉及使役动词 make 的用法。“make +宾语+动词原形”表示“使……做……”。 动词原形作为宾语补足语，说明宾语发出的动作。本句中 stands 应改为原形 stand。",
           "raw": "【例 3-4】A suitable live streaming style would make your live stream stands out from others. （应"
         },
         {
           "id": "3-5",
           "error": "Why business niches are so important to us? （应改为 are business niches）",
-          "analysis": "",
+          "analysis": "本句为特殊疑问句，需要将助动词、系动词或情态动词提前到主语之前，形成“疑问 词+助动词/系动词/情态动词+主语+谓语+其他部分”的结构。",
           "raw": "【例 3-5】Why business niches are so important to us? （应改为 are business niches）"
         },
         {
           "id": "3-6",
-          "error": "Some employers practice ageism and refuse to hire the older worker. （应改为 older",
-          "analysis": "",
+          "error": "Some employers practice ageism and refuse to hire the older worker. （应改为 older workers）",
+          "analysis": "雇主们拒绝雇佣的肯定不是特定的某个年长工人，而是泛指这一群体，所以将 the older worker 改为 older workers。",
           "raw": "【例 3-6】Some employers practice ageism and refuse to hire the older worker. （应改为 older"
         },
         {
           "id": "3-7",
-          "error": "The brain changes improve the new father’s ability to empathize with their children. （应",
-          "analysis": "",
+          "error": "The brain changes improve the new father’s ability to empathize with their children. （应 改为 fathers’）",
+          "analysis": "father 为单数形式，而后文指代 father 的代词 their 是复数形式，前后单复数不一致， 违反了语法上的一致性原则，所以应把 father’s 改为 fathers’。 二、文字差错",
           "raw": "【例 3-7】The brain changes improve the new father’s ability to empathize with their children. （应"
         },
         {
           "id": "3-8",
           "error": "In the olded days, people used to make their own clothes by hand. （应改为 olden）",
-          "analysis": "",
+          "analysis": "英语中没有 olded 这一用法。In the olden days 是一个较为正式和文学化的表达，通常 用于描述久远的过去，并带有怀旧的情感。",
           "raw": "【例 3-8】In the olded days, people used to make their own clothes by hand. （应改为 olden）"
         },
         {
           "id": "3-9",
           "error": "The direct of operations also works as a data analyst. （应改为 director）",
-          "analysis": "",
+          "analysis": "根据上下文，此处 direct（adj.直接的）应改为 director（n.主任；经理）。 2024 年外语类图书中的错误主要集中在如下几方面。 1. 语言文字方面的差错 （1）文字差错：英文单词拼写、正斜体、大小写错误。 （2）语法差错：词性误用，单复数、所有格错误，主谓、代词、单复数不一致， 语序不当，时态误用，句子成分残缺或多余。 2. 不同种类图书的易错点 （1）翻译版图书：误解原文造成的错误，术语翻译不准确，译文选词不得当，句 子结构混乱。 （2）教材：讲解及注释错误，习题无逻辑性。 （3）考试类图书：真题原文错，讲解及译文有误。",
           "raw": "【例 3-9】The direct of operations also works as a data analyst. （应改为 director）"
         }
       ],
@@ -3418,19 +3418,19 @@ const BOOK_DATA = [
         },
         {
           "id": "4-2",
-          "error": "十三陵是明朝迁都北京后明成祖朱棣及其以后共计 13 位皇帝陵墓的总称，朱元璋葬",
+          "error": "十三陵是明朝迁都北京后明成祖朱棣及其以后共计 13 位皇帝陵墓的总称，朱元璋葬 在南京的明孝陵。",
           "analysis": "",
           "raw": "【例 4-2】十三陵是明朝迁都北京后明成祖朱棣及其以后共计 13 位皇帝陵墓的总称，朱元璋葬"
         },
         {
           "id": "4-3",
-          "error": "飞机的各项参数不符合事实：机身长度应为 30.3 米，机身高度应为 7.8 米，翼展应",
+          "error": "飞机的各项参数不符合事实：机身长度应为 30.3 米，机身高度应为 7.8 米，翼展应 为 28.7 米。",
           "analysis": "",
           "raw": "【例 4-3】飞机的各项参数不符合事实：机身长度应为 30.3 米，机身高度应为 7.8 米，翼展应"
         },
         {
           "id": "4-4",
-          "error": "题目错误，影响做题。数列中的 9 改为 10 才符合解析的规律。",
+          "error": "题目错误，影响做题。数列中的 9 改为 10 才符合解析的规律。 二、相关文字不一致差错",
           "analysis": "",
           "raw": "【例 4-4】题目错误，影响做题。数列中的 9 改为 10 才符合解析的规律。"
         },
@@ -3448,7 +3448,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-7",
-          "error": "相关文字不一致，“刘晓洁”与“小张”的姓氏应一致。",
+          "error": "相关文字不一致，“刘晓洁”与“小张”的姓氏应一致。 三、逻辑性差错",
           "analysis": "",
           "raw": "【例 4-7】 相关文字不一致，“刘晓洁”与“小张”的姓氏应一致。"
         },
@@ -3466,7 +3466,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-10",
-          "error": "画线语句前后矛盾，其中一个“计算列”应为 “列计算”。",
+          "error": "画线语句前后矛盾，其中一个“计算列”应为 “列计算”。 四、文字差错",
           "analysis": "",
           "raw": "【例 4-10】画线语句前后矛盾，其中一个“计算列”应为 “列计算”。"
         },
@@ -3523,178 +3523,178 @@ const BOOK_DATA = [
       "文科类": [
         {
           "id": "1-1",
-          "error": "新中国成立后，中国人民政治协商会议第一届全体会议通过的《中国人民政治协商",
-          "analysis": "",
+          "error": "新中国成立后，中国人民政治协商会议第一届全体会议通过的《中国人民政治协商 会议共同纲领》规定：“推广卫生医药事业，并注意保护母亲、婴儿和儿童的健康。”（应改为“新中 国成立前”）",
+          "analysis": "中国人民政治协商会议第一届全体会议于 1949 年 9 月 21 日至 30 日召开，而新中国于 1949 年 10 月 1 日宣告成立。所以“新中国成立后”应该改为“新中国成立前”。",
           "raw": "【例 1-1】新中国成立后，中国人民政治协商会议第一届全体会议通过的《中国人民政治协商"
         },
         {
           "id": "1-2",
-          "error": "我国西南地区岩溶天生桥景观非常发达，广西省百色市乐业县横跨布柳河之上的天",
-          "analysis": "",
+          "error": "我国西南地区岩溶天生桥景观非常发达，广西省百色市乐业县横跨布柳河之上的天 生桥桥面厚 78 米，拱高 67 米。（应改为“广西壮族自治区”）",
+          "analysis": "《宪法》第三十条中规定“全国分为省、自治区、直辖市”，此例中将“广西壮族自治 区”误为“广西省”，为省、自治区不分。",
           "raw": "【例 1-2】我国西南地区岩溶天生桥景观非常发达，广西省百色市乐业县横跨布柳河之上的天"
         },
         {
           "id": "1-3",
-          "error": "1934 年 4 月中旬至下旬，国民党军集中 11 个师进攻广昌，企图打开中央革命根据地",
-          "analysis": "",
+          "error": "1934 年 4 月中旬至下旬，国民党军集中 11 个师进攻广昌，企图打开中央革命根据地 的“北大门”，而后夺取中华苏维埃共和国的首都——瑞金。（应改为“瑞京”）",
+          "analysis": "据《辞海》“中华苏维埃共和国临时中央政府”词条，中华苏维埃共和国临时中央政府 于 1931 年 11 月在江西瑞金召开的中华苏维埃第一次全国代表大会上宣告成立，大会决定将瑞金改 为瑞京，作为中华苏维埃共和国的首都。",
           "raw": "【例 1-3】1934 年 4 月中旬至下旬，国民党军集中 11 个师进攻广昌，企图打开中央革命根据地"
         },
         {
           "id": "1-4",
-          "error": "新中国成立后，特别是改革开放以来，中国经济总量先后超越亚洲四小龙，随后又",
-          "analysis": "",
+          "error": "新中国成立后，特别是改革开放以来，中国经济总量先后超越亚洲四小龙，随后又 超越英法德三国，并于 2010 年超越日本，连续不间断地超越发达国家。（可改为“中国经济总量先 后超越亚洲四小龙中的韩国和新加坡”）",
+          "analysis": "“亚洲四小龙”指中国香港、中国台湾、新加坡、韩国，放在此处与中国对比不妥。 二、成语讹误 （一）成语误用",
           "raw": "【例 1-4】新中国成立后，特别是改革开放以来，中国经济总量先后超越亚洲四小龙，随后又"
         },
         {
           "id": "1-5",
-          "error": "武夷山的“鹰嘴岩”，矗立在丛峰之中，岩石向东南端突出，恰似鹰嘴，整块岩石活",
-          "analysis": "",
+          "error": "武夷山的“鹰嘴岩”，矗立在丛峰之中，岩石向东南端突出，恰似鹰嘴，整块岩石活 像一只雄鹰屹立在山冈展翅欲飞，这真是大自然巧夺天工的造化。（可改为“鬼斧神工”）",
+          "analysis": "“巧夺天工”指精巧的人工胜过天然，形容技艺极其精巧，不能用于自然景物。“鬼斧 神工”形容建筑、雕塑等技艺的精巧，既可形容人工技艺（如雕塑、建筑），也可形容自然景物（如 奇峰、溶洞）。",
           "raw": "【例 1-5】武夷山的“鹰嘴岩”，矗立在丛峰之中，岩石向东南端突出，恰似鹰嘴，整块岩石活"
         },
         {
           "id": "1-6",
-          "error": "正如高建老师在活动“课述”环节中提到，来自清华科技园和清华经管学院的教师",
-          "analysis": "",
+          "error": "正如高建老师在活动“课述”环节中提到，来自清华科技园和清华经管学院的教师 团队持续 13 年联合开设的“创办新企业”课程，是一门体现了追求梦想、知行合一、有始无终、团 队学习和产教融合等特色的清华创新创业教育课程。（可改为“有始有终”）",
+          "analysis": "“有始无终”指做事不能坚持到底，中途停顿，有头无尾，为贬义词。“有始有终” 指做事能坚持到底，不半途而废，为褒义词。",
           "raw": "【例 1-6】正如高建老师在活动“课述”环节中提到，来自清华科技园和清华经管学院的教师"
         },
         {
           "id": "1-7",
-          "error": "前提本身不为真是指我们收集的数据鱼龙混杂，比如我们的学生在检索数据的时候",
-          "analysis": "",
+          "error": "前提本身不为真是指我们收集的数据鱼龙混杂，比如我们的学生在检索数据的时候 不去权威网站上获取官方数据，而是在某搜索引擎上随便找到某个不知名网站上的二手数据。（可改 为“泥沙俱下”）",
+          "analysis": "“鱼龙混杂”比喻坏人和好人混在一起，强调的是人的品质、身份等方面的混杂。“泥 沙俱下”指泥土和沙子都跟着流下来，比喻好坏不同的人或事物混杂在一起。 （二）成语错误",
           "raw": "【例 1-7】前提本身不为真是指我们收集的数据鱼龙混杂，比如我们的学生在检索数据的时候"
         },
         {
           "id": "1-8",
-          "error": "虽然两个人的感情还在，但如胶似膝的浪漫与甜蜜，被柴米油盐等日常琐事所覆盖。",
-          "analysis": "",
+          "error": "虽然两个人的感情还在，但如胶似膝的浪漫与甜蜜，被柴米油盐等日常琐事所覆盖。 （应改为“如胶似漆”）",
+          "analysis": "“如胶似漆”指像胶或漆一样粘在一起，形容感情深厚，难舍难分。",
           "raw": "【例 1-8】虽然两个人的感情还在，但如胶似膝的浪漫与甜蜜，被柴米油盐等日常琐事所覆盖。"
         },
         {
           "id": "1-9",
-          "error": "“只要一捧起那些书，我就浑身通畅，感觉自己快活得像天上的小鸟，自由得好比水",
-          "analysis": "",
+          "error": "“只要一捧起那些书，我就浑身通畅，感觉自己快活得像天上的小鸟，自由得好比水 中的小鱼。”谈起少年时代读过的那些书，他的眼睛逐渐亮了起来，眼睛里仿佛真的有成群结对的小 鱼儿在游泳。（应改为“成群结队”）",
+          "analysis": "“成群结队”指众多的人或动物结成一群群、一队队。形容人或动物很多，自然地聚集 在一起，后来也比喻团结一致。",
           "raw": "【例 1-9】“只要一捧起那些书，我就浑身通畅，感觉自己快活得像天上的小鸟，自由得好比水"
         },
         {
           "id": "1-10",
-          "error": "以数据驱动业务流程再造和组织结构优化，促进跨层级、跨系统、跨部门、跨业务",
-          "analysis": "",
+          "error": "以数据驱动业务流程再造和组织结构优化，促进跨层级、跨系统、跨部门、跨业务 的高效协作，实现所有工作各行其事、各尽其职又高度协同，进一步优化资源配置。（应改为“各行 其是”）",
+          "analysis": "“各行其是”指各自按照自己以为对的去做。",
           "raw": "【例 1-10】以数据驱动业务流程再造和组织结构优化，促进跨层级、跨系统、跨部门、跨业务"
         },
         {
           "id": "1-11",
           "error": "打开语音信箱，蒂芙尼气若游思的声音断断续续传入耳中。（应改为“气若游丝”）",
-          "analysis": "",
+          "analysis": "“气若游丝”形容气息、生命的迹象很微弱，比喻生命垂危。",
           "raw": "【例 1-11】打开语音信箱，蒂芙尼气若游思的声音断断续续传入耳中。（应改为“气若游丝”）"
         },
         {
           "id": "1-12",
-          "error": "“动物是通人性的，你喜欢它是你的事，只有认定它也喜欢你，或者至少不怕你，",
-          "analysis": "",
+          "error": "“动物是通人性的，你喜欢它是你的事，只有认定它也喜欢你，或者至少不怕你， 才能说明你俩是适合彼此的。”本慢条思理地对简说。（应改为“慢条斯理”）",
+          "analysis": "“慢条斯理”形容动作缓慢，不慌不忙。 三、表意重复",
           "raw": "【例 1-12】“动物是通人性的，你喜欢它是你的事，只有认定它也喜欢你，或者至少不怕你，"
         },
         {
           "id": "1-13",
-          "error": "这些创业者最关心的问题，恰恰也正是创业课最关注的方面。（“恰恰”与“正”应",
-          "analysis": "",
+          "error": "这些创业者最关心的问题，恰恰也正是创业课最关注的方面。（“恰恰”与“正”应 删其一）",
+          "analysis": "“恰恰”和“正”语义重复。",
           "raw": "【例 1-13】这些创业者最关心的问题，恰恰也正是创业课最关注的方面。（“恰恰”与“正”应"
         },
         {
           "id": "1-14",
-          "error": "本章总结选取的一些数学思想理论和数学思维方法，只是庞大数学知识体系中极少",
-          "analysis": "",
+          "error": "本章总结选取的一些数学思想理论和数学思维方法，只是庞大数学知识体系中极少 的一部分，即使是其中极少的一部分也足以能够引起我们更加重视和深刻认知数学的伟大思想理论 和科学方法的重大价值和深远意义。（“足以”与“能够”应删其一）",
+          "analysis": "“足以”和“能够”语义重复。",
           "raw": "【例 1-14】本章总结选取的一些数学思想理论和数学思维方法，只是庞大数学知识体系中极少"
         },
         {
           "id": "1-15",
-          "error": "直到哈佛大学克里斯坦森教授在其著作中普及了这一术语，“待办任务”才得以广",
-          "analysis": "",
+          "error": "直到哈佛大学克里斯坦森教授在其著作中普及了这一术语，“待办任务”才得以广 泛传播，但也因此，当下“待办任务”在各个领域的传播仅溯及至克里斯坦森。（可删“至”）",
+          "analysis": "“溯及”本身已包含“追溯到”的含义，后加“至”导致语义重复。此处可删“至”， 或将“溯及至”改为“追溯到”。",
           "raw": "【例 1-15】直到哈佛大学克里斯坦森教授在其著作中普及了这一术语，“待办任务”才得以广"
         },
         {
           "id": "1-16",
-          "error": "感谢所有给予我信任并允许我和他们一起探索生命旅程的人，以及我生命中最至亲",
-          "analysis": "",
+          "error": "感谢所有给予我信任并允许我和他们一起探索生命旅程的人，以及我生命中最至亲 至爱的家人。（应删“最”）",
+          "analysis": "“至亲至爱”中“至”已有“最”的含义，前加“最”导致语义重复。",
           "raw": "【例 1-16】感谢所有给予我信任并允许我和他们一起探索生命旅程的人，以及我生命中最至亲"
         }
       ],
       "理工类": [
         {
           "id": "2-1",
-          "error": "处理过程中不添加任何化学药剂，能有效回收油泥里的石油资源，不产生二次污染，",
-          "analysis": "",
+          "error": "处理过程中不添加任何化学药剂，能有效回收油泥里的石油资源，不产生二次污染， 处理后固体含油率小于 0.3%（必要时可达 0.05%以下），优于《农用污泥中污染控制标准》（GB 4284—2018）要求。（应改为“农用污泥污染物”）",
+          "analysis": "标准名称有误。《农用污泥污染物控制标准》（GB 4284—2018）于 2018 年 5 月 14 日发 布，代替《农用污泥中污染物控制标准》（GB 4284—1984）。",
           "raw": "【例 2-1】处理过程中不添加任何化学药剂，能有效回收油泥里的石油资源，不产生二次污染，"
         },
         {
           "id": "2-2",
-          "error": "假膜性肠炎，表现为长臂坏死、体液渗出、剧烈腹痛，甚至脱水或休克等。（应改为",
-          "analysis": "",
+          "error": "假膜性肠炎，表现为长臂坏死、体液渗出、剧烈腹痛，甚至脱水或休克等。（应改为 “肠壁”）",
+          "analysis": "同音别字。肠壁坏死是假膜性肠炎的严重并发症之一。",
           "raw": "【例 2-2】假膜性肠炎，表现为长臂坏死、体液渗出、剧烈腹痛，甚至脱水或休克等。（应改为"
         },
         {
           "id": "2-3",
-          "error": "in crash recovery：数据库实例非异常停止后，重新启动，会先进行实例的恢复，在实",
-          "analysis": "",
+          "error": "in crash recovery：数据库实例非异常停止后，重新启动，会先进行实例的恢复，在实 例恢复时的状态就是此状态。（应改为“异常”）",
+          "analysis": "多字。in crash recovery 是“处于崩溃恢复状态”，表示数据库实例异常停止后重新启动 时的恢复状态。多字导致句意相反。",
           "raw": "【例 2-3】in crash recovery：数据库实例非异常停止后，重新启动，会先进行实例的恢复，在实"
         },
         {
           "id": "2-4",
-          "error": "文档型数据库在数据差序的过程中使用较为复杂的查询条件语句取得目标数据。（应",
-          "analysis": "",
+          "error": "文档型数据库在数据差序的过程中使用较为复杂的查询条件语句取得目标数据。（应 改为“查询”）",
+          "analysis": "同声母别字。查询指在数据库中根据指定的条件检索数据的操作。",
           "raw": "【例 2-4】文档型数据库在数据差序的过程中使用较为复杂的查询条件语句取得目标数据。（应"
         },
         {
           "id": "2-5",
-          "error": "各种电气设备会因为周边的电磁环境而导致性能降低，功能丧失和损坏，也不会在",
-          "analysis": "",
+          "error": "各种电气设备会因为周边的电磁环境而导致性能降低，功能丧失和损坏，也不会在 周边环境中产生过量的电磁能量，以致影响周边设备的正常工作。（应改为“不会”）",
+          "analysis": "漏字。例句的本意是电气设备和周边环境不相互影响。漏字改变句意，使逻辑不通。",
           "raw": "【例 2-5】各种电气设备会因为周边的电磁环境而导致性能降低，功能丧失和损坏，也不会在"
         },
         {
           "id": "2-6",
           "error": "人工智能神经网络（Artificial Neural Network）。（应改为“人工”）",
-          "analysis": "",
+          "analysis": "科技名词差错。Artificial Neural Network 即人工神经网络，是指模拟人脑结构的一种非 线性系统，由大量人工神经元按某一拓扑结构互联而成。 二、数值差错",
           "raw": "【例 2-6】人工智能神经网络（Artificial Neural Network）。（应改为“人工”）"
         },
         {
           "id": "2-7",
           "error": "",
-          "analysis": "",
+          "analysis": "除数有误。本案例中的程序是为了验证输入的数字能否整除 2 和 3，故“3 和 4”应改 为“2 和 3”，“4”应改为“2”。",
           "raw": "【例 2-7】"
         },
         {
           "id": "2-8",
           "error": "同位素的丰度总和通常是 100。（应改为“100%”或“1”）",
-          "analysis": "",
+          "analysis": "比值有误。同位素丰度指某元素的特定同位素的原子数与该元素的总原子数之比值， 常以原子百分数表示。",
           "raw": "【例 2-8】同位素的丰度总和通常是 100。（应改为“100%”或“1”）"
         },
         {
           "id": "2-9",
           "error": "19 世纪著名的荷兰版画家埃舍尔创造了很多美丽的镶嵌图。（应改为“20”）",
-          "analysis": "",
+          "analysis": "时间有误。荷兰版画家埃舍尔（1898—1972）活跃于 20 世纪，以其独特的视错觉艺术 作品而闻名。",
           "raw": "【例 2-9】19 世纪著名的荷兰版画家埃舍尔创造了很多美丽的镶嵌图。（应改为“20”）"
         },
         {
           "id": "2-10",
-          "error": "因为以太坊的出块速度（912s 左右）远远快于比特币（10min 左右），因此难以避",
-          "analysis": "",
+          "error": "因为以太坊的出块速度（912s 左右）远远快于比特币（10min 左右），因此难以避 免会出现多名矿工同时挖出新区块的情况。（应改为“15”）",
+          "analysis": "时长有误。10min（600s）快于 912s，故表达有误。据资料显示，以太坊生成一个新区 块的时间为 15s 左右。 三、知识性差错",
           "raw": "【例 2-10】因为以太坊的出块速度（912s 左右）远远快于比特币（10min 左右），因此难以避"
         },
         {
           "id": "2-11",
-          "error": "1-范数（1-norm），又称为曼哈顿距离（Manhattan norm）或曼哈顿长度，是向量空",
-          "analysis": "",
+          "error": "1-范数（1-norm），又称为曼哈顿距离（Manhattan norm）或曼哈顿长度，是向量空 间中的一种范数，用于衡量一个向量中所有元素绝对值的总和。（应将“距离”改为“范数”并删“或 曼哈顿长度”）",
+          "analysis": "概念差错。本案例中混淆了曼哈顿范数和曼哈顿距离。二者都涉及绝对值之和，但并 不等同。前者是计算向量中所有元素绝对值的和，后者是计算两个点对应坐标差值的绝对值之和。",
           "raw": "【例 2-11】1-范数（1-norm），又称为曼哈顿距离（Manhattan norm）或曼哈顿长度，是向量空"
         },
         {
           "id": "2-12",
-          "error": "椭圆曲线（elliptic curve）是指由魏尔斯特拉斯（Weierstrass）方程确定的平面。（应",
-          "analysis": "",
+          "error": "椭圆曲线（elliptic curve）是指由魏尔斯特拉斯（Weierstrass）方程确定的平面。（应 改为“曲线”）",
+          "analysis": "定义差错。椭圆曲线是曲线而非平面。",
           "raw": "【例 2-12】椭圆曲线（elliptic curve）是指由魏尔斯特拉斯（Weierstrass）方程确定的平面。（应"
         },
         {
           "id": "2-13",
           "error": "",
-          "analysis": "",
+          "analysis": "公式推导差错。本案例中有两种差错：推导式（3-14）时，x（t－1）前的负号误为正 号，后边多个公式出现了类似差错；初始条件 x（1）的第一项漏乘 x0。",
           "raw": "【例 2-13】"
         }
       ],
@@ -3702,37 +3702,37 @@ const BOOK_DATA = [
         {
           "id": "3-1",
           "error": "Don’t forget to bring you’re notes. （应改为 your）",
-          "analysis": "",
+          "analysis": "原句中 you’re（= you are）应改为物主代词 your（你的）。",
           "raw": "【例 3-1】Don’t forget to bring you’re notes. （应改为 your）"
         },
         {
           "id": "3-2",
-          "error": "Since the ancient castle was built in the 16th century, it remained a symbol of the city’s",
-          "analysis": "",
+          "error": "Since the ancient castle was built in the 16th century, it remained a symbol of the city’s glorious history. （应改为 has remained）",
+          "analysis": "本句为 since 引导的时间状语从句，从句用一般过去时，主句用现在完成时，表示从 过去某一时刻开始一直持续到现在的状态，所以应将 remained 改为 has reminded。",
           "raw": "【例 3-2】Since the ancient castle was built in the 16th century, it remained a symbol of the city’s"
         },
         {
           "id": "3-3",
-          "error": "According to this theory, people approach digital texts with a mindset suited to social",
-          "analysis": "",
+          "error": "According to this theory, people approach digital texts with a mindset suited to social media, which are often not so serious. 这句话中，which 引导非限制性定语从句修饰 a mindset。（应改 为 social media）",
+          "analysis": "通常情况下，非限制性定语从句紧跟在它所修饰的先行词之后，这样能让句子的语义 更加清晰，读者能迅速明确从句所修饰的对象。因此，本句中 which 引导非限制性定语从句修饰的 是 social media。此外，从语义逻辑及谓语动词的单复数形式上也可判定原文有误。非限制性定语从 句中的谓语动词 are 是复数形式，这表明先行词是复数。在这个句子中，social media 是复数，所以 从句修饰它是合理的。 二、文字差错",
           "raw": "【例 3-3】 According to this theory, people approach digital texts with a mindset suited to social"
         },
         {
           "id": "3-4",
-          "error": "Many movies and plays are based on Great Expectations because its story about love,",
-          "analysis": "",
+          "error": "Many movies and plays are based on Great Expectations because its story about love, friendship, and growing up is still interesting to people today. （应改为 Great Expectations）",
+          "analysis": "Great Expectations 是英国作家查尔斯・ 狄更斯晚年创作的长篇小说。小说名在文中出 现时需要用斜体。",
           "raw": "【例 3-4】Many movies and plays are based on Great Expectations because its story about love,"
         },
         {
           "id": "3-5",
           "error": "Policies implemented though counties revitalize rural economies. （应改为 through）",
-          "analysis": "",
+          "analysis": "though 意为“虽然；尽管”，与上下文不搭配，应将其改为 through，意为“穿过；贯 穿”。",
           "raw": "【例 3-5】Policies implemented though counties revitalize rural economies. （应改为 through）"
         },
         {
           "id": "3-6",
-          "error": "The report, complied from market trends, predicted an economic downturn. （应改为",
-          "analysis": "",
+          "error": "The report, complied from market trends, predicted an economic downturn. （应改为 compiled）",
+          "analysis": "complied 为 comply 的过去分词，意为“遵从；服从”，与上下文不搭配，应将其改为 compiled，意为“编写；编纂”。",
           "raw": "【例 3-6】 The report, complied from market trends, predicted an economic downturn. （应改为"
         }
       ],
@@ -3763,7 +3763,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-5",
-          "error": "概念错误。十进制的基本符号包括 0~9，不含 10。",
+          "error": "概念错误。十进制的基本符号包括 0~9，不含 10。 二、程序差错",
           "analysis": "",
           "raw": "【例 4-5】概念错误。十进制的基本符号包括 0~9，不含 10。"
         },
@@ -3781,7 +3781,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-8",
-          "error": "第 3 行代码中的“（a+b）”应为“（a-b）”。",
+          "error": "第 3 行代码中的“（a+b）”应为“（a-b）”。 三、文字差错",
           "analysis": "",
           "raw": "【例 4-8】第 3 行代码中的“（a+b）”应为“（a-b）”。"
         },
@@ -3817,7 +3817,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-14",
-          "error": "56 应为 5G。",
+          "error": "56 应为 5G。 四、插图差错",
           "analysis": "",
           "raw": "【例 4-14】56 应为 5G。"
         },
@@ -3850,68 +3850,68 @@ const BOOK_DATA = [
       "文科类": [
         {
           "id": "1-1",
-          "error": "春秋时期，诸子百家就已经开始探讨美感的普遍性与差异性，如儒家学派的孟子在",
-          "analysis": "",
+          "error": "春秋时期，诸子百家就已经开始探讨美感的普遍性与差异性，如儒家学派的孟子在 中国美学史上第一次明确提出美感的普遍性。（应改为“春秋战国时期”）",
+          "analysis": "孟子（前 372 年—前 289 年），战国时期邹国（今山东邹城）人，儒家思想代表人物之 一，中国古代思想家、哲学家、政治家、教育家。",
           "raw": "【例 1-1】春秋时期，诸子百家就已经开始探讨美感的普遍性与差异性，如儒家学派的孟子在"
         },
         {
           "id": "1-2",
-          "error": "中国古典诗词中有不少以距离制造神秘的佳句，如“千呼万唤始出来，犹抱琵琶半",
-          "analysis": "",
+          "error": "中国古典诗词中有不少以距离制造神秘的佳句，如“千呼万唤始出来，犹抱琵琶半 遮面”（白居易《琵琶行》），“美人如花隔云端”（李白《长恨歌》），“洞房深夜笙 歌散，帘幕重重。” （冯延巳《采桑子》）。（应改为“《长相思》”）",
+          "analysis": "《长恨歌》是唐代诗人白居易创作的一首长篇叙事诗。",
           "raw": "【例 1-2】中国古典诗词中有不少以距离制造神秘的佳句，如“千呼万唤始出来，犹抱琵琶半"
         },
         {
           "id": "1-3",
-          "error": "魏晋画家宗炳提出“澄怀味象”，其中，“澄怀”二字就是要求审美主体澄清胸怀，",
-          "analysis": "",
+          "error": "魏晋画家宗炳提出“澄怀味象”，其中，“澄怀”二字就是要求审美主体澄清胸怀， 祛除私心杂念，使之无私、无烦、无躁，达到一种“空”和“静”的境界，如苏东坡云：“欲令诗语 妙，无厌空且静。”（应改为“南朝宋”）",
+          "analysis": "宗炳（375 年—443 年），南朝宋画家，字少文，南阳涅阳（今河南邓州东北）人。 二、名称不准确",
           "raw": "【例 1-3】魏晋画家宗炳提出“澄怀味象”，其中，“澄怀”二字就是要求审美主体澄清胸怀，"
         },
         {
           "id": "1-4",
-          "error": "蛋壳高柄黑陶杯，龙山文化，高 26.5 厘米，公元前 3000—前 2000 年，山东日照东",
+          "error": "蛋壳高柄黑陶杯，龙山文化，高 26.5 厘米，公元前 3000—前 2000 年，山东日照东 海峪出土，山东文物考古研究所藏。（应改为“山东文物考古研究院”）",
           "analysis": "",
           "raw": "【例 1-4】蛋壳高柄黑陶杯，龙山文化，高 26.5 厘米，公元前 3000—前 2000 年，山东日照东"
         },
         {
           "id": "1-5",
-          "error": "作者获得美国天普大学 IT 审计与网络安全专业理学硕士学位，现为马来亚-威尔士大",
+          "error": "作者获得美国天普大学 IT 审计与网络安全专业理学硕士学位，现为马来亚-威尔士大 学（UMW）计算机科学专业博士研究生。（应改为“I UMW”）",
           "analysis": "",
           "raw": "【例 1-5】作者获得美国天普大学 IT 审计与网络安全专业理学硕士学位，现为马来亚-威尔士大"
         },
         {
           "id": "1-6",
-          "error": "2022 年 12 月 20 日，中国发改委发布的文章《完善数据资产新蓝图 释放数据要素",
+          "error": "2022 年 12 月 20 日，中国发改委发布的文章《完善数据资产新蓝图 释放数据要素 新价值》强调了“加快完善数据资产综合管理改革政策闭环体系”。（应改为“国家发展改革委”） 三、篡改成语 国家有关法律法规明确规定，出版物中不得随 意更换成语中的文字、变动成 语结构或曲解成语 内涵，不得随意篡改、乱用成语。",
           "analysis": "",
           "raw": "【例 1-6】2022 年 12 月 20 日，中国发改委发布的文章《完善数据资产新蓝图 释放数据要素"
         },
         {
           "id": "1-7",
-          "error": "林则徐严禁地方官员迎接送往，他轻车简从，随行人员不过十来人，而且要求随行",
-          "analysis": "",
+          "error": "林则徐严禁地方官员迎接送往，他轻车简从，随行人员不过十来人，而且要求随行 人员不能对地方有任何叨扰，违令者严处。（应改为“迎来送往”）",
+          "analysis": "迎来送往：形容人际交往中忙于应付各类社交事务的状态。",
           "raw": "【例 1-7】林则徐严禁地方官员迎接送往，他轻车简从，随行人员不过十来人，而且要求随行"
         },
         {
           "id": "1-8",
-          "error": "当时，商纣王正在跟东夷人作战，打得昏天地暗。就在商朝的主力部队战斗值被严",
-          "analysis": "",
+          "error": "当时，商纣王正在跟东夷人作战，打得昏天地暗。就在商朝的主力部队战斗值被严 重消耗时，周武王瞅准时机，突然下黑手，这才摘得了胜利果实。（应改为“天昏地暗”）",
+          "analysis": "天昏地暗：指天色昏暗无光。比喻政治腐败或社会混乱，也指某种行为程度之深。 四、搭配不当",
           "raw": "【例 1-8】当时，商纣王正在跟东夷人作战，打得昏天地暗。就在商朝的主力部队战斗值被严"
         },
         {
           "id": "1-9",
-          "error": "2022 年，故宫博物院推出了一场以“何以中国”为主题的展览，在方寸之间探寻“中",
-          "analysis": "",
+          "error": "2022 年，故宫博物院推出了一场以“何以中国”为主题的展览，在方寸之间探寻“中 华乾坤之大、华夏意蕴之远”。自此，拉开了国内博物馆“何以”系列的热潮。",
+          "analysis": "“拉开”与“热潮”动宾搭配不当，可改“拉开”为“掀起”。",
           "raw": "【例 1-9】2022 年，故宫博物院推出了一场以“何以中国”为主题的展览，在方寸之间探寻“中"
         },
         {
           "id": "1-10",
-          "error": "可能很多朋友会以为，只有省市级别的博物馆才能达到一级博物馆的称号。其实，",
-          "analysis": "",
+          "error": "可能很多朋友会以为，只有省市级别的博物馆才能达到一级博物馆的称号。其实， 有很多县或县级市也拥有国家一级博物馆。",
+          "analysis": "“达到”与“称号”动宾搭配不当，可改“达到”为“获得”。",
           "raw": "【例 1-10】可能很多朋友会以为，只有省市级别的博物馆才能达到一级博物馆的称号。其实，"
         },
         {
           "id": "1-11",
-          "error": "心理学发展到今天，心理学家已经发展了很多研究心理现象的方法，如心理测验法、",
-          "analysis": "",
+          "error": "心理学发展到今天，心理学家已经发展了很多研究心理现象的方法，如心理测验法、 个案分析法、作品分析法、问卷调查法、内省法和观察法等。",
+          "analysis": "“发展”与“方法”动宾搭配不当，可改“发展”为“提出”。",
           "raw": "【例 1-11】心理学发展到今天，心理学家已经发展了很多研究心理现象的方法，如心理测验法、"
         }
       ],
@@ -3919,73 +3919,73 @@ const BOOK_DATA = [
         {
           "id": "2-1",
           "error": "",
-          "analysis": "",
+          "analysis": "定义有误。比例尺=图上距离÷实际距离，如比例尺 1∶10000 表示图上 1cm 代表实际 距离 10000cm。",
           "raw": "【例 2-1】"
         },
         {
           "id": "2-2",
           "error": "",
-          "analysis": "",
+          "analysis": "概念有误。 平面几何中无“矩形椭圆”这种图形。",
           "raw": "【例 2-2】"
         },
         {
           "id": "2-3",
           "error": "",
-          "analysis": "",
+          "analysis": "概 念有误。 力学中，功等于力与物体在力的方向上移动的距离的乘积，因此，功是力 对位移累积。",
           "raw": "【例 2-3】"
         },
         {
           "id": "2-4",
           "error": "",
-          "analysis": "",
+          "analysis": "程序注释有误。本例中的程序是单 if-else 双分支结构，不存在分支嵌套。",
           "raw": "【例 2-4】"
         },
         {
           "id": "2-5",
           "error": "",
-          "analysis": "",
+          "analysis": "答案有误。本例中的法向加速度 an=v2/R，由 v=ct2 可得，an= c2t4/R。 二、符号差错",
           "raw": "【例 2-5】"
         },
         {
           "id": "2-6",
           "error": "",
-          "analysis": "",
+          "analysis": "斜体误用。本例中的 e 为自然对数的底，是一个无理数。在科技领域中，值不变的数 2 学常数（例如 e=2.718 281 8…，π=3.141 592 6…，i =－1 等）用正体表示。",
           "raw": "【例 2-6】"
         },
         {
           "id": "2-7",
           "error": "",
-          "analysis": "",
+          "analysis": "斜体误用。本例中的 C 是组合数符号，类似的还有排列数符号 A（如排列数  ），二 者均用正体。",
           "raw": "【例 2-7】"
         },
         {
           "id": "2-8",
           "error": "",
-          "analysis": "",
+          "analysis": "白斜体误用。本例中的 Rn 表示 n 维实数向量空间，R 代表实数集，用黑正体（或空心 正体）。类似的还有 N（非负整数集）、Z（整数集）、Q（有理数集）、C（复数集）。",
           "raw": "【例 2-8】"
         },
         {
           "id": "2-9",
           "error": "",
-          "analysis": "",
+          "analysis": "正体误用。本例中的 π 代表向量的元素，是变量，用斜体表示。",
           "raw": "【例 2-9】"
         },
         {
           "id": "2-10",
           "error": "",
-          "analysis": "",
+          "analysis": "单位符号斜体有误。单位符号一律用正体字母表示，此例中 S（西[门子] ）为复导纳 的单位符号。",
           "raw": "【例 2-10】"
         },
         {
           "id": "2-11",
           "error": "",
-          "analysis": "",
+          "analysis": "白体误用。本例中的 x 是向量，用黑体。",
           "raw": "【例 2-11】"
         },
         {
           "id": "2-12",
           "error": "",
-          "analysis": "",
+          "analysis": "字母与数字混用。本例中回车符和换行符的十六进制 ASCII 码分别为 0DH（十进制编 码是 13）和 0AH（十进制编码是 10），其中的 0 是数字，非大写英文字母 O。",
           "raw": "【例 2-12】"
         }
       ],
@@ -3993,37 +3993,37 @@ const BOOK_DATA = [
         {
           "id": "3-1",
           "error": "For the past years, his high salary is envied by others. （应改为 has been）",
-          "analysis": "",
+          "analysis": "句首的时间状语 For the past years 表示一个从过去持续到现在的时间段，需要搭配现在 完成时，强调动作的持续性或对现在的影响，所以应将谓语动词改为现在完成时的被动语态 has been envied，使时态与时间状语一致。",
           "raw": "【例 3-1】For the past years, his high salary is envied by others. （应改为 has been）"
         },
         {
           "id": "3-2",
-          "error": "National parks generate income through tourism activities, support local economies, and",
-          "analysis": "",
+          "error": "National parks generate income through tourism activities, support local economies, and creating jobs. （应改为 create）",
+          "analysis": "本句通过 and 连接了三个并列的谓语成分，前两个是动词原形 generate 和 support，但 第三个却用了现在分词 creating，破坏了并列结构的一致性，所以应将 creating 改为动词原形 create， 使三个谓语动词保持形式一致。 二、文字差错",
           "raw": "【例 3-2】National parks generate income through tourism activities, support local economies, and"
         },
         {
           "id": "3-3",
-          "error": "All the applicants must ensure that their personal information forms are filled incorrectly;",
-          "analysis": "",
+          "error": "All the applicants must ensure that their personal information forms are filled incorrectly; otherwise, their applications will be rejected. （应改为 in correctly）",
+          "analysis": "原句中 incorrectly 的错误有可能是录入时的疏漏造成的。in correctly 本应是分开书写的 短语，却因忘记加空格误写成否定副词 incorrectly，这导致句子语义出现偏差——申请者不应该“错 误地（incorrectly）”填写表格。此外，从短语用法看，fill in 是一个固定短语，句中是被动语态的用 法，correctly 是副词，修饰 filled in。",
           "raw": "【例 3-3】 All the applicants must ensure that their personal information forms are filled incorrectly;"
         },
         {
           "id": "3-4",
-          "error": "The principle challenge we face right now is to reduce the production cost without",
+          "error": "The principle challenge we face right now is to reduce the production cost without sacrificing quality. （应改为 principal） 〖简析 〗原句旨在表达“我们目前面临的主要挑战是在不牺牲质量的前提下降低生产成本”。从 语义表达来看，句中 challeng（e 挑战）需要一个形容词来修饰，以明确挑战的性质。principle 和 principal 读音一样，在拼写上较为相似，但它们的词性和词义有明显区别。principle 是名词，意为“原则； 原理”；principal 常用作形容词，意为“主要的”。因此，此处应将名词 principle 改为形容词 principal， 修正后句子语法正确、语义清晰准确。",
           "analysis": "",
           "raw": "【例 3-4】The principle challenge we face right now is to reduce the production cost without"
         },
         {
           "id": "3-5",
-          "error": "Look at that building across the street. That’s the Empire State. （应改为 Empire State",
-          "analysis": "",
+          "error": "Look at that building across the street. That’s the Empire State. （应改为 Empire State Building）",
+          "analysis": "根据上下文句意，句中提及的地点是“帝国大厦”，而不是“纽约州”（别称“帝国州”）。",
           "raw": "【例 3-5】Look at that building across the street. That’s the Empire State. （应改为 Empire State"
         },
         {
           "id": "3-6",
           "error": "Before the pandemic, 8 million Argentine received food assistance. （应改为 Argentines）",
-          "analysis": "",
+          "analysis": "Argentine 作名词时，指“阿根廷人”，为可数名词，单数形式为 an Argentine，复数形 式为 Argentines。句中 8 million 后应接复数形式的可数名词，因此将 Argentine 改为 Argentines。",
           "raw": "【例 3-6】Before the pandemic, 8 million Argentine received food assistance. （应改为 Argentines）"
         }
       ],
@@ -4054,7 +4054,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-5",
-          "error": "年份错误，1920 应为 1991。",
+          "error": "年份错误，1920 应为 1991。 二、程序相关差错",
           "analysis": "",
           "raw": "【例 4-5】年份错误，1920 应为 1991。"
         },
@@ -4072,7 +4072,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-8",
-          "error": "红色框中的“[”应为“]”。",
+          "error": "红色框中的“[”应为“]”。 三、文字差错",
           "analysis": "",
           "raw": "【例 4-8】红色框中的“[”应为“]”。"
         },
@@ -4102,7 +4102,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-13",
-          "error": "答案 D 应为 C，与解析一致。",
+          "error": "答案 D 应为 C，与解析一致。 四、图文不一致差错",
           "analysis": "",
           "raw": "【例 4-13】答案 D 应为 C，与解析一致。"
         },
@@ -4147,50 +4147,50 @@ const BOOK_DATA = [
       "文科类": [
         {
           "id": "1-1",
-          "error": "西南联大诞生于抗战烽火之中，九一八事变后由清华、北大、南开三所大学组成，",
-          "analysis": "",
+          "error": "西南联大诞生于抗战烽火之中，九一八事变后由清华、北大、南开三所大学组成， 是三校共同的重要历史篇章。（可改为“卢沟桥事变”）",
+          "analysis": "1937 年全面抗战爆发（卢沟桥事变）后，三校先南迁长沙，组建国立长沙临时大学； 1938 年西迁昆明，才正式定名国立西南联合大学。",
           "raw": "【例 1-1】西南联大诞生于抗战烽火之中，九一八事变后由清华、北大、南开三所大学组成，"
         },
         {
           "id": "1-2",
-          "error": "1945 年，此画由末代皇帝爱新觉罗·溥仪带出宫廷并流失到了东北，现在收藏于辽",
-          "analysis": "",
+          "error": "1945 年，此画由末代皇帝爱新觉罗·溥仪带出宫廷并流失到了东北，现在收藏于辽 宁省博物馆。（可改为“此画于 1924 年由溥仪在被逐出紫禁城时带出宫外，1945 年伪满覆灭时流 失于东北”）",
+          "analysis": "清朝末代皇帝溥仪 1924 年 11 月被废除帝号逐出紫禁城时，将大量文物带出宫外。1945 年伪满洲国覆灭时，这批文物流失。 二、表述不准确",
           "raw": "【例 1-2】1945 年，此画由末代皇帝爱新觉罗·溥仪带出宫廷并流失到了东北，现在收藏于辽"
         },
         {
           "id": "1-3",
-          "error": "截至 2024 年底，“中国农大—腾讯为村乡村 CEO 计划”开发的乡村 CEO 培养方案",
-          "analysis": "",
+          "error": "截至 2024 年底，“中国农大—腾讯为村乡村 CEO 计划”开发的乡村 CEO 培养方案 已由政府主导推广应用至重庆、云南、广西、浙江、广东等 17 个省 309 个县，累计培养了约 6.6 万 名乡村经营性人才。（应改为“省（区、市）”）",
+          "analysis": "本例中的重庆是直辖市、广西是自治区，并不属于“省”这一行政区划，统一用“省” 来概括所有省级行政区，概念不准确。",
           "raw": "【例 1-3】截至 2024 年底，“中国农大—腾讯为村乡村 CEO 计划”开发的乡村 CEO 培养方案"
         },
         {
           "id": "1-4",
-          "error": "甲公司成立于 2018 年，注册于深圳前海自贸区，主营业务为消费电子产品的跨境出",
-          "analysis": "",
+          "error": "甲公司成立于 2018 年，注册于深圳前海自贸区，主营业务为消费电子产品的跨境出 口，目标市场覆盖欧美、东南亚等 20 余个国家。（可改为“欧美、东南亚等地区，涉及”）",
+          "analysis": "“欧美”“东南亚”都是地理区域概念，不是国家。",
           "raw": "【例 1-4】甲公司成立于 2018 年，注册于深圳前海自贸区，主营业务为消费电子产品的跨境出"
         },
         {
           "id": "1-5",
-          "error": "从 2024 年往前推 365 年，也就是 1659 年，大明永历十三年。（应改为“清顺治十",
-          "analysis": "",
+          "error": "从 2024 年往前推 365 年，也就是 1659 年，大明永历十三年。（应改为“清顺治十 六年”）",
+          "analysis": "1659 年对应清顺治十六年、南明永历十三年，此时清朝已入主中原十余年，南明永历 政权仅为偏安西南的流亡政权，此处单用明朝年号表述，易引起读者对当时政治格局的误解。 三、成语误用",
           "raw": "【例 1-5】从 2024 年往前推 365 年，也就是 1659 年，大明永历十三年。（应改为“清顺治十"
         },
         {
           "id": "1-6",
-          "error": "这些年来，我一直有一个困惑，在课堂上就具体法律规则给学生进行了清晰的讲授，",
-          "analysis": "",
+          "error": "这些年来，我一直有一个困惑，在课堂上就具体法律规则给学生进行了清晰的讲授， 反馈效果也很好，但是以案例分析的方式考查学生接受度时，学生的答卷总是差强人意。（可改为 “不尽如人意”）",
+          "analysis": "“差强人意”指大体上还能让人满意、还算过得去，与原句中想要表达的学生答卷水 平不佳、令人失望的意思相反。",
           "raw": "【例 1-6】这些年来，我一直有一个困惑，在课堂上就具体法律规则给学生进行了清晰的讲授，"
         },
         {
           "id": "1-7",
-          "error": "“妈妈的这身衣服不合格！”听到孩子这么说，当妈的也正好可以义不容辞地去买",
-          "analysis": "",
+          "error": "“妈妈的这身衣服不合格！”听到孩子这么说，当妈的也正好可以义不容辞地去买 一套新衣服了。（可改为“顺理成章”）",
+          "analysis": "“义不容辞”指道义上不容推脱的责任义务，多用于严肃正式的语境。而“趁孩子评价 衣服不合格去买新衣”是轻松生活化的场景，不存在相关责任约束，“义不容辞”与此语境严重不符。",
           "raw": "【例 1-7】“妈妈的这身衣服不合格！”听到孩子这么说，当妈的也正好可以义不容辞地去买"
         },
         {
           "id": "1-8",
-          "error": "这起似乎正常的诉讼案件，变成一桩令人叹为观止的司法奇案，令人怀疑这一案件",
-          "analysis": "",
+          "error": "这起似乎正常的诉讼案件，变成一桩令人叹为观止的司法奇案，令人怀疑这一案件 的决策者和执行者的专业水准。（可改为“匪夷所思”）",
+          "analysis": "“叹为观止”用于赞美看到的事物好到极点，为褒义词。用在此处与形容司法奇案的 批判语境不符。",
           "raw": "【例 1-8】这起似乎正常的诉讼案件，变成一桩令人叹为观止的司法奇案，令人怀疑这一案件"
         }
       ],
@@ -4198,85 +4198,85 @@ const BOOK_DATA = [
         {
           "id": "2-1",
           "error": "",
-          "analysis": "",
+          "analysis": "概念性差错。本例中混淆了余弦距离、余弦相似度、向量夹角的概念及关系。余弦相 似度是通过计算两个向量夹角的余弦值来衡量它们方向相似度的一种方法。余弦距离等于 1 减去余 弦相似度。向量的夹角越小，余弦相似度越大，余弦距离越小，二者越相似。",
           "raw": "【例 2-1】"
         },
         {
           "id": "2-2",
           "error": "",
-          "analysis": "",
+          "analysis": "常识性差错。液氯属于工业用剧毒危险化学品，具有强腐蚀性，绝对不适合家中马桶、 地板的消毒。",
           "raw": "【例 2-2】"
         },
         {
           "id": "2-3",
           "error": "",
-          "analysis": "",
+          "analysis": "常识性差错。成年人大脑中水约占湿重的 70%，脂肪仅占 10%~15%，原文颠倒了水与 脂肪的占比关系，混淆了“湿重”与“干重”的概念。",
           "raw": "【例 2-3】"
         },
         {
           "id": "2-4",
           "error": "",
-          "analysis": "",
+          "analysis": "概念性差错。本例中概念关系表述错误。语音识别与语音合成是语音处理领域的两大 独立核心技术，前者实现“语音转文本”，后者实现“文本转语音”。 二、数值差错",
           "raw": "【例 2-4】"
         },
         {
           "id": "2-5",
           "error": "",
-          "analysis": "",
+          "analysis": "分子量有误。引起过敏的蛋白质分子量（相对分子质量）通常为 1 万～7 万。分子量 指分子质量与 12C 原子质量的 1/12（原子质量常量，mu）之比，无单位，而 Da 是分子质量的单位。 原文“1 亿～7 亿”的量级偏差较大，违背生物学常识。",
           "raw": "【例 2-5】"
         },
         {
           "id": "2-6",
           "error": "",
-          "analysis": "",
+          "analysis": "注释中数值有误。本例中 c[0:4:2]表示对序列 c 进行切片，从索引 0 开始，到索引 4 结 束（不含 4），步长为 2。故新列表[3, ′abc′]的元素分别为原列表 c 的第 1 个元素（c[0]）和第 3 个元 素（c[2]）。",
           "raw": "【例 2-6】"
         },
         {
           "id": "2-7",
           "error": "",
-          "analysis": "",
+          "analysis": "化学式有误。本例中溶液里的 Bi3+水解只能生成＋3 价的氢氧化物 Bi(OH)3。自然界中 并不存在稳定的 Bi(OH)2。",
           "raw": "【例 2-7】"
         },
         {
           "id": "2-8",
           "error": "",
-          "analysis": "",
+          "analysis": "商业折扣计算错误。商业折扣为 1－83300/98000=15%。 三、术语差错",
           "raw": "【例 2-8】"
         },
         {
           "id": "2-9",
           "error": "",
-          "analysis": "",
+          "analysis": "术语差错。通配符是信息科技领域术语，指一种可以代替一个或多个任意字符的特殊 符号，用于模糊匹配内容。",
           "raw": "【例 2-9】"
         },
         {
           "id": "2-10",
           "error": "",
-          "analysis": "",
+          "analysis": "术语差错。“密码”和“密钥”在密码学中是完全不同的概念。本例中描述的是层次 化密钥体系中的一种密钥角色（相对于密钥加密密钥），属于“密钥”的范畴，应使用“工作密钥” 这一术语。",
           "raw": "【例 2-10】"
         },
         {
           "id": "2-11",
           "error": "",
-          "analysis": "",
+          "analysis": "术语差错。采样步数是图像生成领域通用术语，指模型从随机噪声逐步去噪生成清晰 结果的迭代次数。它是 AI 图像生成中的关键参数，是一个可量化的数值（如 2、4、8 等），对于主 流的静态图像生成模型（如 Stable Diffusion），通常设置在 20～40。",
           "raw": "【例 2-11】"
         },
         {
           "id": "2-12",
           "error": "",
-          "analysis": "",
+          "analysis": "术语差错。数控机床为机械工程术语，指按加工要求预先编制程序，由控制系统发出 数字信息指令进行加工的机床。",
           "raw": "【例 2-12】"
         },
         {
           "id": "2-13",
           "error": "",
-          "analysis": "",
+          "analysis": "术语漏字。非同步认证（异步认证）指客户端和服务器之间不需要时间或事件的同步， 而是通过“挑战/应答”的方式来完成认证。",
           "raw": "【例 2-13】"
         },
         {
           "id": "2-14",
           "error": "",
-          "analysis": "",
+          "analysis": "术语不规范。溶菌酶是一种能破坏细菌细胞壁的蛋白质，天然存在于蛋清、眼泪和唾 液中，部分人会对其过敏。",
           "raw": "【例 2-14】"
         }
       ],
@@ -4284,37 +4284,37 @@ const BOOK_DATA = [
         {
           "id": "3-1",
           "error": "Since you are busy, so I’m going to eat some delicious food by myself. （删除 so）",
-          "analysis": "",
+          "analysis": "since 为从属连词，引导原因状语从句，so 为并列连词，表结果，二者不能在同一句里 连用，只能选其一。",
           "raw": "【例 3-1】Since you are busy, so I’m going to eat some delicious food by myself. （删除 so）"
         },
         {
           "id": "3-2",
-          "error": "The Mid-Autumn Festival is one of the Chinese’s most cherished traditional holidays. （应",
-          "analysis": "",
+          "error": "The Mid-Autumn Festival is one of the Chinese’s most cherished traditional holidays. （应 改为 the Chinese people’s）",
+          "analysis": "本句中的 the Chinese 不能再加’s 构成所有格，应将其改为 the Chinese people’s。",
           "raw": "【例 3-2】The Mid-Autumn Festival is one of the Chinese’s most cherished traditional holidays. （应"
         },
         {
           "id": "3-3",
           "error": "It’s glad to hear from you. （应改为 I’m）",
-          "analysis": "",
+          "analysis": "朱熹是南宋学者，其生活年代晚于嵩阳书院在北宋的鼎盛期，而且嵩阳书院自北宋灭 亡后归属金朝统治，因此他不可能在此讲学。",
           "raw": "【例 3-3】It’s glad to hear from you. （应改为 I’m）"
         },
         {
           "id": "3-5",
-          "error": "Confucius’ arrival in Luoyang shows that Confucianism originated from the Duke of Zhou",
-          "analysis": "",
+          "error": "Confucius’ arrival in Luoyang shows that Confucianism originated from the Duke of Zhou whose ideology was, in turn, formed during his reign in Luoyang. （应改为 was deeply influenced by）",
+          "analysis": "儒学继承、发展了周公的礼乐思想，并非直接起源于周公（originated from the Duke of Zhou）。本句可改为 Confucius’ arrival in Luoyang shows that Confucianism was deeply influenced by the Duke of Zhou, whose ideology was formed during his reign in Luoyang.",
           "raw": "【例 3-5】Confucius’ arrival in Luoyang shows that Confucianism originated from the Duke of Zhou"
         },
         {
           "id": "3-6",
-          "error": "Traditional Chinese calligraphy is an ancient art form that dates back to the Han Dynasty",
-          "analysis": "",
+          "error": "Traditional Chinese calligraphy is an ancient art form that dates back to the Han Dynasty with a history of thousands of years. （删除 that dates back to the Han Dynasty）",
+          "analysis": "中国书法并不始于汉代（the Han Dynasty）。商周甲骨文、周代金文、秦代小篆都已 经是成熟的书法形式。",
           "raw": "【例 3-6】Traditional Chinese calligraphy is an ancient art form that dates back to the Han Dynasty"
         },
         {
           "id": "3-7",
-          "error": "The Silk Road dates back to the Han Dynasty (207BC-220AD) in ancient China. （应改为",
-          "analysis": "",
+          "error": "The Silk Road dates back to the Han Dynasty (207BC-220AD) in ancient China. （应改为 202BC）",
+          "analysis": "本句中的汉朝的起始年代有误。汉朝（西汉）的建立年份是公元前 202 年。",
           "raw": "【例 3-7】The Silk Road dates back to the Han Dynasty (207BC-220AD) in ancient China. （应改为"
         }
       ],
@@ -4333,13 +4333,13 @@ const BOOK_DATA = [
         },
         {
           "id": "4-3",
-          "error": "Grok 是由埃隆•马斯克旗下 xAI 公司开发的人工智能大模型，并不是字节跳动内部孵",
+          "error": "Grok 是由埃隆•马斯克旗下 xAI 公司开发的人工智能大模型，并不是字节跳动内部孵 化的模型体系。",
           "analysis": "",
           "raw": "【例 4-3】Grok 是由埃隆•马斯克旗下 xAI 公司开发的人工智能大模型，并不是字节跳动内部孵"
         },
         {
           "id": "4-4",
-          "error": "“内核态”和“用户态”与其后英文不匹配，应为“内核态(Kernel Mode)”和“用",
+          "error": "“内核态”和“用户态”与其后英文不匹配，应为“内核态(Kernel Mode)”和“用 户态（User Mode）”。",
           "analysis": "",
           "raw": "【例 4-4】“内核态”和“用户态”与其后英文不匹配，应为“内核态(Kernel Mode)”和“用"
         },
@@ -4351,7 +4351,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-6",
-          "error": "王国维的出生年为 1877 年。",
+          "error": "王国维的出生年为 1877 年。 二、计算差错",
           "analysis": "",
           "raw": "【例 4-6】王国维的出生年为 1877 年。"
         },
@@ -4363,13 +4363,13 @@ const BOOK_DATA = [
         },
         {
           "id": "4-8",
-          "error": "算式计算结果 133 有误，应为 173。",
+          "error": "算式计算结果 133 有误，应为 173。 三、程序差错",
           "analysis": "",
           "raw": "【例 4-8】算式计算结果 133 有误，应为 173。"
         },
         {
           "id": "4-9",
-          "error": "注释语句有误，应为“左键”。",
+          "error": "注释语句有误，应为“左键”。 四、文字差错",
           "analysis": "",
           "raw": "【例 4-9】注释语句有误，应为“左键”。"
         },
@@ -4411,7 +4411,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-16",
-          "error": "“设别”应为“识别”。",
+          "error": "“设别”应为“识别”。 五、图表中差错",
           "analysis": "",
           "raw": "【例 4-16】“设别”应为“识别”。"
         },
@@ -4438,62 +4438,62 @@ const BOOK_DATA = [
       "文科类": [
         {
           "id": "1-1",
-          "error": "党的十八大以来，以习近平总书记为核心的党中央把脱贫攻坚摆在治国理政的突出",
-          "analysis": "",
+          "error": "党的十八大以来，以习近平总书记为核心的党中央把脱贫攻坚摆在治国理政的突出 位置。（应改为“以习近平同志为核心的党中央”）",
+          "analysis": "“以习近平同志为核心的党中央”首次出现在十八届六中全会公报中，此后即应使用 新提法。",
           "raw": "【例 1-1】党的十八大以来，以习近平总书记为核心的党中央把脱贫攻坚摆在治国理政的突出"
         },
         {
           "id": "1-2",
-          "error": "1998 年 8 月 7 日，“当代连环漫画原作展”于中国美术馆举行，展出中国内地和香",
-          "analysis": "",
+          "error": "1998 年 8 月 7 日，“当代连环漫画原作展”于中国美术馆举行，展出中国内地和香 港、台湾连环漫画 400 余件。（可改为“内地（大陆）”）",
+          "analysis": "“香港、澳门”与“内地”为对应概念，“台湾”与“大陆”为对应概念。香港与台 湾同时出现时，可用内地（大陆）对应表述。",
           "raw": "【例 1-2】1998 年 8 月 7 日，“当代连环漫画原作展”于中国美术馆举行，展出中国内地和香"
         },
         {
           "id": "1-3",
           "error": "上海、广东、浙江、山东各省低空产业基金规模均超 100 亿元。（可改为“省市”）",
-          "analysis": "",
+          "analysis": "上海是直辖市，行政类别不属于“省”。“各省”只能指代省，无法涵盖直辖市，用 它统指四地，混淆了“省”与直辖市两类不同省级行政区。",
           "raw": "【例 1-3】上海、广东、浙江、山东各省低空产业基金规模均超 100 亿元。（可改为“省市”）"
         },
         {
           "id": "1-4",
-          "error": "本组校服设计是基于“五四装”开展的，它象征了爱国、进步、民主、尊崇科学的",
-          "analysis": "",
+          "error": "本组校服设计是基于“五四装”开展的，它象征了爱国、进步、民主、尊崇科学的 五四精神。（应改为“科学”）",
+          "analysis": "五四精神是以青年知识分子为先锋，以爱国、进步、民主、科学为主要内容的伟大精 神，自行增加“尊崇”属于画蛇添足。 二、引文差错 在摘录、引用国家领导人重要讲话、党代会报告及中央政策文件时，需做好两层核对工作：一 是引用原文要逐字对照权威文稿，完整采用原文表述，不得擅自增删字句、替换固定措辞，避免篡 改原文语境与核心原意，保障引文内容真实准确；二是必须严格核实论述对应的权威出处，准确匹 配讲话会议、政策文件名称，不可混淆、错标文本来源，全方位维护引文的严肃性、权威性。",
           "raw": "【例 1-4】本组校服设计是基于“五四装”开展的，它象征了爱国、进步、民主、尊崇科学的"
         },
         {
           "id": "1-5",
-          "error": "2015 年 11 月 27 日至 28 日，中央扶贫开发工作会议于北京召开，习近平总书记强调：",
+          "error": "2015 年 11 月 27 日至 28 日，中央扶贫开发工作会议于北京召开，习近平总书记强调： “全面建成小康社会，是我们对全国人民的庄严承诺。脱贫攻坚战的冲锋号吹响。”（应改为“脱 贫攻坚战的冲锋号已经吹响”）",
           "analysis": "",
           "raw": "【例 1-5】2015 年 11 月 27 日至 28 日，中央扶贫开发工作会议于北京召开，习近平总书记强调："
         },
         {
           "id": "1-6",
-          "error": "习近平总书记在全国宣传思想工作会议上指出：“宣传思想工作就是要巩固马克思",
+          "error": "习近平总书记在全国宣传思想工作会议上指出：“宣传思想工作就是要巩固马克思 主义在意识形态领域的指导地位，巩固全党全国各族人民团结奋斗的共同思想基础。”（应改为“全 党全国人民”）",
           "analysis": "",
           "raw": "【例 1-6】习近平总书记在全国宣传思想工作会议上指出：“宣传思想工作就是要巩固马克思"
         },
         {
           "id": "1-7",
-          "error": "党的二十大报告明确提出“全面推进健康中国建设，健全现代医院管理制度”，为",
+          "error": "党的二十大报告明确提出“全面推进健康中国建设，健全现代医院管理制度”，为 新时代公立医院改革发展指明了方向。（应改为《“十四五”国民健康规划》） 三、词语误用",
           "analysis": "",
           "raw": "【例 1-7】党的二十大报告明确提出“全面推进健康中国建设，健全现代医院管理制度”，为"
         },
         {
           "id": "1-8",
-          "error": "我寻求爱情，首先因为爱情给我带来狂喜，它如此强烈，以致我经常愿意为了几小",
-          "analysis": "",
+          "error": "我寻求爱情，首先因为爱情给我带来狂喜，它如此强烈，以致我经常愿意为了几小 时的欢愉而牺牲生命中的其他一切。（可改为“以至”）",
+          "analysis": "“以致”强调由于某种原因而造成某种后果，相当于“致使”，引出的多是不好的或 不希望的结果。“以至”强调由于程度深而导致某种结果，相当于“甚至”，结果无好坏偏向。",
           "raw": "【例 1-8】我寻求爱情，首先因为爱情给我带来狂喜，它如此强烈，以致我经常愿意为了几小"
         },
         {
           "id": "1-9",
-          "error": "“大跃进”时期，土地实行计划经济，由集体统一经营和管理，采取农民同吃、同",
-          "analysis": "",
+          "error": "“大跃进”时期，土地实行计划经济，由集体统一经营和管理，采取农民同吃、同 住、同得、同用的方式，企图实现土地和生产资料集合的规模经济发展，但也出现劳动剩余价值让 利社会主义工业化、农业劳动力短缺等问题。（可改为“意在”）",
+          "analysis": "企图指图谋、打算，多含贬义。发动“大跃进”是当时全党上下急于改变国家贫穷落 后面貌、加快社会主义建设的美好主观愿望，只是做法超越发展阶段、违背经济规律，并非带有负 面、不良的谋划意图。",
           "raw": "【例 1-9】“大跃进”时期，土地实行计划经济，由集体统一经营和管理，采取农民同吃、同"
         },
         {
           "id": "1-10",
-          "error": "他是个追求完美的人，每年重新备课的时候，总能发现不完美的地方，再加以修缮。",
-          "analysis": "",
+          "error": "他是个追求完美的人，每年重新备课的时候，总能发现不完美的地方，再加以修缮。 （可改为“修订”）",
+          "analysis": "“修缮”多用于房屋、建筑、器物等实物修补修整；对教案、备课文稿的修改完善， 可用“修订”。",
           "raw": "【例 1-10】他是个追求完美的人，每年重新备课的时候，总能发现不完美的地方，再加以修缮。"
         }
       ],
@@ -4501,73 +4501,73 @@ const BOOK_DATA = [
         {
           "id": "2-1",
           "error": "",
-          "analysis": "",
+          "analysis": "人名用字不规范。本例中的莱布尼茨指的是德国著名自然科学家、数学家、哲学家 Gottfried Wilhelm Leibniz（1646—1716），其译名规范用字是“茨”（cí）。",
           "raw": "【例 2-1】"
         },
         {
           "id": "2-2",
           "error": "",
-          "analysis": "",
+          "analysis": "形近字差错。“邻域”是术语，本例语境中指与某个节点直接相邻的节点构成的集合 （不含节点自身），并非表示范围或区域。",
           "raw": "【例 2-2】"
         },
         {
           "id": "2-3",
           "error": "",
-          "analysis": "",
+          "analysis": "形近字差错。矩（moment）是统计学中描述数据分布规律的一类通用指标，和距离 （distance）概念无关。本例中的“积矩”（product-moment）指两个随机变量的二阶混合中心矩（协 方差）。",
           "raw": "【例 2-3】"
         },
         {
           "id": "2-4",
           "error": "",
-          "analysis": "",
+          "analysis": "音近字差错。双曲异形幕墙板是双向均带有弧度、单独定制生产的幕墙面板，其中的 “形”指板块的外形、轮廓形状。",
           "raw": "【例 2-4】"
         },
         {
           "id": "2-5",
           "error": "",
-          "analysis": "",
+          "analysis": "术语差错。冰融化（或熔化）成水是同一种物质（H2O）从固态到液态的物态变化过 程，形成的是单一纯净物；溶解指一种物质以分子或离子状态均匀地分散在另一种物质中，形成的 是混合物，如盐溶解于水。",
           "raw": "【例 2-5】"
         },
         {
           "id": "2-6",
           "error": "",
-          "analysis": "",
+          "analysis": "形近字差错。本例中“模”的含义是模具、模板。工程中，连接角模指一种钢模板构 件，作用是在外凸转角处连接平面模板，共同构成外角模板。",
           "raw": "【例 2-6】"
         },
         {
           "id": "2-7",
           "error": "",
-          "analysis": "",
+          "analysis": "英文缩略词差错。特定风险分析的英文是 particular risk analysis，故其字母词为 PRA。 本例中的 ZSA 指区域安全性分析（zonal safety analysis）。",
           "raw": "【例 2-7】"
         },
         {
           "id": "2-8",
           "error": "",
-          "analysis": "",
+          "analysis": "音近字差错。人类表皮由基底层、棘层、颗粒层和角质层构成。基底层位于皮肤表皮 最深层，由一层矮柱状或立方形细胞组成。 二、知识性差错",
           "raw": "【例 2-8】"
         },
         {
           "id": "2-9",
           "error": "",
-          "analysis": "",
+          "analysis": "选项设臵差错。由已知条件得，a3=（32+2×3+1）/3=16/3，选项中无此答案。因答案详 解中此题的答案是选项 D，故应将选项 D 的 14/3 改为 16/3。",
           "raw": "【例 2-9】"
         },
         {
           "id": "2-10",
           "error": "",
-          "analysis": "",
+          "analysis": "概念差错。并非所有立体图形都具备顶点、棱和面，如球体无顶点和棱，圆锥体无棱。 直接修改方法是将“立体图形”改为“多面体”，但本例中上下文未提及多面体的概念，故宜加“很 多”或“有些”之类的限定词。",
           "raw": "【例 2-10】"
         },
         {
           "id": "2-11",
           "error": "",
-          "analysis": "",
+          "analysis": "常识性差错。本例中“上下眼睑之间的高度大于眼角之间的宽度”的情况与现实中人 眼形态不符。困倦检测的原理是利用 EAR 值的变化来判断人眼的开合情况，进而推断人是否处于困 倦状态。当人的眼睛睁开时，上下眼睑之间的垂直距离较大，而两个眼角之间的水平距离变化不大， 所以 EAR 值相对较高（大多为 0.25～0.35）；反之，EAR 值变小。",
           "raw": "【例 2-11】"
         },
         {
           "id": "2-12",
           "error": "",
-          "analysis": "",
+          "analysis": "概念差错。本例中混淆了边角边（SAS）与角边角（ASA）两个全等三角形判定定理。 已知条件是 AC=BC（边），∠ACP=∠BCP=90°，PC=PC（公共边），对应顺序为“边—角—边”， 故采用“边角边”判定定理（两边及其夹角相等）。文中错误写成“角边角”定理（两角及其夹边 相同）。",
           "raw": "【例 2-12】"
         }
       ],
@@ -4575,55 +4575,55 @@ const BOOK_DATA = [
         {
           "id": "3-1",
           "error": "Ordinary people may have a name related with dragons. （应改为 to）",
-          "analysis": "",
+          "analysis": "表示“与……有关”的固定短语是 be related to，不能用 with。本句中 related 是过去分 词作后臵定语，相当于省略 that is 的定语从句，修饰 name，无需加 be 动词。",
           "raw": "【例 3-1】Ordinary people may have a name related with dragons. （应改为 to）"
         },
         {
           "id": "3-2",
-          "error": "The invention of bronze stand as a milestone in the history of human civilization. （应改",
-          "analysis": "",
+          "error": "The invention of bronze stand as a milestone in the history of human civilization. （应改 为 stands）",
+          "analysis": "本句主谓不一致。句子核心主语 invention 是单数名词。一般现在时中单数主语的谓语 动词需用第三人称单数形式，所以应将 stand 改为 stands。",
           "raw": "【例 3-2】The invention of bronze stand as a milestone in the history of human civilization. （应改"
         },
         {
           "id": "3-3",
-          "error": "Some written materials preserve only a few myths, while others hold a comparative large",
-          "analysis": "",
+          "error": "Some written materials preserve only a few myths, while others hold a comparative large number of myths. （应改为 comparatively）",
+          "analysis": "本句中的 comparative 是形容词，不能修饰形容词 large，应改用副词 comparatively。",
           "raw": "【例 3-3】 Some written materials preserve only a few myths, while others hold a comparative large"
         },
         {
           "id": "3-4",
           "error": "They continued to search Qu Yuan’s body for days but failed. （应改为 search for）",
-          "analysis": "",
+          "analysis": "search sb.表示对某人进行搜身；要表达“搜寻”需用 search for。原句想表达搜寻屈原 的遗体，正确结构应为 search for Qu Yuan’s body。",
           "raw": "【例 3-4】 They continued to search Qu Yuan’s body for days but failed. （应改为 search for）"
         },
         {
           "id": "3-5",
-          "error": "Chinese people regard the Moon Festival an occasion of family reunion. （应改为 regard",
-          "analysis": "",
+          "error": "Chinese people regard the Moon Festival an occasion of family reunion. （应改为 regard the Moon Festival as an occasion）",
+          "analysis": "regard 表达“将某物视作……”时，必须使用 regard A as B 结构，as 起到连接宾语与 宾补的作用，不可省去。注意区分 consider，它后面的 as 能够省略，但 regard、view、see 等动词不 能省略 as。 二、知识性差错",
           "raw": "【例 3-5】 Chinese people regard the Moon Festival an occasion of family reunion. （应改为 regard"
         },
         {
           "id": "3-6",
-          "error": "The Western Zhou Dynasty flourished in relative peace and prosperity for nearly five",
-          "analysis": "",
+          "error": "The Western Zhou Dynasty flourished in relative peace and prosperity for nearly five centuries. （应改为 three）",
+          "analysis": "西周从公元前 1046 年立国到公元前 771 年灭亡，约为 275 年，并非近 5 个世纪，five centuries 不符合史实。",
           "raw": "【例 3-6】The Western Zhou Dynasty flourished in relative peace and prosperity for nearly five"
         },
         {
           "id": "3-7",
-          "error": "Some of the most notable landmarks in the Forbidden City include the Meridian Gate（午",
-          "analysis": "",
+          "error": "Some of the most notable landmarks in the Forbidden City include the Meridian Gate（午 门）, the Hall of Supreme Harmony（太和门）, and the Imperial Garden（御花园）. （应改为“太和殿”）",
+          "analysis": "Hall 指代大殿，Gate 是宫门，二者不能混用。“太和门”的英译为 the Gate of Supreme Harmony。",
           "raw": "【例 3-7】Some of the most notable landmarks in the Forbidden City include the Meridian Gate（午"
         },
         {
           "id": "3-8",
           "error": "Shennong is believed to have introduced the technique of acupuncture. （应改为“Fuxi”）",
-          "analysis": "",
+          "analysis": "相传，针灸为伏羲所创，神农氏是农业的开创者和医药的发明者。",
           "raw": "【例 3-8】Shennong is believed to have introduced the technique of acupuncture. （应改为“Fuxi”）"
         },
         {
           "id": "3-9",
           "error": "The most popular Door God is Zhong Kui. （应改为“one of the most well-known”）",
-          "analysis": "",
+          "analysis": "民间最普及、最主流的门神是秦琼、尉迟恭（成对武将），并非钟馗。钟馗是单人门 神，多用于侧门、后门，也常在端午悬挂驱邪，所以不能用 the most popular 来形容。",
           "raw": "【例 3-9】 The most popular Door God is Zhong Kui. （应改为“one of the most well-known”）"
         }
       ],
@@ -4648,7 +4648,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-4",
-          "error": "运算错误，（P-V）·Q 应用分配律结果应为 P·Q -V·Q。",
+          "error": "运算错误，（P-V）·Q 应用分配律结果应为 P·Q -V·Q。 二、程序差错",
           "analysis": "",
           "raw": "【例 4-4】运算错误，（P-V）·Q 应用分配律结果应为 P·Q -V·Q。"
         },
@@ -4672,7 +4672,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-8",
-          "error": "括号应成对使用，箭头所指语句少了半个括号。",
+          "error": "括号应成对使用，箭头所指语句少了半个括号。 三、文字差错",
           "analysis": "",
           "raw": "【例 4-8】括号应成对使用，箭头所指语句少了半个括号。"
         },
@@ -4720,7 +4720,7 @@ const BOOK_DATA = [
         },
         {
           "id": "4-16",
-          "error": "“传销”应为“促销”。",
+          "error": "“传销”应为“促销”。 四、图表差错",
           "analysis": "",
           "raw": "【例 4-16】“传销”应为“促销”。"
         },
