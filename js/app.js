@@ -2,6 +2,7 @@
 
 // State
 let activeCategory = 'all';
+let isRandom = false;
 
 // Initialize
 document.addEventListener('DOMContentLoaded', () => {
@@ -82,6 +83,11 @@ function renderEntries() {
     }
   });
 
+  // Shuffle if random mode is on
+  if (isRandom) {
+    allEntries = shuffleArray([...allEntries]);
+  }
+
   let html = `<div class="main">`;
   
   // Results info
@@ -110,6 +116,24 @@ function renderEntries() {
   
   html += `</div></div>`;
   main.innerHTML = html;
+}
+
+function toggleRandom() {
+  isRandom = !isRandom;
+  const btn = document.getElementById('randomBtn');
+  if (btn) {
+    btn.classList.toggle('active', isRandom);
+  }
+  renderEntries();
+}
+
+function shuffleArray(array) {
+  // Fisher-Yates shuffle
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
 }
 
 function renderHighlightedText(entry) {
