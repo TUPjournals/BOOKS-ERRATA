@@ -147,8 +147,9 @@ function renderQuarterDetail({ year, quarter }) {
     entries.forEach(entry => {
       if (activeCategory === 'all' || cat === activeCategory) {
         if (!searchQuery || 
-            entry.error.toLowerCase().includes(searchQuery) || 
-            (entry.analysis && entry.analysis.toLowerCase().includes(searchQuery))) {
+            (entry.error && entry.error.toLowerCase().includes(searchQuery)) || 
+            (entry.analysis && entry.analysis.toLowerCase().includes(searchQuery)) ||
+            (entry.raw && entry.raw.toLowerCase().includes(searchQuery))) {
           allEntries.push({ ...entry, category: cat });
         }
       }
@@ -177,7 +178,7 @@ function renderQuarterDetail({ year, quarter }) {
   const cats = Object.keys(qData.categories).filter(c => qData.categories[c].length > 0);
   html += `
     <div class="filter-group" style="margin-bottom: 16px;">
-      <button class="filter-btn ${activeCategory === 'all' ? 'active' : ''}" data-category="all" onclick="setCategory('all')">全部</button>
+      <button class="filter-btn ${activeCategory === 'all' ? 'active' : ''}" data-category="all" onclick="setCategory('all')">全部 (${qData.total_entries})</button>
       ${cats.map(cat => `
         <button class="filter-btn ${activeCategory === cat ? 'active' : ''}" data-category="${cat}" onclick="setCategory('${cat}')">${cat} (${qData.categories[cat].length})</button>
       `).join('')}
@@ -190,13 +191,16 @@ function renderQuarterDetail({ year, quarter }) {
     html += `<div class="entry-list">`;
     
     entries.forEach(entry => {
+      // Use error text if available, otherwise use raw text, otherwise show placeholder
+      const displayError = entry.error || entry.raw || '(纯图表错例，需查看原PDF)';
+      
       html += `
         <div class="entry-item">
           <div class="entry-header">
             <span class="entry-id">${entry.id}</span>
             <span class="entry-category">${entry.category}</span>
           </div>
-          <div class="entry-error">${formatErrorText(entry.error)}</div>
+          <div class="entry-error">${formatErrorText(displayError)}</div>
           ${entry.analysis ? `<div class="entry-analysis">${entry.analysis}</div>` : ''}
         </div>
       `;
