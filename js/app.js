@@ -1,7 +1,6 @@
 // Book Copyediting Error Analysis - Main JavaScript
 
 // State
-let searchQuery = '';
 let activeCategory = 'all';
 
 // Initialize
@@ -11,15 +10,6 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function setupEventListeners() {
-  // Search input
-  const searchInput = document.getElementById('searchInput');
-  if (searchInput) {
-    searchInput.addEventListener('input', (e) => {
-      searchQuery = e.target.value.toLowerCase();
-      renderEntries();
-    });
-  }
-
   // Filter buttons
   document.querySelectorAll('.filter-btn').forEach(btn => {
     btn.addEventListener('click', () => {
@@ -39,14 +29,10 @@ function renderEntries() {
   BOOK_DATA.forEach(cat => {
     if (activeCategory === 'all' || cat.category === activeCategory) {
       cat.entries.forEach(entry => {
-        if (!searchQuery || 
-            (entry.error && entry.error.toLowerCase().includes(searchQuery)) || 
-            (entry.analysis && entry.analysis.toLowerCase().includes(searchQuery))) {
-          allEntries.push({
-            ...entry,
-            category: cat.category
-          });
-        }
+        allEntries.push({
+          ...entry,
+          category: cat.category
+        });
       });
     }
   });
@@ -57,7 +43,6 @@ function renderEntries() {
   html += `
     <div class="results-info">
       共 ${allEntries.length} 条错例
-      ${searchQuery ? ` (搜索: "${searchQuery}")` : ''}
       ${activeCategory !== 'all' ? ` [${activeCategory}]` : ''}
     </div>
   `;

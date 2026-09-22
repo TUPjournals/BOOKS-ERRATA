@@ -60,7 +60,7 @@ body {
 /* Search */
 .search-section {
   background: var(--accent-bg);
-  padding: 20px 0;
+  padding: 16px 0;
   border-bottom: 1px solid var(--border);
 }
 .search-row {
@@ -71,21 +71,6 @@ body {
   gap: 12px;
   flex-wrap: wrap;
   align-items: center;
-}
-.search-input {
-  flex: 1;
-  min-width: 200px;
-  padding: 10px 16px;
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  font-size: 1rem;
-  background: #fff;
-  transition: border-color 0.2s, box-shadow 0.2s;
-}
-.search-input:focus {
-  outline: none;
-  border-color: var(--primary);
-  box-shadow: 0 0 0 3px rgba(0,137,123,0.1);
 }
 .filter-group {
   display: flex;
