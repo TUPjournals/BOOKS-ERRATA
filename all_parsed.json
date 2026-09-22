@@ -188,42 +188,54 @@
             "error": "It sounds nice but requires deliberately planning. （应改为“deliberate”）",
             "analysis": "planning 为名词，应该用形容词修饰，所以将 deliberately 改为 deliberate。",
             "raw": "【例 3-2】It sounds nice but requires deliberately planning. （应改为“deliberate”）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "deliberately"
+            ]
           },
           {
             "id": "3-3",
             "error": "The flight attendants on CRJ-200 stands near the boarding gate. （应改为“stand”）",
             "analysis": "主谓不一致。本句主语为 the flight attendants，谓语动词应该用 stand。",
             "raw": "【例 3-3】The flight attendants on CRJ-200 stands near the boarding gate. （应改为“stand”）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "stands"
+            ]
           },
           {
             "id": "3-4",
             "error": "The passenger may be in a mood when they go aboard. （应改为“passengers”）",
             "analysis": "本句中，主句的主语和从句的主语应保持一致。",
             "raw": "【例 3-4】The passenger may be in a mood when they go aboard. （应改为“passengers”）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "passenger"
+            ]
           },
           {
             "id": "3-5",
             "error": "The flight attendants are dedicated to provide good service. （应改为“providing”）",
             "analysis": "此句中 to 是介词，后跟名词、代词或动名词，所以将 provide 改为 providing。 二、文字差错",
             "raw": "【例 3-5】The flight attendants are dedicated to provide good service. （应改为“providing”）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "provide"
+            ]
           },
           {
             "id": "3-6",
             "error": "They planed that the two routes would connect. （应改为“planned”）",
             "analysis": "动词 plan 的过去式为 planned，需要双写 n。",
             "raw": "【例 3-6】They planed that the two routes would connect. （应改为“planned”）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "planed"
+            ]
           },
           {
             "id": "3-7",
             "error": "Xi’an is the capital of Shanxi Province. （应改为“Shannxi”）",
             "analysis": "陕西的英文名称为 Shannxi，与山西（Shanxi）区分。",
             "raw": "【例 3-7】Xi’an is the capital of Shanxi Province. （应改为“Shannxi”）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "Shanxi"
+            ]
           },
           {
             "id": "3-8",
@@ -237,7 +249,9 @@
             "error": "Fight attendants should adjust the light and temperature appropriately. （应改为 “Flight”）",
             "analysis": "根据上下文，此处 Fight 为 Flight 的笔误。",
             "raw": "【例 3-9】Fight attendants should adjust the light and temperature appropriately. （应改为",
-            "highlighted_words": []
+            "highlighted_words": [
+              "Fight"
+            ]
           },
           {
             "id": "3-10",
@@ -537,7 +551,9 @@
             "error": "The exporter and the importer signs a dealership agreement and the two sides thus establish a buying-selling relationship. （应改为“sign”）",
             "analysis": "句子的谓语应该和主语 the exporter and the importer 保持一致。",
             "raw": "【例 3-1】The exporter and the importer signs a dealership agreement and the two sides thus establish a",
-            "highlighted_words": []
+            "highlighted_words": [
+              "signs"
+            ]
           },
           {
             "id": "3-2",
@@ -551,35 +567,45 @@
             "error": "In the early 1980s, foreign investors provide directly, or on the basis of credit, the machinery and equipment for Chinese enterprises. （应改为“provided”）",
             "analysis": "原句时态有误。根据 the early 1980s 可知本句应该用过去时，所以将动词改为 provided。",
             "raw": "【例 3-3】In the early 1980s, foreign investors provide directly, or on the basis of credit, the machinery",
-            "highlighted_words": []
+            "highlighted_words": [
+              "provide"
+            ]
           },
           {
             "id": "3-4",
             "error": "It is required that the exporter covers the expense of freight. （应改为“cover”）",
             "analysis": "在 require 引导的宾语从句中,从句中的谓语动词用“should +动词原形”, should 可省略， 所以本句中的 covers 应改为原形。",
             "raw": "【例 3-4】It is required that the exporter covers the expense of freight. （应改为“cover”）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "covers"
+            ]
           },
           {
             "id": "3-5",
             "error": "He is going to sell 100 bushel of corns to the buyer. （应改为“bushels”）",
             "analysis": "bushel 为容量单位，是可数名词，此处应使用复数形式。",
             "raw": "【例 3-5】He is going to sell 100 bushel of corns to the buyer. （应改为“bushels”）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "bushel"
+            ]
           },
           {
             "id": "3-6",
             "error": "The seller should delivery the cargoes at the point reachable for the tackle of the ship. （应改 为“deliver”）",
             "analysis": "本句中 delivery 为名词，无法充当谓语，应改为动词形式 deliver。 二、文字差错",
             "raw": "【例 3-6】The seller should delivery the cargoes at the point reachable for the tackle of the ship. （应改",
-            "highlighted_words": []
+            "highlighted_words": [
+              "delivery"
+            ]
           },
           {
             "id": "3-7",
             "error": "A third-party trading house buys the form’s counter-purchase credits and sells them to another form. （应改为“firm”）",
             "analysis": "根据句意可知，form（类型）为 firm（公司）的笔误。",
             "raw": "【例 3-7】A third-party trading house buys the form’s counter-purchase credits and sells them to another",
-            "highlighted_words": []
+            "highlighted_words": [
+              "form"
+            ]
           },
           {
             "id": "3-8",
@@ -923,7 +949,8 @@
             "analysis": "Dan（担）是重量单位，liter（升）是容积单位，两者不宜换算。",
             "raw": "【例 3-6】In the Spring and Autumn Period, a cart with a capacity of 50 Dan (1 Dan is equal to 103.5",
             "highlighted_words": [
-              "1 Dan is equal to 103.5"
+              "1 Dan is equal to 103.5",
+              "liters"
             ]
           },
           {
@@ -1464,18 +1491,14 @@
             "error": "在中国长期占统治地位的思想—儒家思想，反对奢侈浪费，推崇朴素而简单的生活。 （应改为“——”）",
             "analysis": "此句中“儒家思想”是对前面“思想”的解释说明，标示注释内容应用破折号。",
             "raw": "【例 1-7】在中国长期占统治地位的思想—儒家思想，反对奢侈浪费，推崇朴素而简单的生活。",
-            "highlighted_words": [
-              "——"
-            ]
+            "highlighted_words": []
           },
           {
             "id": "1-8",
             "error": "在议题设置方面，政府新闻发布已经形成了“事前预告——事中进度——连续引导 ——事后总结”的模式。（应改为“—”）",
             "analysis": "标示相关项之间递进式发展时用一字线。",
             "raw": "【例 1-8】在议题设置方面，政府新闻发布已经形成了“事前预告——事中进度——连续引导",
-            "highlighted_words": [
-              "——"
-            ]
+            "highlighted_words": []
           },
           {
             "id": "1-9",
@@ -1638,7 +1661,9 @@
             "error": "The big yellow gown wearing by Rihanna made Guo Pei in the spotlight. （应改为 worn）",
             "analysis": "本句应采用过去分词短语作后置定语，故将 wearing 改为过去分词，worn by Rihanna 修饰 gown。",
             "raw": "【例 3-1】The big yellow gown wearing by Rihanna made Guo Pei in the spotlight. （应改为 worn）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "wearing"
+            ]
           },
           {
             "id": "3-2",
@@ -1668,7 +1693,9 @@
             "error": "Once again, the issue about saving money for your future or spend tomorrow’s money for today is heatedly discussed by the public. （应改为 spending）",
             "analysis": "本句中，saving money for your future 和 spend tomorrow’s money for today 为并列关系。 about 是介词，后面应接动名词形式。 二、文字差错",
             "raw": "【例 3-5】Once again, the issue about saving money for your future or spend tomorrow’s money for",
-            "highlighted_words": []
+            "highlighted_words": [
+              "spend"
+            ]
           },
           {
             "id": "3-6",
@@ -1684,14 +1711,18 @@
             "error": "For international sales, wire transfers and credit cards are the most common used cash-in-advance options available for importers. （应改为 commonly）",
             "analysis": "修饰过去分词 used 应用副词。",
             "raw": "【例 3-7】For international sales, wire transfers and credit cards are the most common used",
-            "highlighted_words": []
+            "highlighted_words": [
+              "common"
+            ]
           },
           {
             "id": "3-8",
             "error": "Ms. Cummings asserted that lower fares would attract passengers to board pilotless aircrafts. （应改为 aircraft）",
             "analysis": "aircraft 单复数形式相同，故将 aircrafts 改为 aircraft。",
             "raw": "【例 3-8】Ms. Cummings asserted that lower fares would attract passengers to board pilotless aircrafts.",
-            "highlighted_words": []
+            "highlighted_words": [
+              "aircrafts"
+            ]
           }
         ]
       },
@@ -1979,6 +2010,7 @@
             "analysis": "组织名称差错。IETF（Internet Engineering Task Force，因特网工程任务组）是一个研 发和制定因特网相关技术标准的开放性机构。 三、阿拉伯数字差错",
             "raw": "【例 2-9】DHCP（dynamic host configuration protocol，动态主机配置协议）是 IETF（Internet",
             "highlighted_words": [
+              "Internet",
               "网络工程师任务小组"
             ]
           },
@@ -1987,7 +2019,9 @@
             "error": "德国、法国在高速铁路上开行的高速货物列车最高速度已达到 2000 千米/时。（应 改为“200”）",
             "analysis": "数值差错。高铁的最高试验速度约为 600 千米/时，德国和法国的高速铁路客运最高运 行速度约为 320 千米/时，货运最高运行速度远低于客运，200 千米/时比较符合实际。",
             "raw": "【例 2-10】德国、法国在高速铁路上开行的高速货物列车最高速度已达到 2000 千米/时。（应",
-            "highlighted_words": []
+            "highlighted_words": [
+              "2000"
+            ]
           },
           {
             "id": "2-11",
@@ -2003,14 +2037,18 @@
             "error": "据传说，三国时期蜀汉军师诸葛亮（180—234 年）是早期无人机的运用者之一。（应 改为“181”）",
             "analysis": "年份差错。诸葛亮出生于公元 181 年。",
             "raw": "【例 2-12】据传说，三国时期蜀汉军师诸葛亮（180—234 年）是早期无人机的运用者之一。（应",
-            "highlighted_words": []
+            "highlighted_words": [
+              "180"
+            ]
           },
           {
             "id": "2-13",
             "error": "GPS BLOCK Ⅲ卫星的首次发射在 2013 年进行。（应改为“2018”）",
             "analysis": "时间差错。美国首次发射 GPS BLOCK Ⅲ卫星的时间是 2018 年 12 月。",
             "raw": "【例 2-13】GPS BLOCK Ⅲ卫星的首次发射在 2013 年进行。（应改为“2018”）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "2013"
+            ]
           }
         ]
       },
@@ -2021,7 +2059,9 @@
             "error": "We might intentionally underestimated the production costs. （应改为 underestimate）",
             "analysis": "句中 might 为助动词，后接动词原形，故应将 underestimated 改为 underestimate。",
             "raw": "【例 3-1】 We might intentionally underestimated the production costs. （应改为 underestimate）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "underestimated"
+            ]
           },
           {
             "id": "3-2",
@@ -2042,7 +2082,9 @@
             "error": "The animals bred most commonly in Jiangnan were fish, sheep, pigs, chickens and goose. （应改为 geese）",
             "analysis": "本句中 fish 和 sheep 为可数名词，单复数同形。goose 是可数名词，复数形式为 geese。",
             "raw": "【例 3-4】The animals bred most commonly in Jiangnan were fish, sheep, pigs, chickens and goose.",
-            "highlighted_words": []
+            "highlighted_words": [
+              "goose"
+            ]
           },
           {
             "id": "3-5",
@@ -2058,35 +2100,45 @@
             "error": "Realizing the real-time data replication from the main system to the backup system improve the continuous operation ability of CIPS business. （应改为 improves）",
             "analysis": "本句的主语（realizing...system）为动名词短语，谓语动词应与其保持一致，用单数形 式，故将 improve 改为 improves。 二、文字差错",
             "raw": "【例 3-6】Realizing the real-time data replication from the main system to the backup system improve",
-            "highlighted_words": []
+            "highlighted_words": [
+              "improve"
+            ]
           },
           {
             "id": "3-7",
             "error": "Moreover, because of being closed to the seashores, this area often suffers from typhoons. （应改为 close）",
             "analysis": "closed 意为“关闭的”，此句要表达的意思是“靠近”，所以应改为 close。",
             "raw": "【例 3-7】 Moreover, because of being closed to the seashores, this area often suffers from typhoons.",
-            "highlighted_words": []
+            "highlighted_words": [
+              "closed"
+            ]
           },
           {
             "id": "3-8",
             "error": "Songjiang has a long tradition of complication of gazetteers. （应改为 compilation）",
             "analysis": "complication 意为“并发症”，与上下文不搭配，应将其改为 compilation，意为“编纂”。",
             "raw": "【例 3-8】Songjiang has a long tradition of complication of gazetteers. （应改为 compilation）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "complication"
+            ]
           },
           {
             "id": "3-9",
             "error": "They made a great deal of observations in their private wrings. （应改为 writings）",
             "analysis": "根据上下文，此处作者要表达的意思是“著作”，可知 wrings 为拼写错误。",
             "raw": "【例 3-9】They made a great deal of observations in their private wrings. （应改为 writings）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "wrings"
+            ]
           },
           {
             "id": "3-10",
             "error": "I write a record of what I believe is true, hoping to let those who concern about farming now. （应改为 know）",
             "analysis": "此句中 let sb.后面应接动词原形，根据句意可知 now 为 know 的笔误，作者要表达的意 思为“让……知晓”。",
             "raw": "【例 3-10】 I write a record of what I believe is true, hoping to let those who concern about farming",
-            "highlighted_words": []
+            "highlighted_words": [
+              "now"
+            ]
           }
         ]
       },
@@ -2414,7 +2466,9 @@
             "error": "I cupped my face in my hands, tears rolling down my cheek. （应改为 cheeks）",
             "analysis": "cheek 是可数名词，文中 cheek 应指‚两颊‛，所以用复数形式。 二、文字差错",
             "raw": "【例 3-2】I cupped my face in my hands, tears rolling down my cheek. （应改为 cheeks）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "cheek"
+            ]
           },
           {
             "id": "3-3",
@@ -2806,7 +2860,9 @@
             "error": "The book is dividing into 40 sections, each of which addresses a specific issue. （应改为 divided）",
             "analysis": "根据本句的句意，此处动词应使用被动语态，所以将 dividing 改为 divided。",
             "raw": "【例 3-1】 The book is dividing into 40 sections, each of which addresses a specific issue. （应改为",
-            "highlighted_words": []
+            "highlighted_words": [
+              "dividing"
+            ]
           },
           {
             "id": "3-2",
@@ -2829,7 +2885,9 @@
             "error": "I was sent to work as a labor in a remote village. （应改为 laborer）",
             "analysis": "根据本句的句意，此处要表达的意思是“（尤指户外的）体力劳动者”，所以应将 labor 改为 laborer。",
             "raw": "【例 3-4】I was sent to work as a labor in a remote village. （应改为 laborer）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "labor"
+            ]
           },
           {
             "id": "3-5",
@@ -2843,21 +2901,27 @@
             "error": "In the early nineteenth century, fishing developed professional and became the main occupation of some peasants. （应改为 professionally）",
             "analysis": "本句中，修饰动词 developed 的应为副词，所以将 professional 改为 professionally。",
             "raw": "【例 3-6】In the early nineteenth century, fishing developed professional and became the main",
-            "highlighted_words": []
+            "highlighted_words": [
+              "professional"
+            ]
           },
           {
             "id": "3-7",
             "error": "Seeds and raw cotton had to be brought in the market. （应改为 bought）",
             "analysis": "根据本句的句意，此处要表达的意思是“购买”。brought 为 bought 的笔误。",
             "raw": "【例 3-7】Seeds and raw cotton had to be brought in the market. （应改为 bought）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "brought"
+            ]
           },
           {
             "id": "3-8",
             "error": "The country is located in the lowest reach of the Huangpu River. （应改为 county）",
             "analysis": "根据本句的句意，此处要表达的意思是“县”，所以将 country 改为 county。 2023 年外语类图书中的错误主要集中在如下几个方面。 （1）一般政治性差错：英文政治性用语使用错误，涉及港澳台的英文表达不规范。 （2）知识性差错：注释内容错误，习题无逻辑，习题答案错。 （3）翻译差错：译文与原文不对应、漏译，对原文不理解造成的错译。 （4）语法差错：主谓不一致，时态、语态误用，名词可数与不可数误用，句子成分残缺。 （5）文字差错：形似字母录入错误，特殊形式分词的拼写错误，正斜体错误，专有名词错误。",
             "raw": "【例 3-8】The country is located in the lowest reach of the Huangpu River. （应改为 county）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "country"
+            ]
           }
         ]
       },
@@ -3194,7 +3258,9 @@
             "error": "但是若输入 a，b，c 的值分别为 3,2,4 时，屏幕上出现了出错信息，程序停止运行， 原因是此时 b2－4ac=4－24=－20，小于 0，出现了对负数求平方根的运算，故出错。（应改为“4－ 48=－44”）",
             "analysis": "代入 a、c 的值时出现了简单的计算差错。",
             "raw": "【例 2-9】但是若输入 a，b，c 的值分别为 3,2,4 时，屏幕上出现了出错信息，程序停止运行，",
-            "highlighted_words": []
+            "highlighted_words": [
+              "4－24=－20"
+            ]
           },
           {
             "id": "2-10",
@@ -3235,7 +3301,9 @@
             "error": "Let’s go to the library which was newly open to us. （应改为 opened）",
             "analysis": "英语的被动语态由“be 动词+及物动词的过去分词”构成。本句中，动词 open 应改为 过去分词形式。 二、文字差错",
             "raw": "【例 3-2】Let’s go to the library which was newly open to us. （应改为 opened）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "open"
+            ]
           },
           {
             "id": "3-3",
@@ -3251,7 +3319,9 @@
             "error": "Please sweet the floor and clean the kitchen. （应改为 sweep）",
             "analysis": "根据句意，此处作者要表达的意思是“打扫”，所以应将 sweet 改为 sweep。",
             "raw": "【例 3-4】Please sweet the floor and clean the kitchen. （应改为 sweep）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "sweet"
+            ]
           },
           {
             "id": "3-5",
@@ -3267,7 +3337,9 @@
             "error": "Houston is a significant inland part, handling a large volume of energy-related cargo. （应 改为 port）",
             "analysis": "根据句意，此处作者要表达的意思是“港口”，所以应将 part 改为 port。 三、翻译差错",
             "raw": "【例 3-6】Houston is a significant inland part, handling a large volume of energy-related cargo. （应",
-            "highlighted_words": []
+            "highlighted_words": [
+              "part"
+            ]
           },
           {
             "id": "3-7",
@@ -3553,35 +3625,45 @@
             "error": "This article outlines few tips on making more effective and attractive PowerPoint presentations. （应改为 a few）",
             "analysis": "few 表示“很少，不多”，强调“几乎没有”; a few 表示“有一些”，强调“有”。",
             "raw": "【例 3-1】This article outlines few tips on making more effective and attractive PowerPoint",
-            "highlighted_words": []
+            "highlighted_words": [
+              "few"
+            ]
           },
           {
             "id": "3-2",
             "error": "People choose to travel by air during holidays are increasing. （应改为 who choose）",
             "analysis": "英文中，一个简单句只能有一个谓语动词。本句中存在 choose 和 are increasing 两个谓 语动词。为了避免这种双谓语错误，可将 choose 放入定语从句中，使其不再作为谓语。修改后，who choose to travel by air during holidays 是一个定语从句，修饰先行词 people。",
             "raw": "【例 3-2】People choose to travel by air during holidays are increasing. （应改为 who choose）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "choose"
+            ]
           },
           {
             "id": "3-3",
             "error": "The application of BCIs to brain enhancement exists some risks. （本句应改为 Some risks exist in the application of BCIs to brain enhancement.）",
             "analysis": "本句中，exist 是一个不及物动词，后面不能直接接宾语，所以应调整语序。",
             "raw": "【例 3-3】The application of BCIs to brain enhancement exists some risks. （本句应改为 Some risks",
-            "highlighted_words": []
+            "highlighted_words": [
+              "exists"
+            ]
           },
           {
             "id": "3-4",
             "error": "In 1970, China successful launched its first man-made satellite. （应改为 successfully）",
             "analysis": "英文中，形容词不能修饰动词。本句中修饰动词 launch 的应为副词，所以将 successful 改为 successfully。 二、文字差错",
             "raw": "【例 3-4】In 1970, China successful launched its first man-made satellite. （应改为 successfully）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "successful"
+            ]
           },
           {
             "id": "3-5",
             "error": "Their findings laid the groundwork for modem motivation theory. （应改为 modern）",
             "analysis": "根据上下文，此处 modem（调制解调器）为录入错误，应改为 modern（现代的）。",
             "raw": "【例 3-5】Their findings laid the groundwork for modem motivation theory. （应改为 modern）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "modem"
+            ]
           },
           {
             "id": "3-6",
@@ -3820,14 +3902,18 @@
             "error": "1937 年，卢沟桥事变、“八·一三”事变相继爆发，故宫文物分三路向西疏散，存于 乐山、峨眉、安顺及巴县等处。（应改为“八一三”）",
             "analysis": "",
             "raw": "【例 1-8】1937 年，卢沟桥事变、“八·一三”事变相继爆发，故宫文物分三路向西疏散，存于",
-            "highlighted_words": []
+            "highlighted_words": [
+              "八·一三"
+            ]
           },
           {
             "id": "1-9",
             "error": "该片讲述了“九·一八”事变后，东北沦陷，冷云、胡秀之等抗联女战士为抵抗侵 略者献出宝贵生命的故事。（应改为“九一八”）",
             "analysis": "",
             "raw": "【例 1-9】该片讲述了“九·一八”事变后，东北沦陷，冷云、胡秀之等抗联女战士为抵抗侵",
-            "highlighted_words": []
+            "highlighted_words": [
+              "九·一八"
+            ]
           }
         ]
       },
@@ -3857,7 +3943,7 @@
             "analysis": "公式推导差错。1−i = (1−i)2 = −2i = −i，1+i = (1+i)2 = 2i = i。 1+i 1+i （1−i）  2  1−i 1+i （1−i）                              2",
             "raw": "【例 2-3】进行复数四则运算时，注意以下几个常见等式：(1+i) =2i，(1－i) =－2i， = −i， = i，",
             "highlighted_words": [
-              "1−i"
+              "1+i"
             ]
           },
           {
@@ -3872,21 +3958,27 @@
             "error": "正五角星的每个内角是 36°，每个外角是 72°。（应改为“108°”）",
             "analysis": "角度差错。正五角星的外角度数等于正五边形的内角度数，如图所 示，∠3=∠2=（5－2）×180°/5=108°。",
             "raw": "【例 2-5】正五角星的每个内角是 36°，每个外角是 72°。（应改为“108°”）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "72°"
+            ]
           },
           {
             "id": "2-6",
             "error": "调光数据：包括 8 位调光信息，00000000 表示 PWM 的占空比为 0%，即为关灯指令； 11111 表示 PWM 的占空比为 100%，即为全亮指令；在最亮和最暗之间包含 256 级灯光亮度。（应改 为“11111111”）",
             "analysis": "调光数据包括 8 位，11111111 表示 PWM 的占空比为 100%，对应最高亮度级别。",
             "raw": "【例 2-6】调光数据：包括 8 位调光信息，00000000 表示 PWM 的占空比为 0%，即为关灯指令；",
-            "highlighted_words": []
+            "highlighted_words": [
+              "11111"
+            ]
           },
           {
             "id": "2-7",
             "error": "恩尼格玛密码机的编码转轮结构相当复杂和精密，通过接线板就可以实现 26 个字母 的 10391791500 种编码可能。（应改为“100391791500”）",
             "analysis": "根据恩尼格玛密码机的原理，通过接线板可实现的替换可能数为 6!×26 26×25×…×16×15 = 100391791500种。案例中的数字少了 1 个“0”。处理书稿时遇到类似数据需核查确认。 三、不一致性差错",
             "raw": "【例 2-7】恩尼格玛密码机的编码转轮结构相当复杂和精密，通过接线板就可以实现 26 个字母",
-            "highlighted_words": []
+            "highlighted_words": [
+              "10391791500"
+            ]
           },
           {
             "id": "2-8",
@@ -3943,7 +4035,10 @@
             "error": "E-commerce bring convenience to consumers in online shopping, as well as put significant pressure on traditional shopping patterns. （应改为 brings 和 puts）",
             "analysis": "as well as 是一个常用的并列连词，在本句中用于连接两个谓语动词 bring 和 put，强调 它们之间的并列关系，所以两个动词的时态须保持一致。另外，本句主语 e-commerce 是不可数名 词，谓语动词应为单数形式，故将 bring、put 改为 brings、puts。 二、文字差错",
             "raw": "【例 3-3】E-commerce bring convenience to consumers in online shopping, as well as put significant",
-            "highlighted_words": []
+            "highlighted_words": [
+              "bring",
+              "put"
+            ]
           },
           {
             "id": "3-4",
@@ -3959,14 +4054,18 @@
             "error": "It has been dry for such a long time that the forest could burst into fame at any moment. （应改为 flame）",
             "analysis": "单词录入错误。根据上下文，fame 应改为 flame。",
             "raw": "【例 3-5】It has been dry for such a long time that the forest could burst into fame at any moment.",
-            "highlighted_words": []
+            "highlighted_words": [
+              "fame"
+            ]
           },
           {
             "id": "3-6",
             "error": "The results of the two analysis are consistent. （应改为 analyses）",
             "analysis": "analysis 属于不规则变化的名词，其复数形式为 analyses，需要特殊记忆。",
             "raw": "【例 3-6】The results of the two analysis are consistent. （应改为 analyses）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "analysis"
+            ]
           }
         ]
       },
@@ -4249,6 +4348,7 @@
             "analysis": "术语不规范。开放系统互连（Open System Interconnection，OSI）是国际标准化组织（ISO） 定义的一种计算机网络协议体系。它允许开放系统之间互相连接并能互相协作。",
             "raw": "【例 2-7】OSI 是 Open System Interconnect 的缩写，意为开放式系统互联，一般称为 OSI 参考",
             "highlighted_words": [
+              "Interconnect",
               "开放式系统互联"
             ]
           },
@@ -4286,14 +4386,18 @@
             "error": "Amazon provides varies products such as DVD, computer accessories, clothes, etc. （应改 为 various）",
             "analysis": "varies 是动词 vary 的第三人称单数形式，不能修饰名词 products，所以应将其改为形 容词 various。",
             "raw": "【例 3-1】Amazon provides varies products such as DVD, computer accessories, clothes, etc. （应改",
-            "highlighted_words": []
+            "highlighted_words": [
+              "varies"
+            ]
           },
           {
             "id": "3-2",
             "error": "It is one of the biggest worldwide e-commerce company. （应改为 companies）",
             "analysis": "“one of +复数名词”表示“……之一”，所以句中的 company 应该用复数形式 companies。",
             "raw": "【例 3-2】It is one of the biggest worldwide e-commerce company. （应改为 companies）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "company"
+            ]
           },
           {
             "id": "3-3",
@@ -4309,7 +4413,9 @@
             "error": "A suitable live streaming style would make your live stream stands out from others. （应 改为 stand）",
             "analysis": "本句涉及使役动词 make 的用法。“make +宾语+动词原形”表示“使……做……”。 动词原形作为宾语补足语，说明宾语发出的动作。本句中 stands 应改为原形 stand。",
             "raw": "【例 3-4】A suitable live streaming style would make your live stream stands out from others. （应",
-            "highlighted_words": []
+            "highlighted_words": [
+              "stands"
+            ]
           },
           {
             "id": "3-5",
@@ -4343,14 +4449,18 @@
             "error": "In the olded days, people used to make their own clothes by hand. （应改为 olden）",
             "analysis": "英语中没有 olded 这一用法。In the olden days 是一个较为正式和文学化的表达，通常 用于描述久远的过去，并带有怀旧的情感。",
             "raw": "【例 3-8】In the olded days, people used to make their own clothes by hand. （应改为 olden）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "olded"
+            ]
           },
           {
             "id": "3-9",
             "error": "The direct of operations also works as a data analyst. （应改为 director）",
             "analysis": "根据上下文，此处 direct（adj.直接的）应改为 director（n.主任；经理）。 2024 年外语类图书中的错误主要集中在如下几方面。 1. 语言文字方面的差错 （1）文字差错：英文单词拼写、正斜体、大小写错误。 （2）语法差错：词性误用，单复数、所有格错误，主谓、代词、单复数不一致， 语序不当，时态误用，句子成分残缺或多余。 2. 不同种类图书的易错点 （1）翻译版图书：误解原文造成的错误，术语翻译不准确，译文选词不得当，句 子结构混乱。 （2）教材：讲解及注释错误，习题无逻辑性。 （3）考试类图书：真题原文错，讲解及译文有误。",
             "raw": "【例 3-9】The direct of operations also works as a data analyst. （应改为 director）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "direct"
+            ]
           }
         ]
       },
@@ -4509,7 +4619,8 @@
             "analysis": "据《辞海》“中华苏维埃共和国临时中央政府”词条，中华苏维埃共和国临时中央政府 于 1931 年 11 月在江西瑞金召开的中华苏维埃第一次全国代表大会上宣告成立，大会决定将瑞金改 为瑞京，作为中华苏维埃共和国的首都。",
             "raw": "【例 1-3】1934 年 4 月中旬至下旬，国民党军集中 11 个师进攻广昌，企图打开中央革命根据地",
             "highlighted_words": [
-              "瑞金"
+              "瑞金",
+              "19"
             ]
           },
           {
@@ -4696,21 +4807,27 @@
             "error": "同位素的丰度总和通常是 100。（应改为“100%”或“1”）",
             "analysis": "比值有误。同位素丰度指某元素的特定同位素的原子数与该元素的总原子数之比值， 常以原子百分数表示。",
             "raw": "【例 2-8】同位素的丰度总和通常是 100。（应改为“100%”或“1”）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "100"
+            ]
           },
           {
             "id": "2-9",
             "error": "19 世纪著名的荷兰版画家埃舍尔创造了很多美丽的镶嵌图。（应改为“20”）",
             "analysis": "时间有误。荷兰版画家埃舍尔（1898—1972）活跃于 20 世纪，以其独特的视错觉艺术 作品而闻名。",
             "raw": "【例 2-9】19 世纪著名的荷兰版画家埃舍尔创造了很多美丽的镶嵌图。（应改为“20”）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "19"
+            ]
           },
           {
             "id": "2-10",
             "error": "因为以太坊的出块速度（912s 左右）远远快于比特币（10min 左右），因此难以避 免会出现多名矿工同时挖出新区块的情况。（应改为“15”）",
             "analysis": "时长有误。10min（600s）快于 912s，故表达有误。据资料显示，以太坊生成一个新区 块的时间为 15s 左右。 三、知识性差错",
             "raw": "【例 2-10】因为以太坊的出块速度（912s 左右）远远快于比特币（10min 左右），因此难以避",
-            "highlighted_words": []
+            "highlighted_words": [
+              "912"
+            ]
           },
           {
             "id": "2-11",
@@ -4756,7 +4873,9 @@
             "error": "Since the ancient castle was built in the 16th century, it remained a symbol of the city’s glorious history. （应改为 has remained）",
             "analysis": "本句为 since 引导的时间状语从句，从句用一般过去时，主句用现在完成时，表示从 过去某一时刻开始一直持续到现在的状态，所以应将 remained 改为 has reminded。",
             "raw": "【例 3-2】Since the ancient castle was built in the 16th century, it remained a symbol of the city’s",
-            "highlighted_words": []
+            "highlighted_words": [
+              "remained"
+            ]
           },
           {
             "id": "3-3",
@@ -4781,14 +4900,18 @@
             "error": "Policies implemented though counties revitalize rural economies. （应改为 through）",
             "analysis": "though 意为“虽然；尽管”，与上下文不搭配，应将其改为 through，意为“穿过；贯 穿”。",
             "raw": "【例 3-5】Policies implemented though counties revitalize rural economies. （应改为 through）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "though"
+            ]
           },
           {
             "id": "3-6",
             "error": "The report, complied from market trends, predicted an economic downturn. （应改为 compiled）",
             "analysis": "complied 为 comply 的过去分词，意为“遵从；服从”，与上下文不搭配，应将其改为 compiled，意为“编写；编纂”。",
             "raw": "【例 3-6】 The report, complied from market trends, predicted an economic downturn. （应改为",
-            "highlighted_words": []
+            "highlighted_words": [
+              "complied"
+            ]
           }
         ]
       },
@@ -4799,7 +4922,9 @@
             "error": "时间错误。苏联发射第一颗人造卫星的时间应为 1957 年。",
             "analysis": "",
             "raw": "【例 4-1】时间错误。苏联发射第一颗人造卫星的时间应为 1957 年。",
-            "highlighted_words": []
+            "highlighted_words": [
+              "19"
+            ]
           },
           {
             "id": "4-2",
@@ -4965,7 +5090,9 @@
             "error": "作者获得美国天普大学 IT 审计与网络安全专业理学硕士学位，现为马来亚-威尔士大 学（UMW）计算机科学专业博士研究生。（应改为“I UMW”）",
             "analysis": "",
             "raw": "【例 1-5】作者获得美国天普大学 IT 审计与网络安全专业理学硕士学位，现为马来亚-威尔士大",
-            "highlighted_words": []
+            "highlighted_words": [
+              "UMW"
+            ]
           },
           {
             "id": "1-6",
@@ -5129,21 +5256,27 @@
             "error": "National parks generate income through tourism activities, support local economies, and creating jobs. （应改为 create）",
             "analysis": "本句通过 and 连接了三个并列的谓语成分，前两个是动词原形 generate 和 support，但 第三个却用了现在分词 creating，破坏了并列结构的一致性，所以应将 creating 改为动词原形 create， 使三个谓语动词保持形式一致。 二、文字差错",
             "raw": "【例 3-2】National parks generate income through tourism activities, support local economies, and",
-            "highlighted_words": []
+            "highlighted_words": [
+              "creating"
+            ]
           },
           {
             "id": "3-3",
             "error": "All the applicants must ensure that their personal information forms are filled incorrectly; otherwise, their applications will be rejected. （应改为 in correctly）",
             "analysis": "原句中 incorrectly 的错误有可能是录入时的疏漏造成的。in correctly 本应是分开书写的 短语，却因忘记加空格误写成否定副词 incorrectly，这导致句子语义出现偏差——申请者不应该“错 误地（incorrectly）”填写表格。此外，从短语用法看，fill in 是一个固定短语，句中是被动语态的用 法，correctly 是副词，修饰 filled in。",
             "raw": "【例 3-3】 All the applicants must ensure that their personal information forms are filled incorrectly;",
-            "highlighted_words": []
+            "highlighted_words": [
+              "incorrectly"
+            ]
           },
           {
             "id": "3-4",
             "error": "The principle challenge we face right now is to reduce the production cost without sacrificing quality. （应改为 principal） 〖简析 〗原句旨在表达“我们目前面临的主要挑战是在不牺牲质量的前提下降低生产成本”。从 语义表达来看，句中 challeng（e 挑战）需要一个形容词来修饰，以明确挑战的性质。principle 和 principal 读音一样，在拼写上较为相似，但它们的词性和词义有明显区别。principle 是名词，意为“原则； 原理”；principal 常用作形容词，意为“主要的”。因此，此处应将名词 principle 改为形容词 principal， 修正后句子语法正确、语义清晰准确。",
             "analysis": "",
             "raw": "【例 3-4】The principle challenge we face right now is to reduce the production cost without",
-            "highlighted_words": []
+            "highlighted_words": [
+              "principle"
+            ]
           },
           {
             "id": "3-5",
@@ -5159,7 +5292,9 @@
             "error": "Before the pandemic, 8 million Argentine received food assistance. （应改为 Argentines）",
             "analysis": "Argentine 作名词时，指“阿根廷人”，为可数名词，单数形式为 an Argentine，复数形 式为 Argentines。句中 8 million 后应接复数形式的可数名词，因此将 Argentine 改为 Argentines。",
             "raw": "【例 3-6】Before the pandemic, 8 million Argentine received food assistance. （应改为 Argentines）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "Argentine"
+            ]
           }
         ]
       },
@@ -5316,9 +5451,7 @@
             "analysis": "清朝末代皇帝溥仪 1924 年 11 月被废除帝号逐出紫禁城时，将大量文物带出宫外。1945 年伪满洲国覆灭时，这批文物流失。 二、表述不准确",
             "raw": "【例 1-2】1945 年，此画由末代皇帝爱新觉罗·溥仪带出宫廷并流失到了东北，现在收藏于辽",
             "highlighted_words": [
-              "年，此画由末代皇帝爱新觉罗",
-              "溥仪",
-              "带出宫廷并流失到了东北"
+              "1945 年，此画由末代皇帝爱新觉罗·溥仪带出宫廷并流失到了东北"
             ]
           },
           {
@@ -5491,35 +5624,45 @@
             "error": "The Mid-Autumn Festival is one of the Chinese’s most cherished traditional holidays. （应 改为 the Chinese people’s）",
             "analysis": "本句中的 the Chinese 不能再加’s 构成所有格，应将其改为 the Chinese people’s。",
             "raw": "【例 3-2】The Mid-Autumn Festival is one of the Chinese’s most cherished traditional holidays. （应",
-            "highlighted_words": []
+            "highlighted_words": [
+              "the Chinese’s"
+            ]
           },
           {
             "id": "3-3",
             "error": "It’s glad to hear from you. （应改为 I’m）",
             "analysis": "朱熹是南宋学者，其生活年代晚于嵩阳书院在北宋的鼎盛期，而且嵩阳书院自北宋灭 亡后归属金朝统治，因此他不可能在此讲学。",
             "raw": "【例 3-3】It’s glad to hear from you. （应改为 I’m）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "It’s"
+            ]
           },
           {
             "id": "3-5",
             "error": "Confucius’ arrival in Luoyang shows that Confucianism originated from the Duke of Zhou whose ideology was, in turn, formed during his reign in Luoyang. （应改为 was deeply influenced by）",
             "analysis": "儒学继承、发展了周公的礼乐思想，并非直接起源于周公（originated from the Duke of Zhou）。本句可改为 Confucius’ arrival in Luoyang shows that Confucianism was deeply influenced by the Duke of Zhou, whose ideology was formed during his reign in Luoyang.",
             "raw": "【例 3-5】Confucius’ arrival in Luoyang shows that Confucianism originated from the Duke of Zhou",
-            "highlighted_words": []
+            "highlighted_words": [
+              "originated from"
+            ]
           },
           {
             "id": "3-6",
             "error": "Traditional Chinese calligraphy is an ancient art form that dates back to the Han Dynasty with a history of thousands of years. （删除 that dates back to the Han Dynasty）",
             "analysis": "中国书法并不始于汉代（the Han Dynasty）。商周甲骨文、周代金文、秦代小篆都已 经是成熟的书法形式。",
             "raw": "【例 3-6】Traditional Chinese calligraphy is an ancient art form that dates back to the Han Dynasty",
-            "highlighted_words": []
+            "highlighted_words": [
+              "that dates back to the Han Dynasty"
+            ]
           },
           {
             "id": "3-7",
             "error": "The Silk Road dates back to the Han Dynasty (207BC-220AD) in ancient China. （应改为 202BC）",
             "analysis": "本句中的汉朝的起始年代有误。汉朝（西汉）的建立年份是公元前 202 年。",
             "raw": "【例 3-7】The Silk Road dates back to the Han Dynasty (207BC-220AD) in ancient China. （应改为",
-            "highlighted_words": []
+            "highlighted_words": [
+              "207BC"
+            ]
           }
         ]
       },
@@ -5853,21 +5996,27 @@
             "error": "The invention of bronze stand as a milestone in the history of human civilization. （应改 为 stands）",
             "analysis": "本句主谓不一致。句子核心主语 invention 是单数名词。一般现在时中单数主语的谓语 动词需用第三人称单数形式，所以应将 stand 改为 stands。",
             "raw": "【例 3-2】The invention of bronze stand as a milestone in the history of human civilization. （应改",
-            "highlighted_words": []
+            "highlighted_words": [
+              "stand"
+            ]
           },
           {
             "id": "3-3",
             "error": "Some written materials preserve only a few myths, while others hold a comparative large number of myths. （应改为 comparatively）",
             "analysis": "本句中的 comparative 是形容词，不能修饰形容词 large，应改用副词 comparatively。",
             "raw": "【例 3-3】 Some written materials preserve only a few myths, while others hold a comparative large",
-            "highlighted_words": []
+            "highlighted_words": [
+              "comparative"
+            ]
           },
           {
             "id": "3-4",
             "error": "They continued to search Qu Yuan’s body for days but failed. （应改为 search for）",
             "analysis": "search sb.表示对某人进行搜身；要表达“搜寻”需用 search for。原句想表达搜寻屈原 的遗体，正确结构应为 search for Qu Yuan’s body。",
             "raw": "【例 3-4】 They continued to search Qu Yuan’s body for days but failed. （应改为 search for）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "search"
+            ]
           },
           {
             "id": "3-5",
@@ -5883,7 +6032,9 @@
             "error": "The Western Zhou Dynasty flourished in relative peace and prosperity for nearly five centuries. （应改为 three）",
             "analysis": "西周从公元前 1046 年立国到公元前 771 年灭亡，约为 275 年，并非近 5 个世纪，five centuries 不符合史实。",
             "raw": "【例 3-6】The Western Zhou Dynasty flourished in relative peace and prosperity for nearly five",
-            "highlighted_words": []
+            "highlighted_words": [
+              "five"
+            ]
           },
           {
             "id": "3-7",
@@ -5899,7 +6050,9 @@
             "error": "Shennong is believed to have introduced the technique of acupuncture. （应改为“Fuxi”）",
             "analysis": "相传，针灸为伏羲所创，神农氏是农业的开创者和医药的发明者。",
             "raw": "【例 3-8】Shennong is believed to have introduced the technique of acupuncture. （应改为“Fuxi”）",
-            "highlighted_words": []
+            "highlighted_words": [
+              "Shennong"
+            ]
           },
           {
             "id": "3-9",

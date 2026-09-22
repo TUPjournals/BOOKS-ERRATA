@@ -370,9 +370,7 @@ const BOOK_DATA = [
         "quarter": "Q1",
         "error": "在中国长期占统治地位的思想—儒家思想，反对奢侈浪费，推崇朴素而简单的生活。 （应改为“——”）",
         "analysis": "此句中“儒家思想”是对前面“思想”的解释说明，标示注释内容应用破折号。",
-        "highlighted_words": [
-          "——"
-        ]
+        "highlighted_words": []
       },
       {
         "id": "1-8",
@@ -380,9 +378,7 @@ const BOOK_DATA = [
         "quarter": "Q1",
         "error": "在议题设置方面，政府新闻发布已经形成了“事前预告——事中进度——连续引导 ——事后总结”的模式。（应改为“—”）",
         "analysis": "标示相关项之间递进式发展时用一字线。",
-        "highlighted_words": [
-          "——"
-        ]
+        "highlighted_words": []
       },
       {
         "id": "1-9",
@@ -1032,7 +1028,9 @@ const BOOK_DATA = [
         "quarter": "Q2",
         "error": "1937 年，卢沟桥事变、“八·一三”事变相继爆发，故宫文物分三路向西疏散，存于 乐山、峨眉、安顺及巴县等处。（应改为“八一三”）",
         "analysis": "",
-        "highlighted_words": []
+        "highlighted_words": [
+          "八·一三"
+        ]
       },
       {
         "id": "1-9",
@@ -1040,7 +1038,9 @@ const BOOK_DATA = [
         "quarter": "Q2",
         "error": "该片讲述了“九·一八”事变后，东北沦陷，冷云、胡秀之等抗联女战士为抵抗侵 略者献出宝贵生命的故事。（应改为“九一八”）",
         "analysis": "",
-        "highlighted_words": []
+        "highlighted_words": [
+          "九·一八"
+        ]
       },
       {
         "id": "1-1",
@@ -1185,7 +1185,8 @@ const BOOK_DATA = [
         "error": "1934 年 4 月中旬至下旬，国民党军集中 11 个师进攻广昌，企图打开中央革命根据地 的“北大门”，而后夺取中华苏维埃共和国的首都——瑞金。（应改为“瑞京”）",
         "analysis": "据《辞海》“中华苏维埃共和国临时中央政府”词条，中华苏维埃共和国临时中央政府 于 1931 年 11 月在江西瑞金召开的中华苏维埃第一次全国代表大会上宣告成立，大会决定将瑞金改 为瑞京，作为中华苏维埃共和国的首都。",
         "highlighted_words": [
-          "瑞金"
+          "瑞金",
+          "19"
         ]
       },
       {
@@ -1364,7 +1365,9 @@ const BOOK_DATA = [
         "quarter": "Q2",
         "error": "作者获得美国天普大学 IT 审计与网络安全专业理学硕士学位，现为马来亚-威尔士大 学（UMW）计算机科学专业博士研究生。（应改为“I UMW”）",
         "analysis": "",
-        "highlighted_words": []
+        "highlighted_words": [
+          "UMW"
+        ]
       },
       {
         "id": "1-6",
@@ -1447,9 +1450,7 @@ const BOOK_DATA = [
         "error": "1945 年，此画由末代皇帝爱新觉罗·溥仪带出宫廷并流失到了东北，现在收藏于辽 宁省博物馆。（可改为“此画于 1924 年由溥仪在被逐出紫禁城时带出宫外，1945 年伪满覆灭时流 失于东北”）",
         "analysis": "清朝末代皇帝溥仪 1924 年 11 月被废除帝号逐出紫禁城时，将大量文物带出宫外。1945 年伪满洲国覆灭时，这批文物流失。 二、表述不准确",
         "highlighted_words": [
-          "年，此画由末代皇帝爱新觉罗",
-          "溥仪",
-          "带出宫廷并流失到了东北"
+          "1945 年，此画由末代皇帝爱新觉罗·溥仪带出宫廷并流失到了东北"
         ]
       },
       {
@@ -1668,6 +1669,7 @@ const BOOK_DATA = [
         "error": "DHCP（dynamic host configuration protocol，动态主机配置协议）是 IETF（Internet 网络工程师任务小组）设计的一个局域网的网络协议。（应改为“因特网工程任务组”）",
         "analysis": "组织名称差错。IETF（Internet Engineering Task Force，因特网工程任务组）是一个研 发和制定因特网相关技术标准的开放性机构。 三、阿拉伯数字差错",
         "highlighted_words": [
+          "Internet",
           "网络工程师任务小组"
         ]
       },
@@ -1677,7 +1679,9 @@ const BOOK_DATA = [
         "quarter": "Q3",
         "error": "德国、法国在高速铁路上开行的高速货物列车最高速度已达到 2000 千米/时。（应 改为“200”）",
         "analysis": "数值差错。高铁的最高试验速度约为 600 千米/时，德国和法国的高速铁路客运最高运 行速度约为 320 千米/时，货运最高运行速度远低于客运，200 千米/时比较符合实际。",
-        "highlighted_words": []
+        "highlighted_words": [
+          "2000"
+        ]
       },
       {
         "id": "2-11",
@@ -1695,7 +1699,9 @@ const BOOK_DATA = [
         "quarter": "Q3",
         "error": "据传说，三国时期蜀汉军师诸葛亮（180—234 年）是早期无人机的运用者之一。（应 改为“181”）",
         "analysis": "年份差错。诸葛亮出生于公元 181 年。",
-        "highlighted_words": []
+        "highlighted_words": [
+          "180"
+        ]
       },
       {
         "id": "2-13",
@@ -1703,7 +1709,9 @@ const BOOK_DATA = [
         "quarter": "Q3",
         "error": "GPS BLOCK Ⅲ卫星的首次发射在 2013 年进行。（应改为“2018”）",
         "analysis": "时间差错。美国首次发射 GPS BLOCK Ⅲ卫星的时间是 2018 年 12 月。",
-        "highlighted_words": []
+        "highlighted_words": [
+          "2013"
+        ]
       },
       {
         "id": "2-1",
@@ -1775,7 +1783,9 @@ const BOOK_DATA = [
         "quarter": "Q1",
         "error": "但是若输入 a，b，c 的值分别为 3,2,4 时，屏幕上出现了出错信息，程序停止运行， 原因是此时 b2－4ac=4－24=－20，小于 0，出现了对负数求平方根的运算，故出错。（应改为“4－ 48=－44”）",
         "analysis": "代入 a、c 的值时出现了简单的计算差错。",
-        "highlighted_words": []
+        "highlighted_words": [
+          "4－24=－20"
+        ]
       },
       {
         "id": "2-11",
@@ -1820,7 +1830,7 @@ const BOOK_DATA = [
         "error": "进行复数四则运算时，注意以下几个常见等式：(1+i) =2i，(1－i) =－2i， = −i， = i， i  1+i 1−i = −i等。（应改为“1+i = i”） 1+i           1−i",
         "analysis": "公式推导差错。1−i = (1−i)2 = −2i = −i，1+i = (1+i)2 = 2i = i。 1+i 1+i （1−i）  2  1−i 1+i （1−i）                              2",
         "highlighted_words": [
-          "1−i"
+          "1+i"
         ]
       },
       {
@@ -1829,7 +1839,9 @@ const BOOK_DATA = [
         "quarter": "Q2",
         "error": "正五角星的每个内角是 36°，每个外角是 72°。（应改为“108°”）",
         "analysis": "角度差错。正五角星的外角度数等于正五边形的内角度数，如图所 示，∠3=∠2=（5－2）×180°/5=108°。",
-        "highlighted_words": []
+        "highlighted_words": [
+          "72°"
+        ]
       },
       {
         "id": "2-6",
@@ -1837,7 +1849,9 @@ const BOOK_DATA = [
         "quarter": "Q2",
         "error": "调光数据：包括 8 位调光信息，00000000 表示 PWM 的占空比为 0%，即为关灯指令； 11111 表示 PWM 的占空比为 100%，即为全亮指令；在最亮和最暗之间包含 256 级灯光亮度。（应改 为“11111111”）",
         "analysis": "调光数据包括 8 位，11111111 表示 PWM 的占空比为 100%，对应最高亮度级别。",
-        "highlighted_words": []
+        "highlighted_words": [
+          "11111"
+        ]
       },
       {
         "id": "2-7",
@@ -1845,7 +1859,9 @@ const BOOK_DATA = [
         "quarter": "Q2",
         "error": "恩尼格玛密码机的编码转轮结构相当复杂和精密，通过接线板就可以实现 26 个字母 的 10391791500 种编码可能。（应改为“100391791500”）",
         "analysis": "根据恩尼格玛密码机的原理，通过接线板可实现的替换可能数为 6!×26 26×25×…×16×15 = 100391791500种。案例中的数字少了 1 个“0”。处理书稿时遇到类似数据需核查确认。 三、不一致性差错",
-        "highlighted_words": []
+        "highlighted_words": [
+          "10391791500"
+        ]
       },
       {
         "id": "2-1",
@@ -1915,6 +1931,7 @@ const BOOK_DATA = [
         "error": "OSI 是 Open System Interconnect 的缩写，意为开放式系统互联，一般称为 OSI 参考 模型。（前者改为 Interconnection，后者改为“开放系统互连”）",
         "analysis": "术语不规范。开放系统互连（Open System Interconnection，OSI）是国际标准化组织（ISO） 定义的一种计算机网络协议体系。它允许开放系统之间互相连接并能互相协作。",
         "highlighted_words": [
+          "Interconnect",
           "开放式系统互联"
         ]
       },
@@ -2002,7 +2019,9 @@ const BOOK_DATA = [
         "quarter": "Q1",
         "error": "同位素的丰度总和通常是 100。（应改为“100%”或“1”）",
         "analysis": "比值有误。同位素丰度指某元素的特定同位素的原子数与该元素的总原子数之比值， 常以原子百分数表示。",
-        "highlighted_words": []
+        "highlighted_words": [
+          "100"
+        ]
       },
       {
         "id": "2-9",
@@ -2010,7 +2029,9 @@ const BOOK_DATA = [
         "quarter": "Q1",
         "error": "19 世纪著名的荷兰版画家埃舍尔创造了很多美丽的镶嵌图。（应改为“20”）",
         "analysis": "时间有误。荷兰版画家埃舍尔（1898—1972）活跃于 20 世纪，以其独特的视错觉艺术 作品而闻名。",
-        "highlighted_words": []
+        "highlighted_words": [
+          "19"
+        ]
       },
       {
         "id": "2-10",
@@ -2018,7 +2039,9 @@ const BOOK_DATA = [
         "quarter": "Q1",
         "error": "因为以太坊的出块速度（912s 左右）远远快于比特币（10min 左右），因此难以避 免会出现多名矿工同时挖出新区块的情况。（应改为“15”）",
         "analysis": "时长有误。10min（600s）快于 912s，故表达有误。据资料显示，以太坊生成一个新区 块的时间为 15s 左右。 三、知识性差错",
-        "highlighted_words": []
+        "highlighted_words": [
+          "912"
+        ]
       },
       {
         "id": "2-11",
