@@ -107,7 +107,7 @@ function renderEntries() {
     html += `
       <div class="entry-item">
         <div class="entry-header">
-          <span class="entry-id">${entry.id}</span>
+          <span class="entry-id">${entry.year}</span>
           <span class="entry-category">${entry.category}</span>
         </div>
         <div class="entry-error">${renderHighlightedText(entry)}</div>
