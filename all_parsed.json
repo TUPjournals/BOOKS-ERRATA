@@ -391,6 +391,325 @@
   },
   {
     "year": "2022",
+    "quarter": "Q2",
+    "sections": {
+      "文科类": {
+        "entries": [
+          {
+            "id": "1-1",
+            "error": "据不完全统计，全国已成立的省（自治区）市一级的具有独立社团法人资格的物业 管理协会有 80 余个。（可改为“省（区、市）”）",
+            "analysis": "根据我国宪法和法律中的表述，“省、自治区、直辖市”为固定排序，即“省”在前， “自治区”次之，“直辖市”再次之。“省、自治区、直辖市”可简化为“省、区、市”或“省区市”； 也可写为“省（自治区、直辖市）”，简化为“省（区、市）”。",
+            "raw": "【例 1-1】据不完全统计，全国已成立的省（自治区）市一级的具有独立社团法人资格的物业",
+            "highlighted_words": [
+              "省（自治区）市"
+            ]
+          },
+          {
+            "id": "1-2",
+            "error": "在卢曼看来，希腊、罗马、中国、伊斯兰、印度、中世纪的欧洲和盎格鲁-撒克逊地 区都属于高度文明的社会。（可改为“伊斯兰国家”）",
+            "analysis": "“伊斯兰”是阿拉伯语 Islām 的音译，意为“顺服”，指顺服唯一之神安拉的旨意，非 国家、非地区，用在此处不合适。“伊斯兰国家”一般指多数居民为穆斯林的国家，或穆斯林虽不占 人口多数，但受伊斯兰教影响，参加伊斯兰合作组织的国家。",
+            "raw": "【例 1-2】在卢曼看来，希腊、罗马、中国、伊斯兰、印度、中世纪的欧洲和盎格鲁-撒克逊地",
+            "highlighted_words": [
+              "伊斯兰"
+            ]
+          },
+          {
+            "id": "1-3",
+            "error": "其实在为她救治时，科尔夫还顶着另外的压力，因为在德国侵占荷兰期间，她是一 位纳粹合作者，这个身份多遭人恨啊。（可改为“一个”）",
+            "analysis": "“纳粹”是德语 Nationalsozialistische 的缩写词 Nazi 的音译。纳粹党即民族社会主义德意 志工人党，是德国法西斯政党。1945 年，纳粹德国溃败后，该党被取缔，1946 年被纽伦堡国际军事 法庭判为犯罪组织。“位”含敬意，用在此处不合适。 二、引文差错",
+            "raw": "【例 1-3】其实在为她救治时，科尔夫还顶着另外的压力，因为在德国侵占荷兰期间，她是一",
+            "highlighted_words": []
+          },
+          {
+            "id": "1-4",
+            "error": "日出而作，日落而息。（应改为“日入而息”）",
+            "analysis": "语出《庄子〃让王》：“日出而作，日入而息。”意思是：太阳升起来时劳动，太阳下山 时就休息。原指古代人民的生活方式，后也泛指单纯简朴的生活。",
+            "raw": "【例 1-4】日出而作，日落而息。（应改为“日入而息”）",
+            "highlighted_words": [
+              "日落而息"
+            ]
+          },
+          {
+            "id": "1-5",
+            "error": "天降大任于斯人也，必先苦其心志，劳其筋骨。（应改为“天将降大任于是人也”）",
+            "analysis": "语出《孟子〃告子下》：“天将降大任于是人也，必先苦其心志，劳其筋骨。”意思是： 上天将要给这个人重大使命时，必定先要使他的意志经受痛苦的磨练，使他的筋骨经受劳累。“是” 为代词，表示近指，相当于“这，这个”。",
+            "raw": "【例 1-5】天降大任于斯人也，必先苦其心志，劳其筋骨。（应改为“天将降大任于是人也”）",
+            "highlighted_words": [
+              "天降大任于斯人也"
+            ]
+          },
+          {
+            "id": "1-6",
+            "error": "皮之不存，毛之焉附？（应改为“毛将焉附”）",
+            "analysis": "语出《左传〃僖公十四年》：“皮之不存，毛将安傅？”“安”犹“焉”，“傅”同“附”。 意思是：连皮都没有了，毛长到哪儿去呢？比喻事物失去了存在的基础，就不能存在。",
+            "raw": "【例 1-6】皮之不存，毛之焉附？（应改为“毛将焉附”）",
+            "highlighted_words": [
+              "毛之焉附"
+            ]
+          }
+        ]
+      },
+      "理工类": {
+        "entries": [
+          {
+            "id": "2-1",
+            "error": "",
+            "analysis": "违背文学常识。据《西游记》第七回：“我老孙一筋斗去十万八千里。”“十万八千里” 不能随意改变。",
+            "raw": "【例 2-1】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-2",
+            "error": "",
+            "analysis": "违背科学常识。BMI 是评价体重是否适宜的指标，BMI（体重指数）=体重（kg）/身 高 2（m2）。BMI 正常值为 18～24；BMI<18 为消瘦；BMI>24 为超重；BMI≥28 则为肥胖。本例中的 身高值为 178 米，BMI 为 0.001957，明显有误。",
+            "raw": "【例 2-2】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-3",
+            "error": "",
+            "analysis": "科学性差错。人体的细胞液浓度为 0.9%。口腔上皮细胞置于清水中时，细胞液浓度大 于外部液体浓度，细胞会吸水膨胀；置于浓度大于 0.9%的液体中时，细胞液浓度小于外部液体浓度， 细胞会失水皱缩。",
+            "raw": "【例 2-3】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-4",
+            "error": "",
+            "analysis": "数据错误。地球是一个扁球体，其赤道半径为 6378 千米，极半径为 6357 千米，平均 半径为 6371 千米。",
+            "raw": "【例 2-4】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-5",
+            "error": "",
+            "analysis": "定义错误。物理学中的自由度是指完整地描述一个力学系统的运动所需要的独立变量 的个数，通常以 n 表示。由定义可知，自由度是一个数值。",
+            "raw": "【例 2-5】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-6",
+            "error": "",
+            "analysis": "数学概念错误。本例涉及数学中谁比谁短（或长）几分之几、谁是谁的几分之几的问 题。若求“比谁短几分之几”，则公式为（大－小）/大；若求“比谁长几分之几”，则公式为（大－ 小）/小；若求“是谁的几分之几”，则一般为小/大。显然这里按第三种修改最为简单。 二、不一致性差错",
+            "raw": "【例 2-6】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-7",
+            "error": "",
+            "analysis": "图文不符。正文叙述“标注如图 3.50 所示的竖直尺寸”与图 3.50 所示不符，图中标注 的是水平尺寸。另图题“竖直尺寸”也与图示不符。",
+            "raw": "【例 2-7】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-8",
+            "error": "",
+            "analysis": "相同内容前后不一致。前文叙述是“求数据的均值和标准差”，下文举例是“求数据的 均值和方差”，实际程序未涉及标准差。",
+            "raw": "【例 2-8】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-9",
+            "error": "",
+            "analysis": "例题题目与代码不符。例题题目要求修改学生表 student 中的字段，而代码是修改读者 表 reader 中的字段。",
+            "raw": "【例 2-9】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-10",
+            "error": "",
+            "analysis": "执行结果和程序不一致。本例所示的代码清单题目是“Python 元组的常用操作”，下文 执行结果的前四行却是列表操作的结果，与题目不符。",
+            "raw": "【例 2-10】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-11",
+            "error": "",
+            "analysis": "按钮的图标与名称不一致。本例中“水平居中对齐”按钮的图标误为“左对齐”按钮 的图标，“按左分布”按钮的图标误为“按底分布”按钮的图标。正确图标可参见属性栏中所列。",
+            "raw": "【例 2-11】",
+            "highlighted_words": []
+          }
+        ]
+      },
+      "外语类": {
+        "entries": [
+          {
+            "id": "3-1",
+            "error": "In the Qin Dynasty, armored vehicles appeared, which was a four-wheeled vehicle. （应改 为“were four-wheeled vehicles”）",
+            "analysis": "从句中的谓语及宾语应该与先行词 vehicles 保持单复数一致。",
+            "raw": "【例 3-1】In the Qin Dynasty, armored vehicles appeared, which was a four-wheeled vehicle. （应改",
+            "highlighted_words": [
+              "was a four-wheeled vehicle",
+              "four-wheeled vehicle"
+            ]
+          },
+          {
+            "id": "3-2",
+            "error": "A nationwide water transport system were established. （应改为“was”）",
+            "analysis": "句子的谓语应该和主语 a system 保持一致。",
+            "raw": "【例 3-2】A nationwide water transport system were established. （应改为“was”）",
+            "highlighted_words": []
+          },
+          {
+            "id": "3-3",
+            "error": "When Emperor Wu was in the reign of the Han Dynasty, water transportation developed very fast. （应改为“When the Han Dynasty was in the reign of Emperor Wu”）",
+            "analysis": "句子要表达的意思是“在汉武帝统治时期”，原文语序有误。 二、文字差错",
+            "raw": "【例 3-3】When Emperor Wu was in the reign of the Han Dynasty, water transportation developed very",
+            "highlighted_words": [
+              "When Emperor Wu was in the reign of the Han Dynasty"
+            ]
+          },
+          {
+            "id": "3-4",
+            "error": "They acted in an very orderly manner. （应改为“a”）",
+            "analysis": "an 用于发音是元音开头的单词、缩写词、首字母缩略词或字母之前。very 不属于此种 情况。",
+            "raw": "【例 3-4】They acted in an very orderly manner. （应改为“a”）",
+            "highlighted_words": []
+          },
+          {
+            "id": "3-5",
+            "error": "He An built a two-wheeled vehicle, with a guide wheel in front and a follower wheel behind it, forming a new type of four-wheeled vehicle. （应改为“vehicle”）",
+            "analysis": "前后矛盾。前文为两轮车，后文为四轮车。 三、知识性差错",
+            "raw": "【例 3-5】He An built a two-wheeled vehicle, with a guide wheel in front and a follower wheel behind",
+            "highlighted_words": [
+              "two-wheeled vehicle",
+              "four-wheeled vehicle"
+            ]
+          },
+          {
+            "id": "3-6",
+            "error": "In the Spring and Autumn Period, a cart with a capacity of 50 Dan (1 Dan is equal to 103.5 liters) millets was built. （应改为“1 Dan is equal to 50 kg”）",
+            "analysis": "Dan（担）是重量单位，liter（升）是容积单位，两者不宜换算。",
+            "raw": "【例 3-6】In the Spring and Autumn Period, a cart with a capacity of 50 Dan (1 Dan is equal to 103.5",
+            "highlighted_words": [
+              "1 Dan is equal to 103.5",
+              "liters"
+            ]
+          },
+          {
+            "id": "3-7",
+            "error": "In 1980, two large painted chariots were unearthed from the Terra-Cotta Warrior of First Emperor of Qin Mausoleum.（应改为 the Mausoleum of the First Emperor of the Qin Dynasty）",
+            "analysis": "战车应该是从秦始皇陵而不是从兵马俑中挖掘出来的。",
+            "raw": "【例 3-7】In 1980, two large painted chariots were unearthed from the Terra-Cotta Warrior of First",
+            "highlighted_words": [
+              "the Terra-Cotta Warrior of First",
+              "Emperor of Qin Mausoleum"
+            ]
+          }
+        ]
+      },
+      "读者反馈": {
+        "entries": [
+          {
+            "id": "4-1",
+            "error": "“相应比”应为“响应比”，“相应时间”应为“响应时间”。",
+            "analysis": "",
+            "raw": "【例 4-1】“相应比”应为“响应比”，“相应时间”应为“响应时间”。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-2",
+            "error": "“骰于”应为“骰子”。",
+            "analysis": "",
+            "raw": "【例 4-2】“骰于”应为“骰子”。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-3",
+            "error": "“手机”应为“手枪”。",
+            "analysis": "",
+            "raw": "【例 4-3】“手机”应为“手枪”。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-4",
+            "error": "结合上下文，家庭年收入应该是 80000 元。 二、计算差错",
+            "analysis": "",
+            "raw": "【例 4-4】 结合上下文，家庭年收入应该是 80000 元。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-5",
+            "error": "小数部分应当乘以 16 进而取整，而不是乘以 10。",
+            "analysis": "",
+            "raw": "【例 4-5】小数部分应当乘以 16 进而取整，而不是乘以 10。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-6",
+            "error": "计算结果应为 100 000（元）。 三、知识性差错",
+            "analysis": "",
+            "raw": "【例 4-6】计算结果应为 100 000（元）。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-7",
+            "error": "这里“杜曲花光浓似酒”并非杜甫诗句，而是宋代郑文宝的诗句。",
+            "analysis": "",
+            "raw": "【例 4-7】这里“杜曲花光浓似酒”并非杜甫诗句，而是宋代郑文宝的诗句。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-8",
+            "error": "文件引用错误。文中引用内容是关于“提升学校治理水平”的，而不是“提升信息 化水平”的。",
+            "analysis": "",
+            "raw": "【例 4-8】文件引用错误。文中引用内容是关于“提升学校治理水平”的，而不是“提升信息",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-9",
+            "error": "文中介绍的是批发商的优势，图中“零售商”（标红处）错误，应改为“批发商”。",
+            "analysis": "",
+            "raw": "【例 4-9】文中介绍的是批发商的优势，图中“零售商”（标红处）错误，应改为“批发商”。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-10",
+            "error": "图中将内存容量和存储容量混淆。",
+            "analysis": "计算机的内存容量（memory capacity）通常是指随机存储器(RAM)的容量，存储容量 （storage capacity）是指计算机存储设备中能保存的总信息量。通常，存储容量远大于内存容量。 四、程序错误",
+            "raw": "【例 4-10】图中将内存容量和存储容量混淆。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-11",
+            "error": "根据判断条件，代码 02 语句中的 year%100==0 应为 year%400==0。",
+            "analysis": "",
+            "raw": "【例 4-11】根据判断条件，代码 02 语句中的 year%100==0 应为 year%400==0。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-12",
+            "error": "执行结果中，“组合后”的字符“土耳其”应为“巴西”。 五、图表差错",
+            "analysis": "",
+            "raw": "【例 4-12】执行结果中，“组合后”的字符“土耳其”应为“巴西”。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-13",
+            "error": "表文不一致，文中提到 5 个要求，表中只列出了 4 个。",
+            "analysis": "",
+            "raw": "【例 4-13】表文不一致，文中提到 5 个要求，表中只列出了 4 个。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-14",
+            "error": "图文不对应。",
+            "analysis": "",
+            "raw": "【例 4-14】图文不对应。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-15",
+            "error": "表中数据有误，应为 350 万美元。",
+            "analysis": "",
+            "raw": "【例 4-15】表中数据有误，应为 350 万美元。",
+            "highlighted_words": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "year": "2022",
     "quarter": "Q3",
     "sections": {
       "文科类": {
@@ -751,325 +1070,6 @@
             "error": "图中两处“业务问题”应为“业务目标”。",
             "analysis": "",
             "raw": "【例 4-17】 图中两处“业务问题”应为“业务目标”。",
-            "highlighted_words": []
-          }
-        ]
-      }
-    }
-  },
-  {
-    "year": "2022",
-    "quarter": "Q2",
-    "sections": {
-      "文科类": {
-        "entries": [
-          {
-            "id": "1-1",
-            "error": "据不完全统计，全国已成立的省（自治区）市一级的具有独立社团法人资格的物业 管理协会有 80 余个。（可改为“省（区、市）”）",
-            "analysis": "根据我国宪法和法律中的表述，“省、自治区、直辖市”为固定排序，即“省”在前， “自治区”次之，“直辖市”再次之。“省、自治区、直辖市”可简化为“省、区、市”或“省区市”； 也可写为“省（自治区、直辖市）”，简化为“省（区、市）”。",
-            "raw": "【例 1-1】据不完全统计，全国已成立的省（自治区）市一级的具有独立社团法人资格的物业",
-            "highlighted_words": [
-              "省（自治区）市"
-            ]
-          },
-          {
-            "id": "1-2",
-            "error": "在卢曼看来，希腊、罗马、中国、伊斯兰、印度、中世纪的欧洲和盎格鲁-撒克逊地 区都属于高度文明的社会。（可改为“伊斯兰国家”）",
-            "analysis": "“伊斯兰”是阿拉伯语 Islām 的音译，意为“顺服”，指顺服唯一之神安拉的旨意，非 国家、非地区，用在此处不合适。“伊斯兰国家”一般指多数居民为穆斯林的国家，或穆斯林虽不占 人口多数，但受伊斯兰教影响，参加伊斯兰合作组织的国家。",
-            "raw": "【例 1-2】在卢曼看来，希腊、罗马、中国、伊斯兰、印度、中世纪的欧洲和盎格鲁-撒克逊地",
-            "highlighted_words": [
-              "伊斯兰"
-            ]
-          },
-          {
-            "id": "1-3",
-            "error": "其实在为她救治时，科尔夫还顶着另外的压力，因为在德国侵占荷兰期间，她是一 位纳粹合作者，这个身份多遭人恨啊。（可改为“一个”）",
-            "analysis": "“纳粹”是德语 Nationalsozialistische 的缩写词 Nazi 的音译。纳粹党即民族社会主义德意 志工人党，是德国法西斯政党。1945 年，纳粹德国溃败后，该党被取缔，1946 年被纽伦堡国际军事 法庭判为犯罪组织。“位”含敬意，用在此处不合适。 二、引文差错",
-            "raw": "【例 1-3】其实在为她救治时，科尔夫还顶着另外的压力，因为在德国侵占荷兰期间，她是一",
-            "highlighted_words": []
-          },
-          {
-            "id": "1-4",
-            "error": "日出而作，日落而息。（应改为“日入而息”）",
-            "analysis": "语出《庄子〃让王》：“日出而作，日入而息。”意思是：太阳升起来时劳动，太阳下山 时就休息。原指古代人民的生活方式，后也泛指单纯简朴的生活。",
-            "raw": "【例 1-4】日出而作，日落而息。（应改为“日入而息”）",
-            "highlighted_words": [
-              "日落而息"
-            ]
-          },
-          {
-            "id": "1-5",
-            "error": "天降大任于斯人也，必先苦其心志，劳其筋骨。（应改为“天将降大任于是人也”）",
-            "analysis": "语出《孟子〃告子下》：“天将降大任于是人也，必先苦其心志，劳其筋骨。”意思是： 上天将要给这个人重大使命时，必定先要使他的意志经受痛苦的磨练，使他的筋骨经受劳累。“是” 为代词，表示近指，相当于“这，这个”。",
-            "raw": "【例 1-5】天降大任于斯人也，必先苦其心志，劳其筋骨。（应改为“天将降大任于是人也”）",
-            "highlighted_words": [
-              "天降大任于斯人也"
-            ]
-          },
-          {
-            "id": "1-6",
-            "error": "皮之不存，毛之焉附？（应改为“毛将焉附”）",
-            "analysis": "语出《左传〃僖公十四年》：“皮之不存，毛将安傅？”“安”犹“焉”，“傅”同“附”。 意思是：连皮都没有了，毛长到哪儿去呢？比喻事物失去了存在的基础，就不能存在。",
-            "raw": "【例 1-6】皮之不存，毛之焉附？（应改为“毛将焉附”）",
-            "highlighted_words": [
-              "毛之焉附"
-            ]
-          }
-        ]
-      },
-      "理工类": {
-        "entries": [
-          {
-            "id": "2-1",
-            "error": "",
-            "analysis": "违背文学常识。据《西游记》第七回：“我老孙一筋斗去十万八千里。”“十万八千里” 不能随意改变。",
-            "raw": "【例 2-1】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-2",
-            "error": "",
-            "analysis": "违背科学常识。BMI 是评价体重是否适宜的指标，BMI（体重指数）=体重（kg）/身 高 2（m2）。BMI 正常值为 18～24；BMI<18 为消瘦；BMI>24 为超重；BMI≥28 则为肥胖。本例中的 身高值为 178 米，BMI 为 0.001957，明显有误。",
-            "raw": "【例 2-2】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-3",
-            "error": "",
-            "analysis": "科学性差错。人体的细胞液浓度为 0.9%。口腔上皮细胞置于清水中时，细胞液浓度大 于外部液体浓度，细胞会吸水膨胀；置于浓度大于 0.9%的液体中时，细胞液浓度小于外部液体浓度， 细胞会失水皱缩。",
-            "raw": "【例 2-3】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-4",
-            "error": "",
-            "analysis": "数据错误。地球是一个扁球体，其赤道半径为 6378 千米，极半径为 6357 千米，平均 半径为 6371 千米。",
-            "raw": "【例 2-4】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-5",
-            "error": "",
-            "analysis": "定义错误。物理学中的自由度是指完整地描述一个力学系统的运动所需要的独立变量 的个数，通常以 n 表示。由定义可知，自由度是一个数值。",
-            "raw": "【例 2-5】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-6",
-            "error": "",
-            "analysis": "数学概念错误。本例涉及数学中谁比谁短（或长）几分之几、谁是谁的几分之几的问 题。若求“比谁短几分之几”，则公式为（大－小）/大；若求“比谁长几分之几”，则公式为（大－ 小）/小；若求“是谁的几分之几”，则一般为小/大。显然这里按第三种修改最为简单。 二、不一致性差错",
-            "raw": "【例 2-6】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-7",
-            "error": "",
-            "analysis": "图文不符。正文叙述“标注如图 3.50 所示的竖直尺寸”与图 3.50 所示不符，图中标注 的是水平尺寸。另图题“竖直尺寸”也与图示不符。",
-            "raw": "【例 2-7】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-8",
-            "error": "",
-            "analysis": "相同内容前后不一致。前文叙述是“求数据的均值和标准差”，下文举例是“求数据的 均值和方差”，实际程序未涉及标准差。",
-            "raw": "【例 2-8】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-9",
-            "error": "",
-            "analysis": "例题题目与代码不符。例题题目要求修改学生表 student 中的字段，而代码是修改读者 表 reader 中的字段。",
-            "raw": "【例 2-9】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-10",
-            "error": "",
-            "analysis": "执行结果和程序不一致。本例所示的代码清单题目是“Python 元组的常用操作”，下文 执行结果的前四行却是列表操作的结果，与题目不符。",
-            "raw": "【例 2-10】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-11",
-            "error": "",
-            "analysis": "按钮的图标与名称不一致。本例中“水平居中对齐”按钮的图标误为“左对齐”按钮 的图标，“按左分布”按钮的图标误为“按底分布”按钮的图标。正确图标可参见属性栏中所列。",
-            "raw": "【例 2-11】",
-            "highlighted_words": []
-          }
-        ]
-      },
-      "外语类": {
-        "entries": [
-          {
-            "id": "3-1",
-            "error": "In the Qin Dynasty, armored vehicles appeared, which was a four-wheeled vehicle. （应改 为“were four-wheeled vehicles”）",
-            "analysis": "从句中的谓语及宾语应该与先行词 vehicles 保持单复数一致。",
-            "raw": "【例 3-1】In the Qin Dynasty, armored vehicles appeared, which was a four-wheeled vehicle. （应改",
-            "highlighted_words": [
-              "was a four-wheeled vehicle",
-              "four-wheeled vehicle"
-            ]
-          },
-          {
-            "id": "3-2",
-            "error": "A nationwide water transport system were established. （应改为“was”）",
-            "analysis": "句子的谓语应该和主语 a system 保持一致。",
-            "raw": "【例 3-2】A nationwide water transport system were established. （应改为“was”）",
-            "highlighted_words": []
-          },
-          {
-            "id": "3-3",
-            "error": "When Emperor Wu was in the reign of the Han Dynasty, water transportation developed very fast. （应改为“When the Han Dynasty was in the reign of Emperor Wu”）",
-            "analysis": "句子要表达的意思是“在汉武帝统治时期”，原文语序有误。 二、文字差错",
-            "raw": "【例 3-3】When Emperor Wu was in the reign of the Han Dynasty, water transportation developed very",
-            "highlighted_words": [
-              "When Emperor Wu was in the reign of the Han Dynasty"
-            ]
-          },
-          {
-            "id": "3-4",
-            "error": "They acted in an very orderly manner. （应改为“a”）",
-            "analysis": "an 用于发音是元音开头的单词、缩写词、首字母缩略词或字母之前。very 不属于此种 情况。",
-            "raw": "【例 3-4】They acted in an very orderly manner. （应改为“a”）",
-            "highlighted_words": []
-          },
-          {
-            "id": "3-5",
-            "error": "He An built a two-wheeled vehicle, with a guide wheel in front and a follower wheel behind it, forming a new type of four-wheeled vehicle. （应改为“vehicle”）",
-            "analysis": "前后矛盾。前文为两轮车，后文为四轮车。 三、知识性差错",
-            "raw": "【例 3-5】He An built a two-wheeled vehicle, with a guide wheel in front and a follower wheel behind",
-            "highlighted_words": [
-              "two-wheeled vehicle",
-              "four-wheeled vehicle"
-            ]
-          },
-          {
-            "id": "3-6",
-            "error": "In the Spring and Autumn Period, a cart with a capacity of 50 Dan (1 Dan is equal to 103.5 liters) millets was built. （应改为“1 Dan is equal to 50 kg”）",
-            "analysis": "Dan（担）是重量单位，liter（升）是容积单位，两者不宜换算。",
-            "raw": "【例 3-6】In the Spring and Autumn Period, a cart with a capacity of 50 Dan (1 Dan is equal to 103.5",
-            "highlighted_words": [
-              "1 Dan is equal to 103.5",
-              "liters"
-            ]
-          },
-          {
-            "id": "3-7",
-            "error": "In 1980, two large painted chariots were unearthed from the Terra-Cotta Warrior of First Emperor of Qin Mausoleum.（应改为 the Mausoleum of the First Emperor of the Qin Dynasty）",
-            "analysis": "战车应该是从秦始皇陵而不是从兵马俑中挖掘出来的。",
-            "raw": "【例 3-7】In 1980, two large painted chariots were unearthed from the Terra-Cotta Warrior of First",
-            "highlighted_words": [
-              "the Terra-Cotta Warrior of First",
-              "Emperor of Qin Mausoleum"
-            ]
-          }
-        ]
-      },
-      "读者反馈": {
-        "entries": [
-          {
-            "id": "4-1",
-            "error": "“相应比”应为“响应比”，“相应时间”应为“响应时间”。",
-            "analysis": "",
-            "raw": "【例 4-1】“相应比”应为“响应比”，“相应时间”应为“响应时间”。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-2",
-            "error": "“骰于”应为“骰子”。",
-            "analysis": "",
-            "raw": "【例 4-2】“骰于”应为“骰子”。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-3",
-            "error": "“手机”应为“手枪”。",
-            "analysis": "",
-            "raw": "【例 4-3】“手机”应为“手枪”。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-4",
-            "error": "结合上下文，家庭年收入应该是 80000 元。 二、计算差错",
-            "analysis": "",
-            "raw": "【例 4-4】 结合上下文，家庭年收入应该是 80000 元。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-5",
-            "error": "小数部分应当乘以 16 进而取整，而不是乘以 10。",
-            "analysis": "",
-            "raw": "【例 4-5】小数部分应当乘以 16 进而取整，而不是乘以 10。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-6",
-            "error": "计算结果应为 100 000（元）。 三、知识性差错",
-            "analysis": "",
-            "raw": "【例 4-6】计算结果应为 100 000（元）。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-7",
-            "error": "这里“杜曲花光浓似酒”并非杜甫诗句，而是宋代郑文宝的诗句。",
-            "analysis": "",
-            "raw": "【例 4-7】这里“杜曲花光浓似酒”并非杜甫诗句，而是宋代郑文宝的诗句。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-8",
-            "error": "文件引用错误。文中引用内容是关于“提升学校治理水平”的，而不是“提升信息 化水平”的。",
-            "analysis": "",
-            "raw": "【例 4-8】文件引用错误。文中引用内容是关于“提升学校治理水平”的，而不是“提升信息",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-9",
-            "error": "文中介绍的是批发商的优势，图中“零售商”（标红处）错误，应改为“批发商”。",
-            "analysis": "",
-            "raw": "【例 4-9】文中介绍的是批发商的优势，图中“零售商”（标红处）错误，应改为“批发商”。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-10",
-            "error": "图中将内存容量和存储容量混淆。",
-            "analysis": "计算机的内存容量（memory capacity）通常是指随机存储器(RAM)的容量，存储容量 （storage capacity）是指计算机存储设备中能保存的总信息量。通常，存储容量远大于内存容量。 四、程序错误",
-            "raw": "【例 4-10】图中将内存容量和存储容量混淆。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-11",
-            "error": "根据判断条件，代码 02 语句中的 year%100==0 应为 year%400==0。",
-            "analysis": "",
-            "raw": "【例 4-11】根据判断条件，代码 02 语句中的 year%100==0 应为 year%400==0。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-12",
-            "error": "执行结果中，“组合后”的字符“土耳其”应为“巴西”。 五、图表差错",
-            "analysis": "",
-            "raw": "【例 4-12】执行结果中，“组合后”的字符“土耳其”应为“巴西”。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-13",
-            "error": "表文不一致，文中提到 5 个要求，表中只列出了 4 个。",
-            "analysis": "",
-            "raw": "【例 4-13】表文不一致，文中提到 5 个要求，表中只列出了 4 个。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-14",
-            "error": "图文不对应。",
-            "analysis": "",
-            "raw": "【例 4-14】图文不对应。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-15",
-            "error": "表中数据有误，应为 350 万美元。",
-            "analysis": "",
-            "raw": "【例 4-15】表中数据有误，应为 350 万美元。",
             "highlighted_words": []
           }
         ]
@@ -1853,6 +1853,352 @@
   },
   {
     "year": "2023",
+    "quarter": "Q2",
+    "sections": {
+      "文科类": {
+        "entries": [
+          {
+            "id": "1-1",
+            "error": "当今世界正经历百年未有之大变局，中国特色社会主义进入新时代，人民对美好生 活的需要与不平衡不充分的发展之间的矛盾成为我国社会的主要矛盾。（应改为“人民日益增长的美 好生活需要和不平衡不充分的发展之间的矛盾”）",
+            "analysis": "党的十九大报告指出：‚中国特色社会主义进入新时代，我国社会主要矛盾已经转化为 人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾。‛政治用语务必规范、准确，不可 随意更改。",
+            "raw": "【例 1-1】当今世界正经历百年未有之大变局，中国特色社会主义进入新时代，人民对美好生",
+            "highlighted_words": [
+              "人民对美好生",
+              "活的需要与不平衡不充分的发展之间的矛盾"
+            ]
+          },
+          {
+            "id": "1-2",
+            "error": "2013 年 9 月，习近平总书记访问德国，会见德国总理默克尔时，借用物理学“牛顿 力学三定律”来阐述中德关系。（应改为“习近平主席出席 G20 圣彼得堡峰会”）",
+            "analysis": "据新华社报道，国家主席习近平 2013 年 9 月 4 日抵达俄罗斯圣彼得堡出席二十国集团 (G20)峰会。9 月 6 日，习近平在圣彼得堡会见德国总理默克尔时表示：‚总理女士是物理学博士，我 由‘牛顿力学三定律’联想到如何更好推动中德关系发展。‛",
+            "raw": "【例 1-2】2013 年 9 月，习近平总书记访问德国，会见德国总理默克尔时，借用物理学“牛顿",
+            "highlighted_words": [
+              "习近平总书记访问德国"
+            ]
+          },
+          {
+            "id": "1-3",
+            "error": "为了强化研究的科学性，作者又作了大面积的问卷调查，调查对象为 1797 名来自全 国近三十个省、市、自治区的正校长。（应改为“省、区、市”）",
+            "analysis": "根据我国宪法和法律中的表述，‚省、自治区、直辖市‛为固定排序，即‚省‛在前， ‚自治区‛次之，‚直辖市‛再次之。‚省、自治区、直辖市‛可简化为‚省、区、市‛或‚省区市‛； 也可写为‚省（自治区、直辖市）‛，简化为‚省（区、市）‛。 二、词语使用错误",
+            "raw": "【例 1-3】为了强化研究的科学性，作者又作了大面积的问卷调查，调查对象为 1797 名来自全",
+            "highlighted_words": [
+              "省、市、自治区"
+            ]
+          },
+          {
+            "id": "1-4",
+            "error": "美国“次贷危机”引发的全球性经济萧条，经过十多年的洗礼并未完全得到治愈。（可 改为“缓冲”）",
+            "analysis": "‚洗礼‛表示洗净过去的罪恶，或比喻重大斗争的锻炼和考验，含褒义，用在此处不合 适，可改为‚缓冲‛。",
+            "raw": "【例 1-4】美国“次贷危机”引发的全球性经济萧条，经过十多年的洗礼并未完全得到治愈。（可",
+            "highlighted_words": [
+              "洗礼"
+            ]
+          },
+          {
+            "id": "1-5",
+            "error": "对月球探索的真正的奔月行程是从 20 世纪中旬的美苏太空竞赛开始的。（可改为“中 叶”或“中期”）",
+            "analysis": "‚中旬‛指每月十一日到二十日的十天。‚中叶‛指（一个世纪或一个朝代）中间一段 时期。‚中期‛可指某一时期的中间阶段。 三、表意重复",
+            "raw": "【例 1-5】对月球探索的真正的奔月行程是从 20 世纪中旬的美苏太空竞赛开始的。（可改为“中",
+            "highlighted_words": [
+              "中旬"
+            ]
+          },
+          {
+            "id": "1-6",
+            "error": "笔者调查发现，这方面校长普遍较为薄弱，当然也不乏许多本身就是教学理论家的 卓越校长。（应删“许多”）",
+            "analysis": "‚不乏‛指不缺少，表示有相当数量。‚许多‛与其意思重复，应删除。",
+            "raw": "【例 1-6】笔者调查发现，这方面校长普遍较为薄弱，当然也不乏许多本身就是教学理论家的",
+            "highlighted_words": [
+              "不乏许多"
+            ]
+          },
+          {
+            "id": "1-7",
+            "error": "很快，通过邮箱分享 PPT 的弊端显露出来，团队很难及时收到会员的阅读反馈，甚 至出现邮件因疑似涉嫌垃圾邮件而被退的情况。（应删“涉嫌”）",
+            "analysis": "‚疑似‛指怀疑是而不确定。‚涉嫌‛指有跟某件事情有关的嫌疑，语义与‚疑似‛ 重复，应删除。",
+            "raw": "【例 1-7】很快，通过邮箱分享 PPT 的弊端显露出来，团队很难及时收到会员的阅读反馈，甚",
+            "highlighted_words": [
+              "疑似涉嫌"
+            ]
+          },
+          {
+            "id": "1-8",
+            "error": "此研究表明还得出了媒体监督与财务绩效之间呈现出一定程度的倒 U 型关系。（应删 “还得出了”）",
+            "analysis": "‚表明‛和‚得出了‛语义重复。",
+            "raw": "【例 1-8】此研究表明还得出了媒体监督与财务绩效之间呈现出一定程度的倒 U 型关系。（应删",
+            "highlighted_words": [
+              "表明还得出了"
+            ]
+          },
+          {
+            "id": "1-9",
+            "error": "焦点咨询提出，建立品牌的两把利器依旧还是公关和广告，但是其运用方法要讲究 科学思想指导。（“依旧”“还”应删其一）",
+            "analysis": "‚依旧‛和‚还‛语义重复。",
+            "raw": "【例 1-9】焦点咨询提出，建立品牌的两把利器依旧还是公关和广告，但是其运用方法要讲究",
+            "highlighted_words": [
+              "依旧还"
+            ]
+          }
+        ]
+      },
+      "理工类": {
+        "entries": [
+          {
+            "id": "2-1",
+            "error": "",
+            "analysis": "外国人名错误。提出蝴蝶效应的是美国气象学家洛伦茨（Edward Norton Lorenz， 1917—2008），他主要研究大气环流和天气预报。容易混淆的科学家有：①美国统计学家洛伦茨（Max Otto Lorenz，1876—1959），提出了西方经济学用以表示社会收入或财产分配不平均程度的‚洛伦茨 曲线‛；②荷兰物理学家洛伦兹（Hendrik Antoon Lorentz，1853—1928），创立了经典电子论，对经 典电磁理论有重要贡献；③丹麦物理学家洛伦茨（Ludvig Valentin Lorenz，1829—1891），主要从事 光学和电磁学的理论研究，首次提出‚洛伦茨规范‛。",
+            "raw": "【例 2-1】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-2",
+            "error": "",
+            "analysis": "化学名词错误。可见分光光度法是根据物质分子对可见光的选择性吸收特性而建立的 一种分析方法。它是分光光度法的一种，所用的光谱区域为 400~780nm。",
+            "raw": "【例 2-2】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-3",
+            "error": "",
+            "analysis": "机构名称使用不规范。CDC 是疾病控制与预防中心（Centers for Disease Control and Prevention）的英文缩写。在使用外国机构名称时，不可将中英文名称糅合；如需要使用英文缩写， 应在首次出现时注明中文名称。 二、计算与解题错误",
+            "raw": "【例 2-3】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-4",
+            "error": "",
+            "analysis": "公式推导错误，多了等于号。",
+            "raw": "【例 2-4】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-5",
+            "error": "",
+            "analysis": "计算错误，90+50≠130。",
+            "raw": "【例 2-5】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-6",
+            "error": "",
+            "analysis": "计算式中的数据与题目中的不匹配。",
+            "raw": "【例 2-6】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-7",
+            "error": "",
+            "analysis": "题目设计错误，题目中所列的 5 个式子并不全是方程，不能写成‚下列方程‛。 三、单位错误",
+            "raw": "【例 2-7】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-8",
+            "error": "",
+            "analysis": "发电量是计算电能生产数量的指标，单位为千瓦·时（kW·h）。1 kW·h=3.6MJ。",
+            "raw": "【例 2-8】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-9",
+            "error": "",
+            "analysis": "单位的中文符号和单位名称杂糅。声强的单位符号为 W/m2，中文符号为瓦/米 2，单位 名称为瓦每平方米。本例中用单位符号 W/m2 表示即可。",
+            "raw": "【例 2-9】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-10",
+            "error": "",
+            "analysis": "SI 词头错误。词头用于构成倍数单位（十进倍数单位与分数单位），词头符号与所紧接 的单位符号作为一个整体对待。本例中的词头符号 μ 是希文，非英文 u。 《量和单位》（GB 3100—93）中列出了 20 个 SI 词头。2022 年 11 月，第 27 届国际计量大会通 过决议，引入 4 个 SI 新词头 ronna、ronto、quetta、quecto，对应的中文名称为容[那]、柔[托]、昆[它]、 亏[科托]，符号为 R、r、Q、q，分别表示 1027、10－27、1030、10－30。",
+            "raw": "【例 2-10】",
+            "highlighted_words": []
+          }
+        ]
+      },
+      "外语类": {
+        "entries": [
+          {
+            "id": "3-1",
+            "error": "The Air conditioner in the Room 203 fails to start sometimes. （应删除 the）",
+            "analysis": "Room 203 已经特指一个专门的房间，在此情况下，不需要加定冠词 the。",
+            "raw": "【例 3-1】The Air conditioner in the Room 203 fails to start sometimes. （应删除 the）",
+            "highlighted_words": []
+          },
+          {
+            "id": "3-2",
+            "error": "I cupped my face in my hands, tears rolling down my cheek. （应改为 cheeks）",
+            "analysis": "cheek 是可数名词，文中 cheek 应指‚两颊‛，所以用复数形式。 二、文字差错",
+            "raw": "【例 3-2】I cupped my face in my hands, tears rolling down my cheek. （应改为 cheeks）",
+            "highlighted_words": [
+              "cheek"
+            ]
+          },
+          {
+            "id": "3-3",
+            "error": "When you think of staying safe in your home, you probably think of making sure the doors and windows are locked, so nobody can get him. （应改为 in）",
+            "analysis": "此段文字为听力文本。结合上下文内容，him 应改为 in。",
+            "raw": "【例 3-3】When you think of staying safe in your home, you probably think of making sure the doors",
+            "highlighted_words": []
+          },
+          {
+            "id": "3-4",
+            "error": " 误                                正 高母羡（Juan Cob）                    高母羡（Juan Cobo） 殷铎泽（Prosper Intor Cetta）          殷铎泽（Prosper Intorcetta） 卫方泽                              卫方济 理雅各（James Ledge）                 理雅各（James Legge） Rosemont Henry Jr.               Henry Rosemont Jr. 玉素甫·哈斯·哈吉甫                        尤素甫·哈斯·哈吉甫 Tereasa May                      Theresa May",
+            "analysis": "人名属于专有名词，要特别注意拼写、翻译等的正确性。存疑时，可参考《辞海》《中 国大百科全书》《英语姓名译名手册》等工具书。",
+            "raw": "【例 3-4】",
+            "highlighted_words": []
+          },
+          {
+            "id": "3-5",
+            "error": "To be followed are service, environment, and price, with the percentages of 26.8%, 23.8%, 8.4% and 4.7% respectively. （应删除 and 4.7%）",
+            "analysis": "句中 26.8%、23.8%、8.4%、4.7%与 service、environment、price 不对应，根据所检图书 中提供的图片确定 4.7%属于多余信息，应删除。 三、翻译错误",
+            "raw": "【例 3-5】To be followed are service, environment, and price, with the percentages of 26.8%, 23.8%,",
+            "highlighted_words": [
+              "and 4.7%"
+            ]
+          },
+          {
+            "id": "3-6",
+            "error": "原文：Words cannot express how sorry I am that you have such a difficult time. 译文：我如何度过这段艰难的日子是无法用言语来表达的。（译文应改为“言语无法表达我对 你经历的这段艰难时光的同情。”）",
+            "analysis": "原文表达的是‚我‛对朋友的同情。译文与原文不符。",
+            "raw": "【例 3-6】原文：Words cannot express how sorry I am that you have such a difficult time.",
+            "highlighted_words": []
+          }
+        ]
+      },
+      "读者反馈": {
+        "entries": [
+          {
+            "id": "4-1",
+            "error": "昭通、镇雄隶属云南省。",
+            "analysis": "",
+            "raw": "【例 4-1】昭通、镇雄隶属云南省。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-2",
+            "error": "瑞典的官方语言为瑞典语，此处应指瑞士。",
+            "analysis": "",
+            "raw": "【例 4-2】瑞典的官方语言为瑞典语，此处应指瑞士。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-3",
+            "error": "需求层次理论的提出者是马斯洛，不是马洛斯。",
+            "analysis": "",
+            "raw": "【例 4-3】需求层次理论的提出者是马斯洛，不是马洛斯。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-4",
+            "error": "此处 USB 应改为 UPS (Uninterruptible Power Supply，不间断电源)。",
+            "analysis": "",
+            "raw": "【例 4-4】 此处 USB 应改为 UPS (Uninterruptible Power Supply，不间断电源)。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-5",
+            "error": "机身高度数据有误，应该是 4.95 米。 二、计算差错",
+            "analysis": "",
+            "raw": "【例 4-5】机身高度数据有误，应该是 4.95 米。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-6",
+            "error": "按照运算规则，从右往左第 3 位是两个 1 进行“或”运算，结果应该为 1。",
+            "analysis": "",
+            "raw": "【例 4-6】按照运算规则，从右往左第 3 位是两个 1 进行“或”运算，结果应该为 1。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-7",
+            "error": "按照运算规则，0 和 1 进行“与”运算，结果应该为 0。",
+            "analysis": "",
+            "raw": "【例 4-7】按照运算规则，0 和 1 进行“与”运算，结果应该为 0。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-8",
+            "error": "答案写反了。（“与”运算规则是两个数位均为 1，结果为 1，否则为 0；“异或”运算 规则是两个数位相同为 0，不同为 1。）",
+            "analysis": "",
+            "raw": "【例 4-8】答案写反了。（“与”运算规则是两个数位均为 1，结果为 1，否则为 0；“异或”运算",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-9",
+            "error": "二进制数 00000111 转换成十进制数是 7，不是 9。 三、选项重复错误",
+            "analysis": "",
+            "raw": "【例 4-9】二进制数 00000111 转换成十进制数是 7，不是 9。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-10",
+            "error": "A 和 C 选项内容重复。",
+            "analysis": "",
+            "raw": "【例 4-10】A 和 C 选项内容重复。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-11",
+            "error": "A 和 D 选项内容重复。 四、文字差错",
+            "analysis": "",
+            "raw": "【例 4-11】A 和 D 选项内容重复。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-12",
+            "error": "量为多音字，其与“重”组成词语“重量”时，应读 liànɡ。",
+            "analysis": "",
+            "raw": "【例 4-12】量为多音字，其与“重”组成词语“重量”时，应读 liànɡ。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-13",
+            "error": "漏字，应为《中华人民共和国民法典》。",
+            "analysis": "",
+            "raw": "【例 4-13】漏字，应为《中华人民共和国民法典》。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-14",
+            "error": "单词拼写错误，interfasce 应为 interface。",
+            "analysis": "",
+            "raw": "【例 4-14】单词拼写错误，interfasce 应为 interface。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-15",
+            "error": "“掠读”应为“略读”。",
+            "analysis": "",
+            "raw": "【例 4-15】“掠读”应为“略读”。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-16",
+            "error": "“标谱”应为“标普”。",
+            "analysis": "",
+            "raw": "【例 4-16】“标谱”应为“标普”。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-17",
+            "error": "“较验层”应为“校验层”。",
+            "analysis": "",
+            "raw": "【例 4-17】“较验层”应为“校验层”。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-18",
+            "error": "多字，应删除“的”。",
+            "analysis": "",
+            "raw": "【例 4-18】多字，应删除“的”。",
+            "highlighted_words": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "year": "2023",
     "quarter": "Q3",
     "sections": {
       "文科类": {
@@ -2282,352 +2628,6 @@
             "error": "有两个“（4）”，后一个“（4）”应改为“（5）”。",
             "analysis": "",
             "raw": "【例 4-20】有两个“（4）”，后一个“（4）”应改为“（5）”。",
-            "highlighted_words": []
-          }
-        ]
-      }
-    }
-  },
-  {
-    "year": "2023",
-    "quarter": "Q2",
-    "sections": {
-      "文科类": {
-        "entries": [
-          {
-            "id": "1-1",
-            "error": "当今世界正经历百年未有之大变局，中国特色社会主义进入新时代，人民对美好生 活的需要与不平衡不充分的发展之间的矛盾成为我国社会的主要矛盾。（应改为“人民日益增长的美 好生活需要和不平衡不充分的发展之间的矛盾”）",
-            "analysis": "党的十九大报告指出：‚中国特色社会主义进入新时代，我国社会主要矛盾已经转化为 人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾。‛政治用语务必规范、准确，不可 随意更改。",
-            "raw": "【例 1-1】当今世界正经历百年未有之大变局，中国特色社会主义进入新时代，人民对美好生",
-            "highlighted_words": [
-              "人民对美好生",
-              "活的需要与不平衡不充分的发展之间的矛盾"
-            ]
-          },
-          {
-            "id": "1-2",
-            "error": "2013 年 9 月，习近平总书记访问德国，会见德国总理默克尔时，借用物理学“牛顿 力学三定律”来阐述中德关系。（应改为“习近平主席出席 G20 圣彼得堡峰会”）",
-            "analysis": "据新华社报道，国家主席习近平 2013 年 9 月 4 日抵达俄罗斯圣彼得堡出席二十国集团 (G20)峰会。9 月 6 日，习近平在圣彼得堡会见德国总理默克尔时表示：‚总理女士是物理学博士，我 由‘牛顿力学三定律’联想到如何更好推动中德关系发展。‛",
-            "raw": "【例 1-2】2013 年 9 月，习近平总书记访问德国，会见德国总理默克尔时，借用物理学“牛顿",
-            "highlighted_words": [
-              "习近平总书记访问德国"
-            ]
-          },
-          {
-            "id": "1-3",
-            "error": "为了强化研究的科学性，作者又作了大面积的问卷调查，调查对象为 1797 名来自全 国近三十个省、市、自治区的正校长。（应改为“省、区、市”）",
-            "analysis": "根据我国宪法和法律中的表述，‚省、自治区、直辖市‛为固定排序，即‚省‛在前， ‚自治区‛次之，‚直辖市‛再次之。‚省、自治区、直辖市‛可简化为‚省、区、市‛或‚省区市‛； 也可写为‚省（自治区、直辖市）‛，简化为‚省（区、市）‛。 二、词语使用错误",
-            "raw": "【例 1-3】为了强化研究的科学性，作者又作了大面积的问卷调查，调查对象为 1797 名来自全",
-            "highlighted_words": [
-              "省、市、自治区"
-            ]
-          },
-          {
-            "id": "1-4",
-            "error": "美国“次贷危机”引发的全球性经济萧条，经过十多年的洗礼并未完全得到治愈。（可 改为“缓冲”）",
-            "analysis": "‚洗礼‛表示洗净过去的罪恶，或比喻重大斗争的锻炼和考验，含褒义，用在此处不合 适，可改为‚缓冲‛。",
-            "raw": "【例 1-4】美国“次贷危机”引发的全球性经济萧条，经过十多年的洗礼并未完全得到治愈。（可",
-            "highlighted_words": [
-              "洗礼"
-            ]
-          },
-          {
-            "id": "1-5",
-            "error": "对月球探索的真正的奔月行程是从 20 世纪中旬的美苏太空竞赛开始的。（可改为“中 叶”或“中期”）",
-            "analysis": "‚中旬‛指每月十一日到二十日的十天。‚中叶‛指（一个世纪或一个朝代）中间一段 时期。‚中期‛可指某一时期的中间阶段。 三、表意重复",
-            "raw": "【例 1-5】对月球探索的真正的奔月行程是从 20 世纪中旬的美苏太空竞赛开始的。（可改为“中",
-            "highlighted_words": [
-              "中旬"
-            ]
-          },
-          {
-            "id": "1-6",
-            "error": "笔者调查发现，这方面校长普遍较为薄弱，当然也不乏许多本身就是教学理论家的 卓越校长。（应删“许多”）",
-            "analysis": "‚不乏‛指不缺少，表示有相当数量。‚许多‛与其意思重复，应删除。",
-            "raw": "【例 1-6】笔者调查发现，这方面校长普遍较为薄弱，当然也不乏许多本身就是教学理论家的",
-            "highlighted_words": [
-              "不乏许多"
-            ]
-          },
-          {
-            "id": "1-7",
-            "error": "很快，通过邮箱分享 PPT 的弊端显露出来，团队很难及时收到会员的阅读反馈，甚 至出现邮件因疑似涉嫌垃圾邮件而被退的情况。（应删“涉嫌”）",
-            "analysis": "‚疑似‛指怀疑是而不确定。‚涉嫌‛指有跟某件事情有关的嫌疑，语义与‚疑似‛ 重复，应删除。",
-            "raw": "【例 1-7】很快，通过邮箱分享 PPT 的弊端显露出来，团队很难及时收到会员的阅读反馈，甚",
-            "highlighted_words": [
-              "疑似涉嫌"
-            ]
-          },
-          {
-            "id": "1-8",
-            "error": "此研究表明还得出了媒体监督与财务绩效之间呈现出一定程度的倒 U 型关系。（应删 “还得出了”）",
-            "analysis": "‚表明‛和‚得出了‛语义重复。",
-            "raw": "【例 1-8】此研究表明还得出了媒体监督与财务绩效之间呈现出一定程度的倒 U 型关系。（应删",
-            "highlighted_words": [
-              "表明还得出了"
-            ]
-          },
-          {
-            "id": "1-9",
-            "error": "焦点咨询提出，建立品牌的两把利器依旧还是公关和广告，但是其运用方法要讲究 科学思想指导。（“依旧”“还”应删其一）",
-            "analysis": "‚依旧‛和‚还‛语义重复。",
-            "raw": "【例 1-9】焦点咨询提出，建立品牌的两把利器依旧还是公关和广告，但是其运用方法要讲究",
-            "highlighted_words": [
-              "依旧还"
-            ]
-          }
-        ]
-      },
-      "理工类": {
-        "entries": [
-          {
-            "id": "2-1",
-            "error": "",
-            "analysis": "外国人名错误。提出蝴蝶效应的是美国气象学家洛伦茨（Edward Norton Lorenz， 1917—2008），他主要研究大气环流和天气预报。容易混淆的科学家有：①美国统计学家洛伦茨（Max Otto Lorenz，1876—1959），提出了西方经济学用以表示社会收入或财产分配不平均程度的‚洛伦茨 曲线‛；②荷兰物理学家洛伦兹（Hendrik Antoon Lorentz，1853—1928），创立了经典电子论，对经 典电磁理论有重要贡献；③丹麦物理学家洛伦茨（Ludvig Valentin Lorenz，1829—1891），主要从事 光学和电磁学的理论研究，首次提出‚洛伦茨规范‛。",
-            "raw": "【例 2-1】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-2",
-            "error": "",
-            "analysis": "化学名词错误。可见分光光度法是根据物质分子对可见光的选择性吸收特性而建立的 一种分析方法。它是分光光度法的一种，所用的光谱区域为 400~780nm。",
-            "raw": "【例 2-2】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-3",
-            "error": "",
-            "analysis": "机构名称使用不规范。CDC 是疾病控制与预防中心（Centers for Disease Control and Prevention）的英文缩写。在使用外国机构名称时，不可将中英文名称糅合；如需要使用英文缩写， 应在首次出现时注明中文名称。 二、计算与解题错误",
-            "raw": "【例 2-3】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-4",
-            "error": "",
-            "analysis": "公式推导错误，多了等于号。",
-            "raw": "【例 2-4】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-5",
-            "error": "",
-            "analysis": "计算错误，90+50≠130。",
-            "raw": "【例 2-5】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-6",
-            "error": "",
-            "analysis": "计算式中的数据与题目中的不匹配。",
-            "raw": "【例 2-6】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-7",
-            "error": "",
-            "analysis": "题目设计错误，题目中所列的 5 个式子并不全是方程，不能写成‚下列方程‛。 三、单位错误",
-            "raw": "【例 2-7】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-8",
-            "error": "",
-            "analysis": "发电量是计算电能生产数量的指标，单位为千瓦·时（kW·h）。1 kW·h=3.6MJ。",
-            "raw": "【例 2-8】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-9",
-            "error": "",
-            "analysis": "单位的中文符号和单位名称杂糅。声强的单位符号为 W/m2，中文符号为瓦/米 2，单位 名称为瓦每平方米。本例中用单位符号 W/m2 表示即可。",
-            "raw": "【例 2-9】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-10",
-            "error": "",
-            "analysis": "SI 词头错误。词头用于构成倍数单位（十进倍数单位与分数单位），词头符号与所紧接 的单位符号作为一个整体对待。本例中的词头符号 μ 是希文，非英文 u。 《量和单位》（GB 3100—93）中列出了 20 个 SI 词头。2022 年 11 月，第 27 届国际计量大会通 过决议，引入 4 个 SI 新词头 ronna、ronto、quetta、quecto，对应的中文名称为容[那]、柔[托]、昆[它]、 亏[科托]，符号为 R、r、Q、q，分别表示 1027、10－27、1030、10－30。",
-            "raw": "【例 2-10】",
-            "highlighted_words": []
-          }
-        ]
-      },
-      "外语类": {
-        "entries": [
-          {
-            "id": "3-1",
-            "error": "The Air conditioner in the Room 203 fails to start sometimes. （应删除 the）",
-            "analysis": "Room 203 已经特指一个专门的房间，在此情况下，不需要加定冠词 the。",
-            "raw": "【例 3-1】The Air conditioner in the Room 203 fails to start sometimes. （应删除 the）",
-            "highlighted_words": []
-          },
-          {
-            "id": "3-2",
-            "error": "I cupped my face in my hands, tears rolling down my cheek. （应改为 cheeks）",
-            "analysis": "cheek 是可数名词，文中 cheek 应指‚两颊‛，所以用复数形式。 二、文字差错",
-            "raw": "【例 3-2】I cupped my face in my hands, tears rolling down my cheek. （应改为 cheeks）",
-            "highlighted_words": [
-              "cheek"
-            ]
-          },
-          {
-            "id": "3-3",
-            "error": "When you think of staying safe in your home, you probably think of making sure the doors and windows are locked, so nobody can get him. （应改为 in）",
-            "analysis": "此段文字为听力文本。结合上下文内容，him 应改为 in。",
-            "raw": "【例 3-3】When you think of staying safe in your home, you probably think of making sure the doors",
-            "highlighted_words": []
-          },
-          {
-            "id": "3-4",
-            "error": " 误                                正 高母羡（Juan Cob）                    高母羡（Juan Cobo） 殷铎泽（Prosper Intor Cetta）          殷铎泽（Prosper Intorcetta） 卫方泽                              卫方济 理雅各（James Ledge）                 理雅各（James Legge） Rosemont Henry Jr.               Henry Rosemont Jr. 玉素甫·哈斯·哈吉甫                        尤素甫·哈斯·哈吉甫 Tereasa May                      Theresa May",
-            "analysis": "人名属于专有名词，要特别注意拼写、翻译等的正确性。存疑时，可参考《辞海》《中 国大百科全书》《英语姓名译名手册》等工具书。",
-            "raw": "【例 3-4】",
-            "highlighted_words": []
-          },
-          {
-            "id": "3-5",
-            "error": "To be followed are service, environment, and price, with the percentages of 26.8%, 23.8%, 8.4% and 4.7% respectively. （应删除 and 4.7%）",
-            "analysis": "句中 26.8%、23.8%、8.4%、4.7%与 service、environment、price 不对应，根据所检图书 中提供的图片确定 4.7%属于多余信息，应删除。 三、翻译错误",
-            "raw": "【例 3-5】To be followed are service, environment, and price, with the percentages of 26.8%, 23.8%,",
-            "highlighted_words": [
-              "and 4.7%"
-            ]
-          },
-          {
-            "id": "3-6",
-            "error": "原文：Words cannot express how sorry I am that you have such a difficult time. 译文：我如何度过这段艰难的日子是无法用言语来表达的。（译文应改为“言语无法表达我对 你经历的这段艰难时光的同情。”）",
-            "analysis": "原文表达的是‚我‛对朋友的同情。译文与原文不符。",
-            "raw": "【例 3-6】原文：Words cannot express how sorry I am that you have such a difficult time.",
-            "highlighted_words": []
-          }
-        ]
-      },
-      "读者反馈": {
-        "entries": [
-          {
-            "id": "4-1",
-            "error": "昭通、镇雄隶属云南省。",
-            "analysis": "",
-            "raw": "【例 4-1】昭通、镇雄隶属云南省。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-2",
-            "error": "瑞典的官方语言为瑞典语，此处应指瑞士。",
-            "analysis": "",
-            "raw": "【例 4-2】瑞典的官方语言为瑞典语，此处应指瑞士。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-3",
-            "error": "需求层次理论的提出者是马斯洛，不是马洛斯。",
-            "analysis": "",
-            "raw": "【例 4-3】需求层次理论的提出者是马斯洛，不是马洛斯。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-4",
-            "error": "此处 USB 应改为 UPS (Uninterruptible Power Supply，不间断电源)。",
-            "analysis": "",
-            "raw": "【例 4-4】 此处 USB 应改为 UPS (Uninterruptible Power Supply，不间断电源)。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-5",
-            "error": "机身高度数据有误，应该是 4.95 米。 二、计算差错",
-            "analysis": "",
-            "raw": "【例 4-5】机身高度数据有误，应该是 4.95 米。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-6",
-            "error": "按照运算规则，从右往左第 3 位是两个 1 进行“或”运算，结果应该为 1。",
-            "analysis": "",
-            "raw": "【例 4-6】按照运算规则，从右往左第 3 位是两个 1 进行“或”运算，结果应该为 1。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-7",
-            "error": "按照运算规则，0 和 1 进行“与”运算，结果应该为 0。",
-            "analysis": "",
-            "raw": "【例 4-7】按照运算规则，0 和 1 进行“与”运算，结果应该为 0。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-8",
-            "error": "答案写反了。（“与”运算规则是两个数位均为 1，结果为 1，否则为 0；“异或”运算 规则是两个数位相同为 0，不同为 1。）",
-            "analysis": "",
-            "raw": "【例 4-8】答案写反了。（“与”运算规则是两个数位均为 1，结果为 1，否则为 0；“异或”运算",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-9",
-            "error": "二进制数 00000111 转换成十进制数是 7，不是 9。 三、选项重复错误",
-            "analysis": "",
-            "raw": "【例 4-9】二进制数 00000111 转换成十进制数是 7，不是 9。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-10",
-            "error": "A 和 C 选项内容重复。",
-            "analysis": "",
-            "raw": "【例 4-10】A 和 C 选项内容重复。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-11",
-            "error": "A 和 D 选项内容重复。 四、文字差错",
-            "analysis": "",
-            "raw": "【例 4-11】A 和 D 选项内容重复。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-12",
-            "error": "量为多音字，其与“重”组成词语“重量”时，应读 liànɡ。",
-            "analysis": "",
-            "raw": "【例 4-12】量为多音字，其与“重”组成词语“重量”时，应读 liànɡ。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-13",
-            "error": "漏字，应为《中华人民共和国民法典》。",
-            "analysis": "",
-            "raw": "【例 4-13】漏字，应为《中华人民共和国民法典》。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-14",
-            "error": "单词拼写错误，interfasce 应为 interface。",
-            "analysis": "",
-            "raw": "【例 4-14】单词拼写错误，interfasce 应为 interface。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-15",
-            "error": "“掠读”应为“略读”。",
-            "analysis": "",
-            "raw": "【例 4-15】“掠读”应为“略读”。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-16",
-            "error": "“标谱”应为“标普”。",
-            "analysis": "",
-            "raw": "【例 4-16】“标谱”应为“标普”。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-17",
-            "error": "“较验层”应为“校验层”。",
-            "analysis": "",
-            "raw": "【例 4-17】“较验层”应为“校验层”。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-18",
-            "error": "多字，应删除“的”。",
-            "analysis": "",
-            "raw": "【例 4-18】多字，应删除“的”。",
             "highlighted_words": []
           }
         ]
@@ -3466,6 +3466,351 @@
   },
   {
     "year": "2024",
+    "quarter": "Q2",
+    "sections": {
+      "文科类": {
+        "entries": [
+          {
+            "id": "1-1",
+            "error": "中国位于亚洲东部、太平洋西岸，是世界第三大国家。（应改为“世界国土面积第三 大国家”）",
+            "analysis": "中国陆地面积约 960 万平方千米，东部和南部大陆海岸线 1.8 万多千米，海域总面积 约 473 万平方千米，国土面积居世界第三位。",
+            "raw": "【例 1-1】中国位于亚洲东部、太平洋西岸，是世界第三大国家。（应改为“世界国土面积第三",
+            "highlighted_words": [
+              "世界第三大国家"
+            ]
+          },
+          {
+            "id": "1-2",
+            "error": "台湾久为原住民聚居之地，虽然宋、元、明曾在此有不同形式的行政建置，17 世纪 又曾有荷兰人、西班牙人等殖民开垦，但总体上未改变原住民散布全岛的原始面貌。（应改为“少数 民族”）",
+            "analysis": "台湾少数民族不称“原住民”，涉及两岸少数民族交流时，可统称为台湾少数民族或称 具体的名称（如“阿美人”），在国家正式文件中仍称为“高山族”。",
+            "raw": "【例 1-2】台湾久为原住民聚居之地，虽然宋、元、明曾在此有不同形式的行政建置，17 世纪",
+            "highlighted_words": [
+              "原住民"
+            ]
+          },
+          {
+            "id": "1-3",
+            "error": "当时的政府无力改变中国“亡国灭种”的民族危机，民族矛盾和阶级矛盾始终是这 一时期的主要矛盾，中国半封建半殖民的社会性质没有改变。（应改为“半殖民地半封建”）",
+            "analysis": "半殖民地半封建社会，作为社会形态（或者社会性质），是马克思主义的概念，中国共 产党将近代中国的社会性质总概括为“半殖民地半封建社会”。 二、乱改成语 国家有关法律法规明确规定，出版物中不得随意更换成语中的文字、变动成语结构或曲解成语 内涵，不得在成语中随意插入网络语言或外国语言文字，不得随意窜改、乱用成语，不得使用或介 绍根据网络语言、仿照成语形式生造的词语。",
+            "raw": "【例 1-3】当时的政府无力改变中国“亡国灭种”的民族危机，民族矛盾和阶级矛盾始终是这",
+            "highlighted_words": [
+              "半封建半殖民"
+            ]
+          },
+          {
+            "id": "1-4",
+            "error": "一篇影评写作，在理想化的状态下，应该呈现出观点、信息和判断，在作者余勇可 佳的情况下，还可以行文得体，耐人寻味。（应改为“余勇可贾”）",
+            "analysis": "“余勇可贾”表示还有剩余力量可以使出来。",
+            "raw": "【例 1-4】一篇影评写作，在理想化的状态下，应该呈现出观点、信息和判断，在作者余勇可",
+            "highlighted_words": [
+              "余勇可"
+            ]
+          },
+          {
+            "id": "1-5",
+            "error": "法律是成文的良知，道德是约定成俗的良知。（应改为“约定俗成”）",
+            "analysis": "“约定俗成”指某种事物的名称或社会习惯是由人们经过长期实践而认定或形成的。",
+            "raw": "【例 1-5】法律是成文的良知，道德是约定成俗的良知。（应改为“约定俗成”）",
+            "highlighted_words": [
+              "约定成俗"
+            ]
+          },
+          {
+            "id": "1-6",
+            "error": "到了 20 世纪 30 年代中后期，由于国内抗日战争和经济建设的影响，职业教育思潮 几乎消失匿迹，生产教育思潮演进为民生教育思潮，而“生产教育”几乎替代了“职业教育”。（应 改为“销声匿迹”）",
+            "analysis": "“销声匿迹”形容隐藏起来或不公开出现。",
+            "raw": "【例 1-6】到了 20 世纪 30 年代中后期，由于国内抗日战争和经济建设的影响，职业教育思潮",
+            "highlighted_words": [
+              "消失匿迹"
+            ]
+          },
+          {
+            "id": "1-7",
+            "error": "从业务进展、市场开拓方式、成本结构、资本结构到配偶是否支持创业，不一而同。 （应改为“不一而足”）",
+            "analysis": "“不一而足”表示不止一种或一次，而是很多。 三、标点误用 含有月日的专名采用汉字数字表示时，如果涉及一月、十一月、十二月，应用间隔号“· ”将 表示月和日的数字隔开，涉及其他月份时，不用间隔号。",
+            "raw": "【例 1-7】从业务进展、市场开拓方式、成本结构、资本结构到配偶是否支持创业，不一而同。",
+            "highlighted_words": [
+              "不一而同"
+            ]
+          },
+          {
+            "id": "1-8",
+            "error": "1937 年，卢沟桥事变、“八·一三”事变相继爆发，故宫文物分三路向西疏散，存于 乐山、峨眉、安顺及巴县等处。（应改为“八一三”）",
+            "analysis": "",
+            "raw": "【例 1-8】1937 年，卢沟桥事变、“八·一三”事变相继爆发，故宫文物分三路向西疏散，存于",
+            "highlighted_words": [
+              "八·一三"
+            ]
+          },
+          {
+            "id": "1-9",
+            "error": "该片讲述了“九·一八”事变后，东北沦陷，冷云、胡秀之等抗联女战士为抵抗侵 略者献出宝贵生命的故事。（应改为“九一八”）",
+            "analysis": "",
+            "raw": "【例 1-9】该片讲述了“九·一八”事变后，东北沦陷，冷云、胡秀之等抗联女战士为抵抗侵",
+            "highlighted_words": [
+              "九·一八"
+            ]
+          }
+        ]
+      },
+      "理工类": {
+        "entries": [
+          {
+            "id": "2-1",
+            "error": "按照制造业的计算逻辑，毛利率（Gross Profit）=收入－成本，其中的成本就包括服 务成本。[应改为“毛利率（Gross Margin）=（收入－成本）/收入”或“毛利（Gross Profit）=收入 －成本”]",
+            "analysis": "概念差错。毛利是收入与成本的差额；毛利率是毛利与收入的比率，是商业企业中反 映商品销售盈利程度的指标。",
+            "raw": "【例 2-1】按照制造业的计算逻辑，毛利率（Gross Profit）=收入－成本，其中的成本就包括服",
+            "highlighted_words": [
+              "毛利率（Gross Profit）=收入－成本"
+            ]
+          },
+          {
+            "id": "2-2",
+            "error": "TSG D0001—2009《压力管道安全技术监察规程》第一百一十三条规定：凡有以下情 况者，一般应当在管道系统的指定位置设置管道阻火器„„。（应改为“《压力管道安全技术监察规 程——工业管道》第一百三十一条”）",
+            "analysis": "标准名称和条款号差错。 2                                       2     1  1−i",
+            "raw": "【例 2-2】TSG D0001—2009《压力管道安全技术监察规程》第一百一十三条规定：凡有以下情",
+            "highlighted_words": [
+              "《压力管道安全技术监察规程》第一百一十三条"
+            ]
+          },
+          {
+            "id": "2-3",
+            "error": "进行复数四则运算时，注意以下几个常见等式：(1+i) =2i，(1－i) =－2i， = −i， = i， i  1+i 1−i = −i等。（应改为“1+i = i”） 1+i           1−i",
+            "analysis": "公式推导差错。1−i = (1−i)2 = −2i = −i，1+i = (1+i)2 = 2i = i。 1+i 1+i （1−i）  2  1−i 1+i （1−i）                              2",
+            "raw": "【例 2-3】进行复数四则运算时，注意以下几个常见等式：(1+i) =2i，(1－i) =－2i， = −i， = i，",
+            "highlighted_words": [
+              "1+i"
+            ]
+          },
+          {
+            "id": "2-4",
+            "error": "",
+            "analysis": "计算差错。据案例中所给数据，250 家按原价（12000 元）续费，等式中的 120000 应 改为 12000，结果应为 71%。 二、数值差错",
+            "raw": "【例 2-4】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-5",
+            "error": "正五角星的每个内角是 36°，每个外角是 72°。（应改为“108°”）",
+            "analysis": "角度差错。正五角星的外角度数等于正五边形的内角度数，如图所 示，∠3=∠2=（5－2）×180°/5=108°。",
+            "raw": "【例 2-5】正五角星的每个内角是 36°，每个外角是 72°。（应改为“108°”）",
+            "highlighted_words": [
+              "72°"
+            ]
+          },
+          {
+            "id": "2-6",
+            "error": "调光数据：包括 8 位调光信息，00000000 表示 PWM 的占空比为 0%，即为关灯指令； 11111 表示 PWM 的占空比为 100%，即为全亮指令；在最亮和最暗之间包含 256 级灯光亮度。（应改 为“11111111”）",
+            "analysis": "调光数据包括 8 位，11111111 表示 PWM 的占空比为 100%，对应最高亮度级别。",
+            "raw": "【例 2-6】调光数据：包括 8 位调光信息，00000000 表示 PWM 的占空比为 0%，即为关灯指令；",
+            "highlighted_words": [
+              "11111"
+            ]
+          },
+          {
+            "id": "2-7",
+            "error": "恩尼格玛密码机的编码转轮结构相当复杂和精密，通过接线板就可以实现 26 个字母 的 10391791500 种编码可能。（应改为“100391791500”）",
+            "analysis": "根据恩尼格玛密码机的原理，通过接线板可实现的替换可能数为 6!×26 26×25×…×16×15 = 100391791500种。案例中的数字少了 1 个“0”。处理书稿时遇到类似数据需核查确认。 三、不一致性差错",
+            "raw": "【例 2-7】恩尼格玛密码机的编码转轮结构相当复杂和精密，通过接线板就可以实现 26 个字母",
+            "highlighted_words": [
+              "10391791500"
+            ]
+          },
+          {
+            "id": "2-8",
+            "error": "",
+            "analysis": "前后文不一致。案例中“本章小结”的表述与前文不符。",
+            "raw": "【例 2-8】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-9",
+            "error": "",
+            "analysis": "图文中的数值不一致。",
+            "raw": "【例 2-9】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-10",
+            "error": "",
+            "analysis": "图题与图中文字不一致。",
+            "raw": "【例 2-10】",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-11",
+            "error": "",
+            "analysis": "表文不一致。表内容与行文、表题均不符。",
+            "raw": "【例 2-11】",
+            "highlighted_words": []
+          }
+        ]
+      },
+      "外语类": {
+        "entries": [
+          {
+            "id": "3-1",
+            "error": "There are a great many classic works in China that have prevail over centuries and still resonate emotionally with people. （应改为 have prevailed）",
+            "analysis": "本句为定语从句。主句为一般现在时，从句应为现在完成时，故将 have prevail 改为 have prevailed。",
+            "raw": "【例 3-1】There are a great many classic works in China that have prevail over centuries and still",
+            "highlighted_words": [
+              "have prevail"
+            ]
+          },
+          {
+            "id": "3-2",
+            "error": "The digital world have had a profound impact on how data and information are collected, stored, and communicated. （应改为 has had）",
+            "analysis": "本句主语 the digital world 为名词性短语，后面的谓语动词应为单数形式，故将 have had 改为 has had。",
+            "raw": "【例 3-2】The digital world have had a profound impact on how data and information are collected,",
+            "highlighted_words": [
+              "have had"
+            ]
+          },
+          {
+            "id": "3-3",
+            "error": "E-commerce bring convenience to consumers in online shopping, as well as put significant pressure on traditional shopping patterns. （应改为 brings 和 puts）",
+            "analysis": "as well as 是一个常用的并列连词，在本句中用于连接两个谓语动词 bring 和 put，强调 它们之间的并列关系，所以两个动词的时态须保持一致。另外，本句主语 e-commerce 是不可数名 词，谓语动词应为单数形式，故将 bring、put 改为 brings、puts。 二、文字差错",
+            "raw": "【例 3-3】E-commerce bring convenience to consumers in online shopping, as well as put significant",
+            "highlighted_words": [
+              "bring",
+              "put"
+            ]
+          },
+          {
+            "id": "3-4",
+            "error": "Shrinking sea ice forces Polar Bears to spend more time on land, so people and bears can come into conflict. （应改为 polar bears）",
+            "analysis": "polar bears 为非专有名词，在句子中首字母不应大写。",
+            "raw": "【例 3-4】Shrinking sea ice forces Polar Bears to spend more time on land, so people and bears can",
+            "highlighted_words": [
+              "Polar Bears"
+            ]
+          },
+          {
+            "id": "3-5",
+            "error": "It has been dry for such a long time that the forest could burst into fame at any moment. （应改为 flame）",
+            "analysis": "单词录入错误。根据上下文，fame 应改为 flame。",
+            "raw": "【例 3-5】It has been dry for such a long time that the forest could burst into fame at any moment.",
+            "highlighted_words": [
+              "fame"
+            ]
+          },
+          {
+            "id": "3-6",
+            "error": "The results of the two analysis are consistent. （应改为 analyses）",
+            "analysis": "analysis 属于不规则变化的名词，其复数形式为 analyses，需要特殊记忆。",
+            "raw": "【例 3-6】The results of the two analysis are consistent. （应改为 analyses）",
+            "highlighted_words": [
+              "analysis"
+            ]
+          }
+        ]
+      },
+      "读者反馈": {
+        "entries": [
+          {
+            "id": "4-1",
+            "error": "应为“可上九天揽月，可下五洋捉鳖”（出自毛泽东词作《水调歌头·重上井冈山》）。",
+            "analysis": "",
+            "raw": "【例 4-1】应为“可上九天揽月，可下五洋捉鳖”（出自毛泽东词作《水调歌头·重上井冈山》）。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-2",
+            "error": "法条引用错误。第五个条款与第四个条款相同。",
+            "analysis": "",
+            "raw": "【例 4-2】法条引用错误。第五个条款与第四个条款相同。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-3",
+            "error": "答案错误。根据解析，答案应为 B。",
+            "analysis": "",
+            "raw": "【例 4-3】答案错误。根据解析，答案应为 B。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-4",
+            "error": "“次数”单位错误。 二、程序错误",
+            "analysis": "",
+            "raw": "【例 4-4】“次数”单位错误。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-5",
+            "error": "画线处应为换行符 “\\n”。",
+            "analysis": "",
+            "raw": "【例 4-5】画线处应为换行符 “\\n”。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-6",
+            "error": "red 应加双引号。",
+            "analysis": "",
+            "raw": "【例 4-6】red 应加双引号。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-7",
+            "error": "runif（6,0,2）应为在 0~2 之间产生 6 个均匀分布随机数。 三、数值差错",
+            "analysis": "",
+            "raw": "【例 4-7】runif（6,0,2）应为在 0~2 之间产生 6 个均匀分布随机数。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-8",
+            "error": "表中 100%应为 10%。",
+            "analysis": "",
+            "raw": "【例 4-8】表中 100%应为 10%。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-9",
+            "error": "20 应为 30。 四、文字差错",
+            "analysis": "",
+            "raw": "【例 4-9】20 应为 30。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-10",
+            "error": "重复。图中圈出部分应删除。",
+            "analysis": "",
+            "raw": "【例 4-10】重复。图中圈出部分应删除。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-11",
+            "error": "颠倒字。“金融家人们为地”应为“金融家们人为地”。",
+            "analysis": "",
+            "raw": "【例 4-11】颠倒字。“金融家人们为地”应为“金融家们人为地”。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-12",
+            "error": "漏字。“范是”应为“范围是”。",
+            "analysis": "",
+            "raw": "【例 4-12】漏字。“范是”应为“范围是”。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-13",
+            "error": "别字。“杠杠”应为“杠杆”。",
+            "analysis": "",
+            "raw": "【例 4-13】别字。“杠杠”应为“杠杆”。",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-14",
+            "error": "别字。“字符中”应为“字符串”。",
+            "analysis": "",
+            "raw": "【例 4-14】别字。“字符中”应为“字符串”。",
+            "highlighted_words": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "year": "2024",
     "quarter": "Q3",
     "sections": {
       "文科类": {
@@ -3822,351 +4167,6 @@
             "error": "“《香港基本法的》”应为“《香港基本法》的”。",
             "analysis": "",
             "raw": "【例 4-18】“《香港基本法的》”应为“《香港基本法》的”。",
-            "highlighted_words": []
-          }
-        ]
-      }
-    }
-  },
-  {
-    "year": "2024",
-    "quarter": "Q2",
-    "sections": {
-      "文科类": {
-        "entries": [
-          {
-            "id": "1-1",
-            "error": "中国位于亚洲东部、太平洋西岸，是世界第三大国家。（应改为“世界国土面积第三 大国家”）",
-            "analysis": "中国陆地面积约 960 万平方千米，东部和南部大陆海岸线 1.8 万多千米，海域总面积 约 473 万平方千米，国土面积居世界第三位。",
-            "raw": "【例 1-1】中国位于亚洲东部、太平洋西岸，是世界第三大国家。（应改为“世界国土面积第三",
-            "highlighted_words": [
-              "世界第三大国家"
-            ]
-          },
-          {
-            "id": "1-2",
-            "error": "台湾久为原住民聚居之地，虽然宋、元、明曾在此有不同形式的行政建置，17 世纪 又曾有荷兰人、西班牙人等殖民开垦，但总体上未改变原住民散布全岛的原始面貌。（应改为“少数 民族”）",
-            "analysis": "台湾少数民族不称“原住民”，涉及两岸少数民族交流时，可统称为台湾少数民族或称 具体的名称（如“阿美人”），在国家正式文件中仍称为“高山族”。",
-            "raw": "【例 1-2】台湾久为原住民聚居之地，虽然宋、元、明曾在此有不同形式的行政建置，17 世纪",
-            "highlighted_words": [
-              "原住民"
-            ]
-          },
-          {
-            "id": "1-3",
-            "error": "当时的政府无力改变中国“亡国灭种”的民族危机，民族矛盾和阶级矛盾始终是这 一时期的主要矛盾，中国半封建半殖民的社会性质没有改变。（应改为“半殖民地半封建”）",
-            "analysis": "半殖民地半封建社会，作为社会形态（或者社会性质），是马克思主义的概念，中国共 产党将近代中国的社会性质总概括为“半殖民地半封建社会”。 二、乱改成语 国家有关法律法规明确规定，出版物中不得随意更换成语中的文字、变动成语结构或曲解成语 内涵，不得在成语中随意插入网络语言或外国语言文字，不得随意窜改、乱用成语，不得使用或介 绍根据网络语言、仿照成语形式生造的词语。",
-            "raw": "【例 1-3】当时的政府无力改变中国“亡国灭种”的民族危机，民族矛盾和阶级矛盾始终是这",
-            "highlighted_words": [
-              "半封建半殖民"
-            ]
-          },
-          {
-            "id": "1-4",
-            "error": "一篇影评写作，在理想化的状态下，应该呈现出观点、信息和判断，在作者余勇可 佳的情况下，还可以行文得体，耐人寻味。（应改为“余勇可贾”）",
-            "analysis": "“余勇可贾”表示还有剩余力量可以使出来。",
-            "raw": "【例 1-4】一篇影评写作，在理想化的状态下，应该呈现出观点、信息和判断，在作者余勇可",
-            "highlighted_words": [
-              "余勇可"
-            ]
-          },
-          {
-            "id": "1-5",
-            "error": "法律是成文的良知，道德是约定成俗的良知。（应改为“约定俗成”）",
-            "analysis": "“约定俗成”指某种事物的名称或社会习惯是由人们经过长期实践而认定或形成的。",
-            "raw": "【例 1-5】法律是成文的良知，道德是约定成俗的良知。（应改为“约定俗成”）",
-            "highlighted_words": [
-              "约定成俗"
-            ]
-          },
-          {
-            "id": "1-6",
-            "error": "到了 20 世纪 30 年代中后期，由于国内抗日战争和经济建设的影响，职业教育思潮 几乎消失匿迹，生产教育思潮演进为民生教育思潮，而“生产教育”几乎替代了“职业教育”。（应 改为“销声匿迹”）",
-            "analysis": "“销声匿迹”形容隐藏起来或不公开出现。",
-            "raw": "【例 1-6】到了 20 世纪 30 年代中后期，由于国内抗日战争和经济建设的影响，职业教育思潮",
-            "highlighted_words": [
-              "消失匿迹"
-            ]
-          },
-          {
-            "id": "1-7",
-            "error": "从业务进展、市场开拓方式、成本结构、资本结构到配偶是否支持创业，不一而同。 （应改为“不一而足”）",
-            "analysis": "“不一而足”表示不止一种或一次，而是很多。 三、标点误用 含有月日的专名采用汉字数字表示时，如果涉及一月、十一月、十二月，应用间隔号“· ”将 表示月和日的数字隔开，涉及其他月份时，不用间隔号。",
-            "raw": "【例 1-7】从业务进展、市场开拓方式、成本结构、资本结构到配偶是否支持创业，不一而同。",
-            "highlighted_words": [
-              "不一而同"
-            ]
-          },
-          {
-            "id": "1-8",
-            "error": "1937 年，卢沟桥事变、“八·一三”事变相继爆发，故宫文物分三路向西疏散，存于 乐山、峨眉、安顺及巴县等处。（应改为“八一三”）",
-            "analysis": "",
-            "raw": "【例 1-8】1937 年，卢沟桥事变、“八·一三”事变相继爆发，故宫文物分三路向西疏散，存于",
-            "highlighted_words": [
-              "八·一三"
-            ]
-          },
-          {
-            "id": "1-9",
-            "error": "该片讲述了“九·一八”事变后，东北沦陷，冷云、胡秀之等抗联女战士为抵抗侵 略者献出宝贵生命的故事。（应改为“九一八”）",
-            "analysis": "",
-            "raw": "【例 1-9】该片讲述了“九·一八”事变后，东北沦陷，冷云、胡秀之等抗联女战士为抵抗侵",
-            "highlighted_words": [
-              "九·一八"
-            ]
-          }
-        ]
-      },
-      "理工类": {
-        "entries": [
-          {
-            "id": "2-1",
-            "error": "按照制造业的计算逻辑，毛利率（Gross Profit）=收入－成本，其中的成本就包括服 务成本。[应改为“毛利率（Gross Margin）=（收入－成本）/收入”或“毛利（Gross Profit）=收入 －成本”]",
-            "analysis": "概念差错。毛利是收入与成本的差额；毛利率是毛利与收入的比率，是商业企业中反 映商品销售盈利程度的指标。",
-            "raw": "【例 2-1】按照制造业的计算逻辑，毛利率（Gross Profit）=收入－成本，其中的成本就包括服",
-            "highlighted_words": [
-              "毛利率（Gross Profit）=收入－成本"
-            ]
-          },
-          {
-            "id": "2-2",
-            "error": "TSG D0001—2009《压力管道安全技术监察规程》第一百一十三条规定：凡有以下情 况者，一般应当在管道系统的指定位置设置管道阻火器„„。（应改为“《压力管道安全技术监察规 程——工业管道》第一百三十一条”）",
-            "analysis": "标准名称和条款号差错。 2                                       2     1  1−i",
-            "raw": "【例 2-2】TSG D0001—2009《压力管道安全技术监察规程》第一百一十三条规定：凡有以下情",
-            "highlighted_words": [
-              "《压力管道安全技术监察规程》第一百一十三条"
-            ]
-          },
-          {
-            "id": "2-3",
-            "error": "进行复数四则运算时，注意以下几个常见等式：(1+i) =2i，(1－i) =－2i， = −i， = i， i  1+i 1−i = −i等。（应改为“1+i = i”） 1+i           1−i",
-            "analysis": "公式推导差错。1−i = (1−i)2 = −2i = −i，1+i = (1+i)2 = 2i = i。 1+i 1+i （1−i）  2  1−i 1+i （1−i）                              2",
-            "raw": "【例 2-3】进行复数四则运算时，注意以下几个常见等式：(1+i) =2i，(1－i) =－2i， = −i， = i，",
-            "highlighted_words": [
-              "1+i"
-            ]
-          },
-          {
-            "id": "2-4",
-            "error": "",
-            "analysis": "计算差错。据案例中所给数据，250 家按原价（12000 元）续费，等式中的 120000 应 改为 12000，结果应为 71%。 二、数值差错",
-            "raw": "【例 2-4】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-5",
-            "error": "正五角星的每个内角是 36°，每个外角是 72°。（应改为“108°”）",
-            "analysis": "角度差错。正五角星的外角度数等于正五边形的内角度数，如图所 示，∠3=∠2=（5－2）×180°/5=108°。",
-            "raw": "【例 2-5】正五角星的每个内角是 36°，每个外角是 72°。（应改为“108°”）",
-            "highlighted_words": [
-              "72°"
-            ]
-          },
-          {
-            "id": "2-6",
-            "error": "调光数据：包括 8 位调光信息，00000000 表示 PWM 的占空比为 0%，即为关灯指令； 11111 表示 PWM 的占空比为 100%，即为全亮指令；在最亮和最暗之间包含 256 级灯光亮度。（应改 为“11111111”）",
-            "analysis": "调光数据包括 8 位，11111111 表示 PWM 的占空比为 100%，对应最高亮度级别。",
-            "raw": "【例 2-6】调光数据：包括 8 位调光信息，00000000 表示 PWM 的占空比为 0%，即为关灯指令；",
-            "highlighted_words": [
-              "11111"
-            ]
-          },
-          {
-            "id": "2-7",
-            "error": "恩尼格玛密码机的编码转轮结构相当复杂和精密，通过接线板就可以实现 26 个字母 的 10391791500 种编码可能。（应改为“100391791500”）",
-            "analysis": "根据恩尼格玛密码机的原理，通过接线板可实现的替换可能数为 6!×26 26×25×…×16×15 = 100391791500种。案例中的数字少了 1 个“0”。处理书稿时遇到类似数据需核查确认。 三、不一致性差错",
-            "raw": "【例 2-7】恩尼格玛密码机的编码转轮结构相当复杂和精密，通过接线板就可以实现 26 个字母",
-            "highlighted_words": [
-              "10391791500"
-            ]
-          },
-          {
-            "id": "2-8",
-            "error": "",
-            "analysis": "前后文不一致。案例中“本章小结”的表述与前文不符。",
-            "raw": "【例 2-8】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-9",
-            "error": "",
-            "analysis": "图文中的数值不一致。",
-            "raw": "【例 2-9】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-10",
-            "error": "",
-            "analysis": "图题与图中文字不一致。",
-            "raw": "【例 2-10】",
-            "highlighted_words": []
-          },
-          {
-            "id": "2-11",
-            "error": "",
-            "analysis": "表文不一致。表内容与行文、表题均不符。",
-            "raw": "【例 2-11】",
-            "highlighted_words": []
-          }
-        ]
-      },
-      "外语类": {
-        "entries": [
-          {
-            "id": "3-1",
-            "error": "There are a great many classic works in China that have prevail over centuries and still resonate emotionally with people. （应改为 have prevailed）",
-            "analysis": "本句为定语从句。主句为一般现在时，从句应为现在完成时，故将 have prevail 改为 have prevailed。",
-            "raw": "【例 3-1】There are a great many classic works in China that have prevail over centuries and still",
-            "highlighted_words": [
-              "have prevail"
-            ]
-          },
-          {
-            "id": "3-2",
-            "error": "The digital world have had a profound impact on how data and information are collected, stored, and communicated. （应改为 has had）",
-            "analysis": "本句主语 the digital world 为名词性短语，后面的谓语动词应为单数形式，故将 have had 改为 has had。",
-            "raw": "【例 3-2】The digital world have had a profound impact on how data and information are collected,",
-            "highlighted_words": [
-              "have had"
-            ]
-          },
-          {
-            "id": "3-3",
-            "error": "E-commerce bring convenience to consumers in online shopping, as well as put significant pressure on traditional shopping patterns. （应改为 brings 和 puts）",
-            "analysis": "as well as 是一个常用的并列连词，在本句中用于连接两个谓语动词 bring 和 put，强调 它们之间的并列关系，所以两个动词的时态须保持一致。另外，本句主语 e-commerce 是不可数名 词，谓语动词应为单数形式，故将 bring、put 改为 brings、puts。 二、文字差错",
-            "raw": "【例 3-3】E-commerce bring convenience to consumers in online shopping, as well as put significant",
-            "highlighted_words": [
-              "bring",
-              "put"
-            ]
-          },
-          {
-            "id": "3-4",
-            "error": "Shrinking sea ice forces Polar Bears to spend more time on land, so people and bears can come into conflict. （应改为 polar bears）",
-            "analysis": "polar bears 为非专有名词，在句子中首字母不应大写。",
-            "raw": "【例 3-4】Shrinking sea ice forces Polar Bears to spend more time on land, so people and bears can",
-            "highlighted_words": [
-              "Polar Bears"
-            ]
-          },
-          {
-            "id": "3-5",
-            "error": "It has been dry for such a long time that the forest could burst into fame at any moment. （应改为 flame）",
-            "analysis": "单词录入错误。根据上下文，fame 应改为 flame。",
-            "raw": "【例 3-5】It has been dry for such a long time that the forest could burst into fame at any moment.",
-            "highlighted_words": [
-              "fame"
-            ]
-          },
-          {
-            "id": "3-6",
-            "error": "The results of the two analysis are consistent. （应改为 analyses）",
-            "analysis": "analysis 属于不规则变化的名词，其复数形式为 analyses，需要特殊记忆。",
-            "raw": "【例 3-6】The results of the two analysis are consistent. （应改为 analyses）",
-            "highlighted_words": [
-              "analysis"
-            ]
-          }
-        ]
-      },
-      "读者反馈": {
-        "entries": [
-          {
-            "id": "4-1",
-            "error": "应为“可上九天揽月，可下五洋捉鳖”（出自毛泽东词作《水调歌头·重上井冈山》）。",
-            "analysis": "",
-            "raw": "【例 4-1】应为“可上九天揽月，可下五洋捉鳖”（出自毛泽东词作《水调歌头·重上井冈山》）。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-2",
-            "error": "法条引用错误。第五个条款与第四个条款相同。",
-            "analysis": "",
-            "raw": "【例 4-2】法条引用错误。第五个条款与第四个条款相同。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-3",
-            "error": "答案错误。根据解析，答案应为 B。",
-            "analysis": "",
-            "raw": "【例 4-3】答案错误。根据解析，答案应为 B。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-4",
-            "error": "“次数”单位错误。 二、程序错误",
-            "analysis": "",
-            "raw": "【例 4-4】“次数”单位错误。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-5",
-            "error": "画线处应为换行符 “\\n”。",
-            "analysis": "",
-            "raw": "【例 4-5】画线处应为换行符 “\\n”。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-6",
-            "error": "red 应加双引号。",
-            "analysis": "",
-            "raw": "【例 4-6】red 应加双引号。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-7",
-            "error": "runif（6,0,2）应为在 0~2 之间产生 6 个均匀分布随机数。 三、数值差错",
-            "analysis": "",
-            "raw": "【例 4-7】runif（6,0,2）应为在 0~2 之间产生 6 个均匀分布随机数。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-8",
-            "error": "表中 100%应为 10%。",
-            "analysis": "",
-            "raw": "【例 4-8】表中 100%应为 10%。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-9",
-            "error": "20 应为 30。 四、文字差错",
-            "analysis": "",
-            "raw": "【例 4-9】20 应为 30。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-10",
-            "error": "重复。图中圈出部分应删除。",
-            "analysis": "",
-            "raw": "【例 4-10】重复。图中圈出部分应删除。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-11",
-            "error": "颠倒字。“金融家人们为地”应为“金融家们人为地”。",
-            "analysis": "",
-            "raw": "【例 4-11】颠倒字。“金融家人们为地”应为“金融家们人为地”。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-12",
-            "error": "漏字。“范是”应为“范围是”。",
-            "analysis": "",
-            "raw": "【例 4-12】漏字。“范是”应为“范围是”。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-13",
-            "error": "别字。“杠杠”应为“杠杆”。",
-            "analysis": "",
-            "raw": "【例 4-13】别字。“杠杠”应为“杠杆”。",
-            "highlighted_words": []
-          },
-          {
-            "id": "4-14",
-            "error": "别字。“字符中”应为“字符串”。",
-            "analysis": "",
-            "raw": "【例 4-14】别字。“字符中”应为“字符串”。",
             "highlighted_words": []
           }
         ]
@@ -5424,6 +5424,672 @@
             "error": "图中圈出的“甲”应为“乙”。",
             "analysis": "",
             "raw": "【例 4-18】图中圈出的“甲”应为“乙”。",
+            "highlighted_words": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "year": "2025",
+    "quarter": "Q3",
+    "sections": {
+      "文科类": {
+        "entries": [
+          {
+            "id": "1-1",
+            "error": "子曰：“吾生也有涯，而知也无涯。”（可改为“《庄子・养生主》有言”）",
+            "analysis": "“子曰”中的“子”是古代对特定人物的尊称，特指孔子，“曰”即“说”，“子曰”\n的固定含义是“孔子说”。而“吾生也有涯，而知也无涯。”出自《庄子・养生主》。",
+            "highlighted_words": [
+              "《庄子・养生主》有言"
+            ]
+          },
+          {
+            "id": "1-2",
+            "error": "孔子就明确指出“一言可以兴邦，一言可以丧邦”“三寸之舌，强于百万之师”等古\n训，把国之兴亡与舌辩的力量紧密地联系在一起，这充分说明了语言交际的巨大社会功能。（可改为\n“古人有……等训示”）",
+            "analysis": "“三寸之舌，强于百万之师”出自《史记》。",
+            "highlighted_words": []
+          },
+          {
+            "id": "1-3",
+            "error": "《算术书》中记载：“贷钱百，息月三，今贷六十钱，月未盈十六日归，计息几何？”\n（应改为“《算数书》”）",
+            "analysis": "《算数书》是中国早期数学著作，是1983 年底至1984 年初在湖北江陵(今荆州)张家山\n247 号汉墓中出土的一批数学竹简，约190 支完好，因其中的一支有“算数书”三字而得名。 \n二、表述不准确",
+            "highlighted_words": [
+              "《算数书》"
+            ]
+          },
+          {
+            "id": "1-4",
+            "error": "美好生活不仅是指生活水平的提高，更重要的是有天蓝、地绿、水清的良好生态环\n境。以习近平为核心的党中央回应人民对美好生活的向往，提出加快生态文明建设，着力于改善生\n态环境，特别是日益突出的大气污染等严重影响生活质量的环境问题。（应改为“以习近平同志为核\n心的党中央”）",
+            "analysis": "“以习近平同志为核心的党中央”首次出现在十八届六中全会公报中，此后即应使用新\n提法。",
+            "highlighted_words": [
+              "以习近平同志为核\n心的党中央"
+            ]
+          },
+          {
+            "id": "1-5",
+            "error": "人类从蒸汽机时代开始，经过几百年的发展，走过了电气时代、生物科技与产业革\n命时代、工业4.0 时代，进化到数字时代。（应改为“蒸汽时代”）",
+            "analysis": "“蒸汽时代”是第一次工业革命的核心阶段，以“蒸汽动力”这一核心技术革命为标\n志。这里的“蒸汽”并非特指“蒸汽机”这一单一发明，而是涵盖“蒸汽动力的原理、应用及由此\n引发的全产业变革”。",
+            "highlighted_words": [
+              "蒸汽时代"
+            ]
+          },
+          {
+            "id": "1-6",
+            "error": "伴随印刷术时代的没落，电视时代由此启幕，大众使用电视媒介，在某种程度上促\n进了文化变迁。（应改为“印刷时代”）",
+            "analysis": "“印刷时代”指印刷技术普及后，人类信息传播、文化发展的系统性变革阶段，涵盖\n技术应用和社会影响；“印刷术时代”仅聚焦印刷术这一具体工具，忽略了时代的核心特征。 \n三、窜改成语",
+            "highlighted_words": [
+              "印刷时代"
+            ]
+          },
+          {
+            "id": "1-7",
+            "error": "要除掉这样一个对下只会用鞭、对上只会插诨打科的弄臣，只要暗中豢养死士刺杀\n他，或是买通近身侍从毒杀他即可。（应改为“插科打诨”）",
+            "analysis": "插科打诨：指戏曲演员在演出中穿插些滑稽的谈话和动作来引人发笑，现泛指开玩笑\n逗乐。",
+            "highlighted_words": [
+              "插科打诨"
+            ]
+          },
+          {
+            "id": "1-8",
+            "error": "双方关系恶劣的时候必然伴随着吵闹，吵闹的时候人都是不理智的，会把情绪和是\n非带到关系之外的人群之中，有些人还喜欢让领导做主，这就必然会把家务事闹得人尽皆知。（应改\n为“尽人皆知”）",
+            "analysis": "尽人皆知：指所有的人都知道。",
+            "highlighted_words": []
+          },
+          {
+            "id": "1-9",
+            "error": "他在一部宏篇巨著《比较民法的功能》中陈述了他的学说，该书具有导论性质的第\n一卷已经出版。（可改为“鸿篇巨制”）",
+            "analysis": "鸿篇巨制：指篇幅长、规模大的著作。 \n四、词语误用",
+            "highlighted_words": [
+              "鸿篇巨制"
+            ]
+          },
+          {
+            "id": "1-10",
+            "error": "未经他人同意使用他人肖像，即使不以盈利为目的，也可能构成肖像权侵权。（应\n改为“营利”）",
+            "analysis": "“营利”为动词，指谋求利润，用于强调“主观上以谋求利润为目的”；“盈利”为\n名词，指扣除成本后获得的利润，用于描述“客观上获得利润的结果”。",
+            "highlighted_words": []
+          },
+          {
+            "id": "1-11",
+            "error": "OpenAI 推出了ChatGPT，并开发出GPT-4，使ChatGPT 成为最新的热门话题，以\n致涌现许多利用ChatGPT 的新创企业。（应改为“以至”）",
+            "analysis": "“以至”表示递进关系，强调时间、数量、程度等方面的延伸或发展，多用于中性或积\n极的结果。“以致”表示因果关系，强调由于某种原因导致的结果，通常用于消极或不良的结果。",
+            "highlighted_words": [
+              "以至"
+            ]
+          },
+          {
+            "id": "1-12",
+            "error": "我发现一个有趣的现象，学生们会在老师到来之前就早早地进入教室等待上课，如\n果在上课前的最后一刻才进入教室，就会引起别人的侧目。（可改为“注视”）",
+            "analysis": "“侧目”指不敢从正面看，斜着眼睛看，形容畏惧而又愤恨；“注视”指注意地看。 \n \n~ 3 ~",
+            "highlighted_words": [
+              "注视"
+            ]
+          }
+        ]
+      },
+      "理工类": {
+        "entries": [
+          {
+            "id": "2-1",
+            "error": "",
+            "analysis": "术语有误。大语言模型是以大规模文本数据为训练基础、适用于多种任务和应用的预\n训练深度学习模型。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-2",
+            "error": "",
+            "analysis": "术语不规范。支持向量机是通过核映射将低维空间的非线性分类问题转化为高维空间\n的线性分类问题，最大化不同类之间的间隔来获得高学习性能的算法。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-3",
+            "error": "",
+            "analysis": "术语的英文注释有误。prompt injection attack 对应的中文是“提示注入攻击”，位置有\n误，应前移至中文术语后。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-4",
+            "error": "",
+            "analysis": "字母词与中文译名不对应。AI（artificial intelligence）是人工智能，ML（machine learning）\n是机器学习，机器学习是实现人工智能的核心技术路径之一。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-5",
+            "error": "",
+            "analysis": "颠倒字或多字。代码部分（蓝底）的第一行是注释，注释是对代码的解释说明，在程\n序运行时不会被执行。案例中“注释的代码”可改为“代码的注释”或“注释”。 \n~ 4 ~",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-6",
+            "error": "",
+            "analysis": "漏字。关键字是计算机语言里事先定义的、有特别意义的标识符。案例中的def 是Python\n中用于定义函数的关键字。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-7",
+            "error": "",
+            "analysis": "同音别字。案例中的“0：未开启”和“1：开启”对应两种不同的状态。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-8",
+            "error": "",
+            "analysis": "代码注释拼写有误。案例中代码片段第一行是注释，指明了代码文件的名称。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-9",
+            "error": "",
+            "analysis": "中文译名有误。选项DISCOVERY 的中文译名是“发现”。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-10",
+            "error": "",
+            "analysis": "人名拼写有误。案例中的Christain 正确拼写为Christian。革兰氏染色法是以丹麦医生、\n细菌学家Hans Christian Joachim Gram 的姓氏命名的，其姓名通常简写为H. C. J. Gram。 \n二、知识性差错",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-11",
+            "error": "",
+            "analysis": "计算有误。PPI 指每英寸像素数，即图像中每英寸长度内包含的像素点数量。计算图\n像的总像素数时，高度和宽度的PPI 是相同的，案例中都为300。 \n~ 5 ~",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-12",
+            "error": "",
+            "analysis": "概念有误。数据质量中心是一个专注于数据质量全生命周期管理的组织、系统或体系，\n其核心目标是监控、提升和保障数据的质量。案例中将其与数据质量混淆。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-13",
+            "error": "",
+            "analysis": "公式有误。案例中p 和q 分别代表成功（k 取1）和失败（k 取0）的概率（0~1 之间\n的数值），k 和1−k 是指数，不是下标。",
+            "highlighted_words": []
+          }
+        ]
+      },
+      "外语类": {
+        "entries": [
+          {
+            "id": "3-1",
+            "error": "The outcome is highly promising and suggest that walking itself may bolster our \nimaginative thinking. （应改为suggests）",
+            "analysis": "本句中，and 连接了两个并列谓语。根据主谓一致原则，单数主语the outcome 对应的\n谓语动词也应该是单数形式。因此，第二个动词suggest 应改为suggests。",
+            "highlighted_words": []
+          },
+          {
+            "id": "3-2",
+            "error": "Student-centered learning methods have fostered a system of qualitative good teaching that \nbalances academic rigor with holistic development. （应改为qualitatively）",
+            "analysis": "句子中的qualitative 为形容词，不能直接修饰同样为形容词的good。修饰形容词需用\n副词，所以要将qualitative 改为qualitatively。",
+            "highlighted_words": []
+          },
+          {
+            "id": "3-3",
+            "error": "Concerns have been raising that pollution is found in every marine ecosystem. （应改为\nraised）",
+            "analysis": "句子的主语concerns 是动作的承受者，而非动作的发出者，因此需用被动语态，将原\n句中的 raising 修改为 raised。",
+            "highlighted_words": []
+          },
+          {
+            "id": "3-4",
+            "error": "Experts discussed lively about the impact of digital currency on traditional finance.（应改\n为There was a lively discussion among experts）",
+            "analysis": "lively 并非副词，而是一个形容词，意思是“活泼的；充满活力的”，不能用来修饰动\n词discuss。修改时，可以变换句子结构，使之符合语法规则。 \n二、文字差错",
+            "highlighted_words": []
+          },
+          {
+            "id": "3-5",
+            "error": "They kept talking when they were waiting for their luggages. （应改为luggage）",
+            "analysis": "luggage 意为“行李”，在英语中是不可数名词，无论指几件行李，都不能加“-s”变\n为复数。若需强调行李的数量，可搭配量词使用，如 a piece of luggage（一件行李）、two pieces of \nluggage（两件行李）。",
+            "highlighted_words": []
+          },
+          {
+            "id": "3-6",
+            "error": "This river’s water pollution level is similar with that of other urban waterways. （应改为\nto）",
+            "analysis": "本句的错误为介词误用。在英语中，与similar 搭配的固定介词是to，而非with，即be \nsimilar to（与……相似）是唯一正确的表达。",
+            "highlighted_words": []
+          },
+          {
+            "id": "3-7",
+            "error": "Scientists have created a new devise that uses sensors to track soil moisture levels for smart \nfarming. （应改为device）",
+            "analysis": "devise 和device 的拼写相似，经常被混淆，但词性和意思完全不同。device 是名词，\n意为“设备”；devise 是动词，意为“设计”。",
+            "highlighted_words": []
+          }
+        ]
+      },
+      "读者反馈": {
+        "entries": [
+          {
+            "id": "4-1",
+            "error": "人名错误，綦毋怀文，中国南北朝时期的著名冶金家，宿铁刀的发明者。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-2",
+            "error": "单位错误，“深度撞击”号探测器重约380 千克。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-3",
+            "error": "概念性差错，蓝色圈中的“解码者”和“编码者”说法反了。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-4",
+            "error": "年份错误，明正统元年是1436 年，正统四年应为1439 年。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-5",
+            "error": "题目选项错误，A 和C 选项本质一样，C 和D 选项相同。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-6",
+            "error": "数值和单位错误，2.4 亿吨应为24 亿吨，4 万亿吨应为40 亿吨。 \n \n二、程序差错",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-7",
+            "error": "语句中“Wh”应为“What”。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-8",
+            "error": "程序中“b 1”应为“b-1”。 \n \n三、计算差错",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-9",
+            "error": "第五代菌落细菌数量=25−1=24=16。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-10",
+            "error": "结果有误，按算式计算结果应为114。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-11",
+            "error": "分母的“4”应为“2”。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-12",
+            "error": "“log2100”应为“log21000”。 \n \n四、文字差错",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-13",
+            "error": "“中国国”应为“中国”。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-14",
+            "error": "“待色”应为“特色”。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-15",
+            "error": "“政治”应为“政法”。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-16",
+            "error": "“上宽下窄”应为“上窄下宽”。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-17",
+            "error": "“某支”应为“某只”，“涨停价”应为“跌停价”。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-18",
+            "error": "“主要”应为“注意”。",
+            "analysis": "",
+            "highlighted_words": []
+          }
+        ]
+      }
+    }
+  },
+  {
+    "year": "2025",
+    "quarter": "Q4",
+    "sections": {
+      "文科类": {
+        "entries": [
+          {
+            "id": "1-1",
+            "error": "工欲善其事，必先利其器。——荀子（可改为“《论语〃卫灵公》”）",
+            "analysis": "“工欲善其事，必先利其器”出自《论语〃卫灵公》，并非出自荀子的著作。",
+            "highlighted_words": [
+              "《论语〃卫灵公》"
+            ]
+          },
+          {
+            "id": "1-2",
+            "error": "越王勾践卧薪尝胆，终能回国率臣民垦田练兵二十载，使越国富强，会盟称霸。（可\n删除“终能回国”）",
+            "analysis": "据《辞海》，越王勾践曾被吴王夫差击败，屈服求和，入吴为人质三年。回国后，刻\n苦图强，卧薪尝胆，任用范蠡、文种等人，十年生聚，十年教训，终于转弱为强，灭吴国。继在徐\n州(今山东滕州南)大会诸侯，成为霸主。故“卧薪尝胆”应是回国之后。 \n二、引文差错",
+            "highlighted_words": []
+          },
+          {
+            "id": "1-3",
+            "error": "孟子曰：“故天将降大任于斯人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其\n身，行拂乱其所为，所以动心忍性，曾益其所不能。”（应改为“是”）",
+            "analysis": "此句出自《孟子〃告子下》，“是”为代词，表示近指，相当于“这，这个”。",
+            "highlighted_words": [
+              "是"
+            ]
+          },
+          {
+            "id": "1-4",
+            "error": "有事干好事，没事找事干，事事都创新，样样都领先。“耕牛深知夕阳晚，不用扬\n鞭自奋蹄。”要自己勉励自己，自己约束自己，自己激励自己。（应改为“老牛亦解韶光贵，不待\n扬鞭自奋蹄”）",
+            "analysis": "此句出自臧克家的《老黄牛》，常用于赞美主动进取、勤勉自律、珍惜时光的人或精神。",
+            "highlighted_words": [
+              "老牛亦解韶光贵，不待\n扬鞭自奋蹄"
+            ]
+          },
+          {
+            "id": "1-5",
+            "error": "他在《庚戌岁九月中于西田获早稻》一诗中写道：“人生归有道，衣食固其端。孰\n是却不营，而以求自安？”告诫人们要自食其力，勤奋劳动，如果什么事都不做，又怎么能解决自\n己的温饱问题呢？（应改为“孰是都不营”）",
+            "analysis": "“都”表“全、一概”，“孰是都不营”意为“怎么连衣食这件根本事都完全不经营”。 \n~ 2 ~",
+            "highlighted_words": [
+              "孰是都不营"
+            ]
+          },
+          {
+            "id": "1-6",
+            "error": "从“路漫漫其修远兮，吾将上下而求索”的屈大夫到“苟利国家生死以，岂因福祸\n避趋之”的林则徐，从铁人王进喜到“杂交水稻之父”袁隆平，从“两弹元勋”邓稼先到“共和国\n勋章”获得者钟南山，从快递小哥到抗疫中的最美“逆行者”，从普通劳动者到大国工匠，一代代\n华夏儿女无不以劳动和奋斗作为人生幸福的源泉。（应改为“苟利国家生死以，岂因祸福避趋之”）",
+            "analysis": "此句出自林则徐的《赴戍登程口占示家人》，意为“如果对国家有利，即便需要付出\n生命也心甘情愿；岂能因为个人的祸福得失，就选择逃避或趋附”。 \n三、搭配不当",
+            "highlighted_words": [
+              "苟利国家生死以，岂因祸福避趋之"
+            ]
+          },
+          {
+            "id": "1-7",
+            "error": "进入移动互联网和大数据时代，市场竞争激烈、创新迭代、需求多元、圈层崛起，\n人们的思维、价值观和消费习惯有了巨大的变化。这些变化对企业研究市场、满足客户需求提出了\n深刻的要求。",
+            "analysis": "定语“深刻的”与宾语“要求”搭配不当，可改“深刻的”为“更高的”。",
+            "highlighted_words": []
+          },
+          {
+            "id": "1-8",
+            "error": "为了克服事物复杂性的问题，在教学中要注意对同一教学内容在不同的时间、不同\n的情境下，为不同的教学目的，用不同的方式加以呈现。",
+            "analysis": "“克服”与“问题”动宾搭配不当，可改“克服”为“解决”。",
+            "highlighted_words": []
+          },
+          {
+            "id": "1-9",
+            "error": "他们规划并参与了业务、技术及组织等各类转型项目，进而推动业务升级、绩效提\n升与组织变革，最终决定了数字化转型战略目标的实现。",
+            "analysis": "谓语动词“决定”与宾语“数字化转型战略目标的实现”搭配不当，可改“决定”为\n“保障”。",
+            "highlighted_words": []
+          },
+          {
+            "id": "1-10",
+            "error": "他的使命是提醒大家彼此连接且和谐地构成一个圆满、统一的整体，最终抵达内心\n的祥和、平静。",
+            "analysis": "谓语动词“抵达”与宾语“内心的祥和、平静”搭配不当，可改“抵达”为“收获”。 \n \n \n \n \n2025 年文科类书稿常见问题主要集中在字词、语法、引文、内容规范等方面，按图\n书类型梳理如下。 \n（1）教材类：字词差错（多字、漏字，词语误用），语法差错（表意不明、成分\n残缺），引文差错等。  \n（2）社科类：字词差错（多字、别字），引文差错，逻辑差错等。 \n（3）专著类：语法差错（成分残缺、搭配不当），字词差错（别字）等。 \n文科书稿其他典型问题： ① 知识性差错；② 标点符号差错；③ 表述不规范等。 \n~ 3 ~",
+            "highlighted_words": []
+          }
+        ]
+      },
+      "理工类": {
+        "entries": [
+          {
+            "id": "2-1",
+            "error": "",
+            "analysis": "算式有误。例中算式是计算两数之比，在除数和被除数有多个数相加时，需加括号，\n否则按四则运算顺序应先除后加，与原意不符。比如，𝑎+ 𝑏/𝑐+ 𝑑即𝑎+\n𝑏\n𝑐+ 𝑑；(𝑎+ 𝑏)/(𝑐+ 𝑑)即\n𝑎+𝑏\n𝑐+𝑑。\n关于符号和数字印刷方面的规定，可参考《有关量、单位和符号的一般原则》（GB/T 3101—1993）。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-2",
+            "error": "",
+            "analysis": "计算过程有误。例中PSI 的计算有误，自然对数ln 0.5 为负数（ln x 在0＜x＜1 时为负，\nx＞1 时为正，x＜0 时无意义），代入PSI 的算式应为“－1%×（－0.6931）≈0.0069”。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-3",
+            "error": "",
+            "analysis": "表达式有误。例中的指数函数表达式缺少自变量x。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-4",
+            "error": "",
+            "analysis": "公式推导差错。例中，由q1和q2的表达式得 \n𝑞2\n𝑞1 =\n𝑇4−𝑇1\n𝑇3−𝑇2, 故𝜂t = 1 −\n𝑞2\n𝑞1 = 1 −\n𝑇4−𝑇1\n𝑇3−𝑇2。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-5",
+            "error": "",
+            "analysis": "概念不清。平均池化是指取池化窗口内所有值的平均值作为输出来实现数据降维和特\n征提取的池化方法。 \n~ 4 ~",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-6",
+            "error": "",
+            "analysis": "概念差错。文件管理是基于文件系统对各类文件执行操作的过程，文件系统是操作系\n统中负责组织和管理存储设备上文件数据的体系，二者并不等同。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-7",
+            "error": "",
+            "analysis": "概念差错。.wmv 是采用WMV 编码标准压缩的视频文件的标识后缀。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-8",
+            "error": "",
+            "analysis": "标准名称有误。GB/T 22083—2008 的名称是《建筑密封胶分级和要求》。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-9",
+            "error": "",
+            "analysis": "标准混淆。例中混淆了世界卫生组织推荐的成人BMI 标准与我国成人BMI 标准。我国\n成人BMI 标准是原国家卫生和计划生育委员会于2013 年4 月发布的《成人体重判定》（WS/T 428\n—2013），与世界卫生组织推荐标准存在差异。 \n二、数值（数字）差错",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-10",
+            "error": "",
+            "analysis": "注释中数值有误。例中由已知条件和程序均可知x 和y 的取值范围分别为[7，29]和[16,35]\n内的整数，注释应和其保持一致。 \n~ 5 ~ \n \n2025 年理工类图书中的典型差错如下。 \n（1）知识性差错（多见于教材、教辅、专著中） \n①公式、运算或答案差错；②科学性(原理、概念、定义)差错； \n③事实性（时间、数值、名称）差错。 \n（2）名词差错（多见于教材、专著、科技书稿中） \n①专有名词差错：外文名称的译名或拼写差错； \n②术语差错：使用不规范的术语或英文缩写。 \n（3）符号差错（多见于教材、专著中） \n①各学科中的科学符号（如物理量符号）差错；②单位符号差错。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-11",
+            "error": "",
+            "analysis": "题目中数值有误。例中已知p2=0.006MPa，解题时按p2=0.06MPa 计算，故宜将题干中\n的p2值改为0.06MPa。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-12",
+            "error": "",
+            "analysis": "数字有误。例中(10, $) = r4 的意思是：当分析器处于状态10 且下一个前看记号是$时，\n执行归约动作，使用的是第4 个产生式。显然，对应状态12，应为(12, $)= r4。",
+            "highlighted_words": []
+          },
+          {
+            "id": "2-13",
+            "error": "",
+            "analysis": "标准号有误。例中《土地利用现状分类》的标准号是GB/T 21010—2017。 \n \n~ 6 ~",
+            "highlighted_words": []
+          }
+        ]
+      },
+      "外语类": {
+        "entries": [
+          {
+            "id": "3-1",
+            "error": "It’s a connectionless protocol that used primarily for broadcasting messages over a network. \n（应改为that is used）",
+            "analysis": "描述事物的用途或性质时，若主语是行为的接受者，需使用被动语态，所以将that used\n改为that is used。",
+            "highlighted_words": []
+          },
+          {
+            "id": "3-2",
+            "error": "FTP is a standard network protocol used exchanging files over the Internet. （应改为used \nfor）",
+            "analysis": "used for doing something 为固定搭配，意为“被用于做某事”；used for exchanging 是\n省略了which is 的过去分词短语，作protocol 的后置定语。",
+            "highlighted_words": []
+          },
+          {
+            "id": "3-3",
+            "error": "A computer network is a collection of computers and devices interconnected by \ncommunication channels that facilitate communications among users and allows users to share resources. \n（应改为allow）",
+            "analysis": "原句为定语从句，关系代词that 指代的先行词communication channels 是复数形式，\n因此从句的两个并列谓语动词也需保持复数形式。facilitate 的形式正确；allows 为单数形式，应改为\n复数形式allow。",
+            "highlighted_words": []
+          },
+          {
+            "id": "3-4",
+            "error": "IEEE 802.11 and IEEE 802.11x refers to a family of specifications developed by the IEEE \nfor wireless LAN technology. （应改为refer）",
+            "analysis": "句子主语IEEE 802.11 and IEEE 802.11x 是两个并列的名词短语，表示复数概念，因此\n谓语动词需用复数形式 refer，原句的单数形式 refers 不符合语法规则。 \n二、文字差错",
+            "highlighted_words": []
+          },
+          {
+            "id": "3-5",
+            "error": "Two of the best lines were: “Best-clouds swallow the sinking sun. And the bow-moon \nshoots the falling stars.” （应改为Beast）",
+            "analysis": "本句是引用林语堂所译《浮生六记》中的文字。初读似有不妥，经过查验，原文为“兽\n云吞落日，弓月弹流星”。由此可见，Best 为Beast 的笔误。",
+            "highlighted_words": []
+          },
+          {
+            "id": "3-6",
+            "error": "Our lord is too kind-heated a man. （应改为hearted）",
+            "analysis": "kind-heated 为拼写错误。heat 表热量，语义不通。kind-hearted 是复合形容词，意为\n“心地善良的”。本句的语序比较特殊，当程度副词too + adj.修饰单数可数名词时，必须用“too + \nadj. + a/an +单数名词”的结构。 \n~ 7 ~ \n \n2025 年外语类图书中的错误主要集中在如下几个方面。 \n（1）文字差错：英文单词拼写、正斜体、大小写错误，固定搭配中介词误用。 \n（2）语法差错：词性误用，代词误用，主谓不一致，句子成分残缺或搭配不当，被\n动语态误用，并列结构不一致，定语从句错误。 \n（3）知识性差错：讲解及注释错误，术语翻译不准确，习题无逻辑，习题答案错。 \n（4）涉政表述不严谨，照搬西方学术理论，传播西方价值观。",
+            "highlighted_words": []
+          },
+          {
+            "id": "3-7",
+            "error": "But it was not wine that attached him to this apot. It was the charming scenery, which wine \nenabled him to enjoy. （应改为spot）",
+            "analysis": "英文中并无apot 这个单词。经过分析，原句要表达的意思是“醉翁之意不在酒”，apot\n是spot 的笔误。spot 在英文中侧重“特定的、较小的具体地点”，与原文里“亭边饮酒、赏景”的\n场景高度契合。",
+            "highlighted_words": []
+          }
+        ]
+      },
+      "读者反馈": {
+        "entries": [
+          {
+            "id": "4-1",
+            "error": "2025 年末，世界范围内人口上亿的国家有16 个。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-2",
+            "error": "1MB 应等于1024KB。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-3",
+            "error": "mg/d 应为μg/d，1mg（毫克）=1000μg（微克）。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-4",
+            "error": "计算结果应为34.42%。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-5",
+            "error": "式中Δ I 应为Δ V。 \n \n二、数字差错",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-6",
+            "error": "红圈中的第1 个[365]应为[364]。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-7",
+            "error": "1982 年应为1882 年。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-8",
+            "error": "上市时间1953 年应为2019 年。 \n \n三、文字差错",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-9",
+            "error": "“成都”应为“程度”。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-10",
+            "error": "汉语拼音声调位置标错，roū 应为rōu。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-11",
+            "error": "两个红框中的文字内容相同。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-12",
+            "error": "红框中“先进轨道交通装备”与前面内容重复，应为“节能与新能源汽车”。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-13",
+            "error": "6.4 节题下的文字与6.5 节相同，应为“图像作用”的相关内容。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-14",
+            "error": "“东省”应为“山东省”。 \n \n \n \n \n \n四、图表差错",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-15",
+            "error": "红框中的字母O 应为Q。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-16",
+            "error": "表中第2 列的项目应为“石油原油进口/万吨”。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-17",
+            "error": "图中“震”与“艮”的图形相同，“艮”的图形有误，应为☶。 \n \n五、序号差错",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-18",
+            "error": "序号中出现两个（2）。",
+            "analysis": "",
+            "highlighted_words": []
+          },
+          {
+            "id": "4-19",
+            "error": "序号中直接出现2）。 \n \n \n \n附：2025 年样书速查典型问题 \n一、封扉权问题 \n1. CIP 与封扉著作方式不一致，如CIP 是主编，封扉是编著； \n2. 扉页缺少出版地“北京”； \n3. CIP 数据格式欠规范； \n4. 封扉英文书名字母大小写错，外籍作者中译名格式错等； \n5. 封面宣传语存在语法、标点、文字等差错。 \n二、辅文问题 \n1. 全书书眉书名错，如少字、英文单词错误等； \n2.《党的二十大报告》引文差错；  \n3. 目录存在文字、格式差错；  \n4. 文前彩页存在文字差错。 \n三、正文问题 \n1. 书中选用的设计作品不合适； \n2. 二维码说明文字与二维码扫码内容不符； \n3. AI 生成图存在文字乱码、肢体畸形等；  \n4. 地图使用不规范； \n5. 截图中存在不雅表述。",
+            "analysis": "",
             "highlighted_words": []
           }
         ]
